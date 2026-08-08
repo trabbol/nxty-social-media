@@ -352,6 +352,22 @@
    "visual": "Card statica 1080x1350 dark: virgolette oro, 'Non è un addio.' bianco + 'È un nuovo modo di restare vicini.' oro, logo e claim in basso.",
    "cta": "Link in bio",
    "media": "posts/post_0805_nonaddio.jpg"
+  },
+  {
+   "id": 23,
+   "week": 1,
+   "date": "2026-08-08",
+   "day": "Sabato",
+   "time": "17:30",
+   "format": "Statico",
+   "pillar": "Emozioni & Ricordi",
+   "hashtag_set": "C",
+   "title": "Le storie più belle",
+   "caption_en": "The best stories were always hers. 📖\n\nSaturday nights, the whole family around the table, and her voice carrying us somewhere else. With NXTY, those stories can still be told — in her voice.\n\nLink in bio.",
+   "caption_it": "Le storie più belle le raccontava lei. 📖\n\nI sabati sera, la famiglia intorno al tavolo, la sua voce che ci portava altrove. Con NXTY quelle storie possono essere raccontate ancora — con la sua voce.\n\nLink in bio.",
+   "visual": "Card statica 1080x1350 LITE (prima crema del feed): 📖, 'Le storie più belle le raccontava lei.' con 'lei' oro, sub sui sabati sera, logo + kicker 'Può raccontartele ancora'.",
+   "cta": "Link in bio",
+   "media": "posts/post_0808_storie.jpg"
   }
  ]
 }
