@@ -368,6 +368,22 @@
    "visual": "Card statica 1080x1350 LITE (prima crema del feed): 📖, 'Le storie più belle le raccontava lei.' con 'lei' oro, sub sui sabati sera, logo + kicker 'Può raccontartele ancora'.",
    "cta": "Link in bio",
    "media": "posts/post_0808_storie.jpg"
+  },
+  {
+   "id": 24,
+   "week": 2,
+   "date": "2026-08-10",
+   "day": "Lunedì",
+   "time": "18:30",
+   "format": "Reel",
+   "pillar": "Emozioni & Ricordi",
+   "hashtag_set": "B",
+   "title": "Le notifiche che scaldano",
+   "caption_en": "Remember when your phone used to ring like this? 💬\n\nThe good-morning texts, the 'have you eaten?', the goodnight messages. With NXTY, those notifications can light up your screen again — in their words, in their way.\n\nLink in bio.",
+   "caption_it": "Ti ricordi quando il telefono suonava così? 💬\n\nI buongiorno, i 'hai mangiato?', le buonanotte. Con NXTY quelle notifiche possono tornare ad accendere lo schermo — con le sue parole, a modo suo.\n\nLink in bio.",
+   "visual": "Reel ~17s CONCEPT NOTIFICHE: lock screen 21:47 'Nessuna nuova notifica' → 4 notifiche di Nonna si impilano (buongiorno/riunione/copriti/buonanotte) → 'Certe notifiche scaldano. Falle tornare.' → end card.",
+   "cta": "Link in bio",
+   "media": "posts/post_0810_notifiche_reel.mp4"
   }
  ]
 }
