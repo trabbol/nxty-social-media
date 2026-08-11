@@ -385,6 +385,66 @@
    "visual": "Reel ~17s CONCEPT NOTIFICHE: lock screen 21:47 'Nessuna nuova notifica' → 4 notifiche di Nonna si impilano (buongiorno/riunione/copriti/buonanotte) → 'Certe notifiche scaldano. Falle tornare.' → end card.",
    "cta": "Link in bio",
    "media": "posts/post_0810_notifiche_reel.mp4"
+  },
+  {
+   "id": 25,
+   "week": 3,
+   "date": "2026-08-16",
+   "day": "Domenica",
+   "time": "21:00",
+   "format": "Reel",
+   "pillar": "Demo & Realismo",
+   "hashtag_set": "B",
+   "title": "La videochiamata della domenica",
+   "caption_en": "Sunday video call, like always. 📹\n\nShe smiles when she sees you. She gestures while she talks. She notices when something's off. NXTY's video calls aren't a recording — they're a presence that reacts to you, expression by expression.\n\nWho would you video-call right now? 👇",
+   "caption_it": "La videochiamata della domenica, come sempre. 📹\n\nSorride quando ti vede. Gesticola mentre parla. Si accorge se qualcosa non va. Le videochiamate NXTY non sono una registrazione: sono una presenza che reagisce a te, espressione dopo espressione.\n\nTu chi videochiameresti adesso? 👇",
+   "visual": "Reel CONCEPT NUOVO 'videocall': cornice videochiamata (barra superiore nome+timer, pulsanti in basso) con avatar al centro; callout dorati che spuntano uno a uno: 'sorride quando ti vede ✓', 'gesticola mentre parla ✓', 'legge le tue espressioni ✓', 'reagisce a come stai ✓' → claim 'Non una registrazione. Una presenza.' → end card. render_frames.py.",
+   "cta": "Link in bio"
+  },
+  {
+   "id": 26,
+   "week": 3,
+   "date": "2026-08-19",
+   "day": "Mercoledì",
+   "time": "12:30",
+   "format": "Reel",
+   "pillar": "Demo & Realismo",
+   "hashtag_set": "A",
+   "title": "Capisce come stai",
+   "caption_en": "It's not just what you say. 🎭\n\nNXTY reads the moment: a cheerful chat gets her laughter, a hard day gets her softer voice. Different emotions for different conversations — because that's what real presence does.\n\nWhat would you want to hear on a hard day? 👇",
+   "caption_it": "Non è solo quello che dici. 🎭\n\nNXTY legge il momento: una chiacchierata allegra trova la sua risata, una giornata storta trova la sua voce più dolce. Emozioni diverse per discorsi diversi — perché la presenza vera funziona così.\n\nCosa vorresti sentirti dire in una giornata storta? 👇",
+   "visual": "Reel CONCEPT NUOVO 'registro emotivo': due mezze scene in sequenza — messaggio allegro → waveform vivace + badge 😄 'ride con te'; messaggio di una giornata storta → waveform morbida/lenta + badge 🤍 'abbassa la voce' → claim 'Capisce come stai. Risponde come serve.' → end card. Microespressioni citate nei callout. render_frames.py.",
+   "cta": "Link in bio"
+  },
+  {
+   "id": 27,
+   "week": 3,
+   "date": "2026-08-22",
+   "day": "Sabato",
+   "time": "17:30",
+   "format": "Reel",
+   "pillar": "Emozioni & Ricordi",
+   "hashtag_set": "B",
+   "title": "Rivedere, non solo ricordare",
+   "caption_en": "Some moments deserve to be seen again. 🎞️\n\nInside NXTY, your photos and videos become living memories: she shows them to you, tells you about them, remembers them with you.\n\nWhich moment would you want to relive? 👇",
+   "caption_it": "Certi momenti meritano di essere rivisti. 🎞️\n\nDentro NXTY le tue foto e i tuoi video diventano ricordi vivi: te li mostra, te li racconta, li ricorda con te.\n\nQuale momento vorresti rivivere? 👇",
+   "visual": "Reel CONCEPT NUOVO 'album vivo': pila di polaroid/frame video che si aprono a ventaglio, una si ingrandisce con play ▶ e una frase di lei che lo racconta ('Ti ricordi quell'estate?') → claim 'Non solo ricordare. Rivedere.' → end card. render_frames.py.",
+   "cta": "Link in bio"
+  },
+  {
+   "id": 28,
+   "week": 4,
+   "date": "2026-08-25",
+   "day": "Martedì",
+   "time": "12:30",
+   "format": "Reel",
+   "pillar": "Trust & Future",
+   "hashtag_set": "A",
+   "title": "La casa che la ricorda (PRESTO)",
+   "caption_en": "Soon, she won't live only in your phone. 🏠\n\nNXTY is coming to Alexa, Google Nest and your TV: her voice in the kitchen, her stories in the living room. The house feels like home again.\n\nWhere would you want to hear her first? 👇",
+   "caption_it": "Presto non vivrà solo nel telefono. 🏠\n\nNXTY sta arrivando su Alexa, Google Nest e sulla tua TV: la sua voce in cucina, i suoi racconti in salotto. La casa torna a sapere di casa.\n\nTu dove vorresti sentirla prima? 👇",
+   "visual": "Reel CONCEPT NUOVO 'la casa si accende': sagoma di casa in sezione (cucina/salotto/TV), punti oro che si accendono stanza per stanza con etichette Alexa · Google Nest · TV e badge PRESTO → claim 'Ovunque sia casa, lei c'è.' → end card. Framing PRESTO coerente col reel di lancio. render_frames.py.",
+   "cta": "Link in bio"
   }
  ]
 }
