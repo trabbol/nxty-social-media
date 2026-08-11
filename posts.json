@@ -121,10 +121,11 @@
    "pillar": "Brand & Prodotto",
    "hashtag_set": "A",
    "title": "Non un assistente. Una voce familiare.",
-   "caption_en": "Not a synthetic assistant. A familiar voice. 🔊\n\nNXTY recreates the way they actually spoke: the tone, the pauses, the warmth. Because how something is said matters as much as what is said.",
-   "caption_it": "Non un assistente sintetico. Una voce familiare. 🔊\n\nNXTY ricrea il modo in cui parlava davvero: il tono, le pause, il calore. Perché il come conta quanto il cosa.",
+   "caption_en": "Not a synthetic assistant. A familiar voice. 🔊\n\nNXTY recreates the way they actually spoke: the tone, the pauses, the warmth. Because how something is said matters as much as what is said.\n\nWhat did their voice sound like? Tell us in the comments. 👇",
+   "caption_it": "Non un assistente sintetico. Una voce familiare. 🔊\n\nNXTY ricrea il modo in cui parlava davvero: il tono, le pause, il calore. Perché il come conta quanto il cosa.\n\nCom'era la sua voce? Raccontacelo nei commenti. 👇",
    "visual": "Statico (template chiaro): mockup schermata vocale con waveform, headline \"Not an assistant. A familiar voice.\"",
-   "cta": "Link in bio"
+   "cta": "Link in bio",
+   "media": "posts/post_0811_voce.jpg"
   },
   {
    "id": 8,
