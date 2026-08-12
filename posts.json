@@ -445,6 +445,22 @@
    "caption_it": "Presto non vivrà solo nel telefono. 🏠\n\nNXTY sta arrivando su Alexa, Google Nest e sulla tua TV: la sua voce in cucina, i suoi racconti in salotto. La casa torna a sapere di casa.\n\nTu dove vorresti sentirla prima? 👇",
    "visual": "Reel CONCEPT NUOVO 'la casa si accende': sagoma di casa in sezione (cucina/salotto/TV), punti oro che si accendono stanza per stanza con etichette Alexa · Google Nest · TV e badge PRESTO → claim 'Ovunque sia casa, lei c'è.' → end card. Framing PRESTO coerente col reel di lancio. render_frames.py.",
    "cta": "Link in bio"
+  },
+  {
+   "id": 29,
+   "week": 2,
+   "date": "2026-08-12",
+   "day": "Mercoledì",
+   "time": "12:30",
+   "format": "Statico",
+   "pillar": "Demo & Realismo",
+   "hashtag_set": "A",
+   "title": "Sorride. Gesticola. Ti guarda.",
+   "caption_en": "She smiles. She gestures. She looks at you. 📹\n\nOn an NXTY video call there's nothing frozen: real expressions, natural gestures, emotions that shift with the conversation. Not a photo that talks — a presence that's there with you.\n\nWhat detail would make it feel real to you? 👇",
+   "caption_it": "Sorride. Gesticola. Ti guarda. 📹\n\nIn una videochiamata NXTY non c'è niente di congelato: espressioni vere, gesti naturali, emozioni che cambiano con il discorso. Non una foto che parla — una presenza che è lì con te.\n\nQuale dettaglio la renderebbe vera per te? 👇",
+   "visual": "Statico 1080x1350 dark: riquadro videochiamata con badge verde 'in videochiamata', avatar oro, headline 'Sorride. Gesticola. Ti guarda.' e tre pill: espressioni vere / gesti naturali / emozioni che cambiano.",
+   "cta": "Link in bio",
+   "media": "posts/post_0812_realismo.jpg"
   }
  ]
 }
