@@ -217,7 +217,9 @@
    "caption_en": "Not scripted. Not generic. Their way of talking. →\n\nNXTY learns from your real memories: same expressions, same irony, same warmth. This is what a conversation looks like.\n\nSound on 🔊",
    "caption_it": "Niente copione. Niente risposte generiche. Il suo modo di parlare. →\n\nNXTY impara dai vostri ricordi veri: stesse espressioni, stessa ironia, stesso calore. Ecco com'è una conversazione.\n\nAudio on 🔊",
    "visual": "Reel 20–30″: screen recording reale di una chat NXTY (con consenso sui contenuti mostrati) con zoom sui passaggi in cui l'avatar usa espressioni tipiche; sottotitoli.",
-   "cta": "Link in bio → prova"
+   "cta": "Link in bio → prova",
+   "status": "superseded",
+   "note": "Piano luglio superato: 20/8 è giorno post normale (cadenza reel: 16-19-22). Non pubblicare."
   },
   {
    "id": 14,
@@ -419,7 +421,10 @@
    "caption_en": "It's not just what you say. 🎭\n\nNXTY reads the moment: a cheerful chat gets her laughter, a hard day gets her softer voice. Different emotions for different conversations — because that's what real presence does.\n\nWhat would you want to hear on a hard day? 👇",
    "caption_it": "Non è solo quello che dici. 🎭\n\nNXTY legge il momento: una chiacchierata allegra trova la sua risata, una giornata storta trova la sua voce più dolce. Emozioni diverse per discorsi diversi — perché la presenza vera funziona così.\n\nCosa vorresti sentirti dire in una giornata storta? 👇",
    "visual": "Reel CONCEPT NUOVO 'registro emotivo': due mezze scene in sequenza — messaggio allegro → waveform vivace + badge 😄 'ride con te'; messaggio di una giornata storta → waveform morbida/lenta + badge 🤍 'abbassa la voce' → claim 'Capisce come stai. Risponde come serve.' → end card. Microespressioni citate nei callout. render_frames.py.",
-   "cta": "Link in bio"
+   "cta": "Link in bio",
+   "status": "published",
+   "permalink": "https://www.instagram.com/reel/DcO5Fd0gLJ-/",
+   "media": "posts/post_0819_emozioni_reel.mp4"
   },
   {
    "id": 27,
@@ -538,6 +543,22 @@
    "media": "posts/post_0818_fotoparlanti.jpg",
    "status": "published",
    "permalink": "https://www.instagram.com/p/DcL8OaCFdbD/"
+  },
+  {
+   "id": 34,
+   "week": 3,
+   "date": "2026-08-20",
+   "day": "Giovedì",
+   "time": "17:30",
+   "format": "Statico",
+   "pillar": "Realismo & Voce",
+   "hashtag_set": "C",
+   "title": "Nessuno dice il tuo nome come lei.",
+   "caption_it": "Nessuno dice il tuo nome come lei. 🎙️\n\nNon è una voce sintetica che legge un testo: NXTY ricrea le micro-inflessioni, le pause, il sorriso che si sente mentre parla. Per questo la prima cosa che le famiglie chiedono di risentire è quasi sempre un nome.\n\nQual è la parola che riconosceresti tra mille, con la sua voce? 👇",
+   "caption_en": "No one says your name like she does. 🎙️\n\nIt's not a synthetic voice reading a script: NXTY recreates the micro-inflections, the pauses, the smile you can hear as she speaks. That's why the first thing families ask to hear again is almost always a name.\n\nWhich word would you recognize among a thousand, in her voice? 👇",
+   "visual": "Statico 1080x1350 dark: bolla messaggio vocale (play oro + waveform + 0:02) da \"Nonna ❤️\", headline \"Nessuno dice il tuo nome come lei.\"",
+   "cta": "Link in bio",
+   "media": "posts/post_0820_nome.jpg"
   }
  ]
 }
