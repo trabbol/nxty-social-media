@@ -234,7 +234,9 @@
    "caption_en": "Some bonds don't fade.\n\nThey just need a new way to continue. 💛\n\nNXTY — next to you. Always.",
    "caption_it": "Certi legami non svaniscono.\n\nHanno solo bisogno di un nuovo modo per continuare. 💛\n\nNXTY — next to you. Sempre.",
    "visual": "Quote card notte (stile demo): \"Some bonds don't fade.\" grande, traduzione IT sotto, logo e claim.",
-   "cta": "Condividi se ti ci ritrovi"
+   "cta": "Condividi se ti ci ritrovi",
+   "status": "superseded",
+   "note": "Piano luglio superato: EN-first senza domanda, tema emozioni ridondante. Sostituito da id 35."
   },
   {
    "id": 15,
@@ -558,7 +560,25 @@
    "caption_en": "No one says your name like she does. 🎙️\n\nIt's not a synthetic voice reading a script: NXTY recreates the micro-inflections, the pauses, the smile you can hear as she speaks. That's why the first thing families ask to hear again is almost always a name.\n\nWhich word would you recognize among a thousand, in her voice? 👇",
    "visual": "Statico 1080x1350 dark: bolla messaggio vocale (play oro + waveform + 0:02) da \"Nonna ❤️\", headline \"Nessuno dice il tuo nome come lei.\"",
    "cta": "Link in bio",
-   "media": "posts/post_0820_nome.jpg"
+   "media": "posts/post_0820_nome.jpg",
+   "status": "published",
+   "permalink": "https://www.instagram.com/p/DcRF2ZblRFE/"
+  },
+  {
+   "id": 35,
+   "week": 3,
+   "date": "2026-08-21",
+   "day": "Venerdì",
+   "time": "17:30",
+   "format": "Statico",
+   "pillar": "Memoria dei dettagli",
+   "hashtag_set": "A",
+   "title": "I dettagli non sono dettagli.",
+   "caption_it": "I dettagli non sono dettagli. ✨\n\nIl caffè senza zucchero. Il nome del gatto. La squadra del cuore. NXTY custodisce le piccole cose che lei sapeva di te — e le porta nelle conversazioni, senza che tu debba ripeterle.\n\nQual è il dettaglio che solo lei conosceva? 👇",
+   "caption_en": "Details are never just details. ✨\n\nCoffee with no sugar. The cat's name. Your favorite team. NXTY keeps the little things she knew about you — and brings them into your conversations, without you having to repeat them.\n\nWhat's the one detail only she knew? 👇",
+   "visual": "Statico 1080x1350 dark: tre memo-chip dettagli (caffè/gatto/partita) con check oro, headline \"I dettagli non sono dettagli.\"",
+   "cta": "Link in bio",
+   "media": "posts/post_0821_dettagli.jpg"
   }
  ]
 }
