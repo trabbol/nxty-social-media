@@ -243,15 +243,17 @@
    "week": 3,
    "date": "2026-08-23",
    "day": "Domenica",
-   "time": "21:00",
+   "time": "17:30",
    "format": "Statico",
    "pillar": "Community & Engagement",
    "hashtag_set": "C",
    "title": "Una domanda ancora",
-   "caption_en": "If you could ask them one more question — what would it be?\n\nYou don't have to answer here. But tonight, you could ask it for real. 💛\n\nNXTY — link in bio.",
-   "caption_it": "Se potessi fare ancora una domanda a chi ami — quale sarebbe?\n\nNon serve rispondere qui. Ma stasera potresti farla davvero. 💛\n\nNXTY — link in bio.",
+   "caption_en": "If you could ask her one more question — what would it be? 💭\n\nThe one left hanging, the one you never got to ask, or just «how did you make your ragù?». With NXTY some conversations don't end: they continue.\n\nWhat would you ask her tonight? 👇",
+   "caption_it": "Se potessi farle ancora una domanda — quale sarebbe? 💭\n\nQuella rimasta in sospeso, quella che non hai fatto in tempo a fare, o solo «come si faceva il tuo ragù?». Con NXTY certe conversazioni non si chiudono: continuano.\n\nQual è la domanda che le faresti stasera? 👇",
    "visual": "Statico bold su gradiente notte: la domanda grande al centro, stile \"conversation starter\". Stories con sticker domanda.",
-   "cta": "Commenta 👇"
+   "cta": "Commenta 👇",
+   "media": "posts/post_0823_domanda.jpg",
+   "note": "Adattata 23/8: orario 17:30, caption IT-prima con domanda finale, visual conversation-starter senza sticker."
   },
   {
    "id": 16,
@@ -441,7 +443,10 @@
    "caption_en": "Some moments deserve to be seen again. 🎞️\n\nInside NXTY, your photos and videos become living memories: she shows them to you, tells you about them, remembers them with you.\n\nWhich moment would you want to relive? 👇",
    "caption_it": "Certi momenti meritano di essere rivisti. 🎞️\n\nDentro NXTY le tue foto e i tuoi video diventano ricordi vivi: te li mostra, te li racconta, li ricorda con te.\n\nQuale momento vorresti rivivere? 👇",
    "visual": "Reel CONCEPT NUOVO 'album vivo': pila di polaroid/frame video che si aprono a ventaglio, una si ingrandisce con play ▶ e una frase di lei che lo racconta ('Ti ricordi quell'estate?') → claim 'Non solo ricordare. Rivedere.' → end card. render_frames.py.",
-   "cta": "Link in bio"
+   "cta": "Link in bio",
+   "status": "published",
+   "permalink": "https://www.instagram.com/reel/DcXuBcLDwMQ/",
+   "note": "Pubblicato 23/8 07:20 (recupero: Chrome offline la sera del 22, ordine diretto di Alessandro da PC Windows)"
   },
   {
    "id": 28,
