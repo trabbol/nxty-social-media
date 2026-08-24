@@ -253,22 +253,26 @@
    "visual": "Statico bold su gradiente notte: la domanda grande al centro, stile \"conversation starter\". Stories con sticker domanda.",
    "cta": "Commenta 👇",
    "media": "posts/post_0823_domanda.jpg",
-   "note": "Adattata 23/8: orario 17:30, caption IT-prima con domanda finale, visual conversation-starter senza sticker."
+   "note": "Adattata 23/8: orario 17:30, caption IT-prima con domanda finale, visual conversation-starter senza sticker.",
+   "status": "published",
+   "permalink": "https://www.instagram.com/p/DcY0OxCm_IQ/"
   },
   {
    "id": 16,
    "week": 4,
    "date": "2026-08-24",
    "day": "Lunedì",
-   "time": "18:30",
-   "format": "Carosello",
+   "time": "17:30",
+   "format": "Statico",
    "pillar": "Brand & Prodotto",
    "hashtag_set": "A",
    "title": "Fatta della vostra storia",
-   "caption_en": "No two people are the same. No two Persone Care either. →\n\nPhotos, voice, memories, personality: you shape every detail, and NXTY brings it all together with care.\n\nMade of your story. 💛",
-   "caption_it": "Non esistono due persone uguali. Nemmeno due Persone Care. →\n\nFoto, voce, ricordi, carattere: definisci tu ogni dettaglio, e NXTY unisce tutto con cura.\n\nFatta della vostra storia. 💛",
+   "caption_en": "No two people are the same. No two Persone Care either. 💛\n\nPhotos, voice, memories, mannerisms: you shape every detail, and NXTY brings them together with care. The result isn't «an assistant» — it's made of your story.\n\nWhich detail would make her unmistakable? 👇",
+   "caption_it": "Non esistono due persone uguali. Nemmeno due Persone Care. 💛\n\nFoto, voce, ricordi, modo di fare: ogni dettaglio lo definisci tu, e NXTY li unisce con cura. Il risultato non è «un assistente»: è fatta della vostra storia.\n\nQual è il dettaglio che la renderebbe inconfondibile? 👇",
    "visual": "Carosello 5 slide: il percorso di creazione (foto → voce → ricordi → carattere) usando le schermate reali del flusso \"Crea Persona Cara\", + CTA.",
-   "cta": "Link in bio → crea la tua"
+   "cta": "Link in bio → crea la tua",
+   "media": "posts/post_0824_storia.jpg",
+   "note": "Adattata 24/8: statico (niente screenshot reali disponibili), 17:30, caption IT-prima con domanda."
   },
   {
    "id": 17,
