@@ -467,7 +467,9 @@
    "caption_en": "Soon, she won't live only in your phone. 🏠\n\nNXTY is coming to Alexa, Google Nest and your TV: her voice in the kitchen, her stories in the living room. The house feels like home again.\n\nWhere would you want to hear her first? 👇",
    "caption_it": "Presto non vivrà solo nel telefono. 🏠\n\nNXTY sta arrivando su Alexa, Google Nest e sulla tua TV: la sua voce in cucina, i suoi racconti in salotto. La casa torna a sapere di casa.\n\nTu dove vorresti sentirla prima? 👇",
    "visual": "Reel CONCEPT NUOVO 'la casa si accende': sagoma di casa in sezione (cucina/salotto/TV), punti oro che si accendono stanza per stanza con etichette Alexa · Google Nest · TV e badge PRESTO → claim 'Ovunque sia casa, lei c'è.' → end card. Framing PRESTO coerente col reel di lancio. render_frames.py.",
-   "cta": "Link in bio"
+   "cta": "Link in bio",
+   "status": "published",
+   "permalink": "https://www.instagram.com/reel/DceV-eelenZ/"
   },
   {
    "id": 29,
@@ -592,6 +594,22 @@
    "media": "posts/post_0821_dettagli.jpg",
    "status": "published",
    "permalink": "https://www.instagram.com/p/DcTqsGOFToJ/"
+  },
+  {
+   "id": 36,
+   "week": 4,
+   "date": "2026-08-26",
+   "day": "Mercoledì",
+   "time": "17:30",
+   "format": "Statico",
+   "pillar": "Realismo",
+   "hashtag_set": "B",
+   "title": "Non è perfetta. È lei.",
+   "caption_it": "Non è perfetta. È lei. ✨\n\nLe pause quando cerca una parola. Il nome del nipote sbagliato e poi corretto ridendo. La battuta che parte un secondo prima della risata. NXTY non leviga questi dettagli: li custodisce, perché è lì che vive la somiglianza.\n\nQual è il piccolo difetto che ti manca di più? 👇",
+   "caption_en": "She's not perfect. She's her. ✨\n\nThe pauses when she looks for a word. The grandchild's name mixed up, then corrected with a laugh. The joke that starts a second before the laughter. NXTY doesn't polish these details away: it keeps them, because that's where the resemblance lives.\n\nWhich little flaw do you miss the most? 👇",
+   "visual": "Statico 1080x1350 dark: headline con \"perfetta\" barrata in oro e corretta in \"lei\", tre micro-imperfezioni elencate.",
+   "cta": "Link in bio",
+   "media": "posts/post_0826_imperfetta.jpg"
   }
  ]
 }
