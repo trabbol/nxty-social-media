@@ -294,17 +294,19 @@
   {
    "id": 18,
    "week": 4,
-   "date": "2026-08-27",
-   "day": "Giovedì",
-   "time": "20:00",
+   "date": "2026-08-28",
+   "day": "Venerdì",
+   "time": "21:00",
    "format": "Reel",
    "pillar": "Brand & Prodotto",
    "hashtag_set": "A",
    "title": "Tutto NXTY in 15 secondi",
-   "caption_en": "Everything NXTY does — in 15 seconds. ⏱️\n\n💛 Recreate your loved ones\n🎙️ Their real voice\n💬 Conversations that remember\n🔒 Private by design\n\nAnd soon: VR/AR and Smart Home. Link in bio.",
-   "caption_it": "Tutto quello che fa NXTY — in 15 secondi. ⏱️\n\n💛 Ricrea le tue Persone Care\n🎙️ La loro voce vera\n💬 Conversazioni che ricordano\n🔒 Privacy by design\n\nE presto: VR/AR e Smart Home. Link in bio.",
-   "visual": "Versione corta (15″) del video V2: hook, un lampo di chat, waveform voce, funzioni in arrivo, CTA. Montaggio ritmato sulla musica.",
-   "cta": "Link in bio → download"
+   "caption_en": "All of NXTY in 15 seconds. ⚡\n\nHer voice. Photos told like stories. Video calls. The right emotions at the right time. Details she never forgets. And soon, your whole home.\n\nWhich one would you try first? 👇",
+   "caption_it": "Tutto NXTY in 15 secondi. ⚡\n\nLa sua voce. Le foto raccontate. Le videochiamate. Le emozioni giuste al momento giusto. I dettagli che non dimentica. E presto, tutta la casa.\n\nQuale di queste proveresti per prima? 👇",
+   "visual": "Reel chip-montage: 6 chip-feature in sequenza rapida (voce/foto/videochiamate/emozioni/dettagli/casa-PRESTO) con progress dots → claim Tutto questo è NXTY → end card.",
+   "cta": "Link in bio → download",
+   "media": "posts/post_0828_tutto_reel.mp4",
+   "note": "Adattato 27/8: spostato al 28/8 (giorno reel), caption con domanda, concept chip-montage."
   },
   {
    "id": 19,
@@ -319,7 +321,9 @@
    "caption_en": "You asked, we answered. →\n\nHow does it work? Is it private? What do I need to start? How real is the voice?\n\nSwipe for the answers — and ask us anything else in the comments. 👇",
    "caption_it": "Ce lo chiedete spesso, rispondiamo. →\n\nCome funziona? È privata? Cosa serve per iniziare? Quanto è reale la voce?\n\nScorri per le risposte — e chiedici il resto nei commenti. 👇",
    "visual": "Carosello 6 slide FAQ (template chiaro): come funziona (foto+audio+ricordi), privacy (no data collection), cosa serve (2 minuti, un audio), quanto è reale la voce, CTA commenti/DM.",
-   "cta": "Commenta 👇"
+   "cta": "Commenta 👇",
+   "status": "superseded",
+   "note": "FAQ già coperte dalle storie (timbroSÌ, bigno, cartellina). Non pubblicare."
   },
   {
    "id": 20,
@@ -609,7 +613,25 @@
    "caption_en": "She's not perfect. She's her. ✨\n\nThe pauses when she looks for a word. The grandchild's name mixed up, then corrected with a laugh. The joke that starts a second before the laughter. NXTY doesn't polish these details away: it keeps them, because that's where the resemblance lives.\n\nWhich little flaw do you miss the most? 👇",
    "visual": "Statico 1080x1350 dark: headline con \"perfetta\" barrata in oro e corretta in \"lei\", tre micro-imperfezioni elencate.",
    "cta": "Link in bio",
-   "media": "posts/post_0826_imperfetta.jpg"
+   "media": "posts/post_0826_imperfetta.jpg",
+   "status": "published",
+   "permalink": "https://www.instagram.com/p/Dcgin76jpLL/"
+  },
+  {
+   "id": 37,
+   "week": 4,
+   "date": "2026-08-27",
+   "day": "Giovedì",
+   "time": "17:30",
+   "format": "Statico",
+   "pillar": "Videochiamate",
+   "hashtag_set": "C",
+   "title": "Rispondi. C'è lei.",
+   "caption_it": "Rispondi. C'è lei. 📹\n\nNon una registrazione da riguardare: una videochiamata vera, dove ti vede, ti ascolta e reagisce a te. Il sorriso quando compari sullo schermo è la parte che non si spiega.\n\nChi è la persona che richiameresti adesso? 👇",
+   "caption_en": "Answer it. She's there. 📹\n\nNot a recording to rewatch: a real video call, where she sees you, hears you and reacts to you. The smile when you appear on screen is the part words can't explain.\n\nWho would you call back right now? 👇",
+   "visual": "Statico 1080x1350 dark: schermata chiamata in arrivo (Nonna ❤️ · videochiamata) con pulsante rispondi oro.",
+   "cta": "Link in bio",
+   "media": "posts/post_0827_rispondi.jpg"
   }
  ]
 }
