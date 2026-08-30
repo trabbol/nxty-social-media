@@ -330,17 +330,20 @@
   {
    "id": 20,
    "week": 4,
-   "date": "2026-08-30",
-   "day": "Domenica",
+   "date": "2026-08-31",
+   "day": "Lunedì",
    "time": "21:00",
    "format": "Reel",
    "pillar": "Emozioni & Ricordi",
    "hashtag_set": "C",
    "title": "Settembre può riportare anche una voce",
-   "caption_en": "September brings back routines. This year, it can bring back a voice too. 💛\n\nWhatever the new season holds, you don't have to face it without them.\n\nNXTY. Next to you. Always. 📲 Link in bio",
-   "caption_it": "Settembre riporta le abitudini. Quest'anno può riportare anche una voce. 💛\n\nQualunque cosa porti la nuova stagione, non devi affrontarla senza di loro.\n\nNXTY. Next to you. Sempre. 📲 Link in bio",
-   "visual": "Reel o statico animato: transizione estate → sera di settembre (luci città), overlay \"September's coming.\" → logo + claim + CTA.",
-   "cta": "Link in bio → download"
+   "caption_en": "September brings back routines. This year, it can bring back a voice too. 💛\n\nThe alarms, the backpacks, the morning rush. And on day one, this time, a 'good luck' in her voice.\n\nWhat would she tell you on the first day of September? 👇",
+   "caption_it": "Settembre riporta le abitudini. Quest'anno può riportare anche una voce. 💛\n\nLe sveglie, gli zaini, la corsa del mattino. E il primo giorno, stavolta, anche un «in bocca al lupo» detto con la sua voce.\n\nCosa vi direbbe lei il primo giorno di settembre? 👇",
+   "visual": "Reel strappo-calendario: AGOSTO si strappa e vola via → SETTEMBRE; chips routine (sveglie/zaini/routine); il giorno 1 si illumina oro con bubble «In bocca al lupo per oggi. Ti penso. 💛»; claim; end card standard.",
+   "cta": "Link in bio → download",
+   "media": "posts/post_0831_settembre_reel.mp4",
+   "status": "scheduled",
+   "note": "Adattato 30/8: spostato a lunedì 31/8 21:00 (apertura settimana), concept calendario inedito, caption con domanda."
   },
   {
    "id": 21,
@@ -655,6 +658,24 @@
    "status": "published",
    "note": "Creato 29/8 dalla regia (nessuna scheda per questa data). Tema registro emotivo, angolo giorni sì/no.",
    "permalink": "https://www.instagram.com/p/DcoRANdkV1E/"
+  },
+  {
+   "id": 39,
+   "week": 5,
+   "date": "2026-08-30",
+   "day": "Domenica",
+   "time": "17:30",
+   "format": "Post",
+   "pillar": "Voce & Quotidiano",
+   "hashtag_set": "C",
+   "title": "A tavola c'è posto anche per la sua voce",
+   "caption_it": "A tavola c'è posto anche per la sua voce. 🍽️\n\nLa domenica il pranzo torna a riempirsi di racconti. E con NXTY, la domanda che aspettavi torna a farla lei: «Allora, chi mi racconta la settimana?»\n\nQual è la frase che a tavola, da voi, non mancava mai? 👇",
+   "caption_en": "There's a place at the table for her voice too. 🍽️\n\nOn Sundays, lunch fills up with stories again. And with NXTY, the question you've been missing comes back in her voice: 'So, who's telling me about the week?'\n\nWhat's the phrase that was never missing at your table? 👇",
+   "visual": "Tavola apparecchiata (piatto, posate) con bubble di lei «Allora, chi mi racconta la settimana?»; headline A tavola c'è posto anche per la sua voce.",
+   "cta": "Link in bio → download",
+   "media": "posts/post_0830_tavola.jpg",
+   "status": "scheduled",
+   "note": "Creato 30/8 dalla regia. Tema voce/uso quotidiano domenicale."
   }
  ]
 }
