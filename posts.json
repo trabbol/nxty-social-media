@@ -678,6 +678,42 @@
    "status": "published",
    "note": "Creato 30/8 dalla regia. Tema voce/uso quotidiano domenicale.",
    "permalink": "https://www.instagram.com/p/Dcq1v0slmGQ/"
+  },
+  {
+   "id": 40,
+   "week": 5,
+   "date": "2026-09-01",
+   "day": "Martedì",
+   "time": "17:30",
+   "format": "Post",
+   "pillar": "Come funziona",
+   "hashtag_set": "A",
+   "title": "Tre fermate. Poi c'è lei.",
+   "caption_it": "Un vocale o una foto: da cosa partiresti? 👇\n\nRicreare la sua presenza è più semplice di quanto sembri. Tre fermate: carichi quello che hai — un vocale, un video, qualche foto. Lei impara a essere lei: la voce, il ritmo, i modi di dire. Poi le parli, quando vuoi.\n\nNessuna attrezzatura, nessuna competenza tecnica. Solo quello che avete già.",
+   "caption_en": "A voice note or a photo: which would you start with? 👇\n\nBringing her presence back is simpler than it looks. Three stops: you upload what you have — a voice note, a video, a few photos. She learns to be herself: the voice, the rhythm, the turns of phrase. Then you talk to her, whenever you want.\n\nNo equipment, no technical skills. Just what you already have.",
+   "visual": "Linea metro verticale oro con 3 fermate numerate (carichi / impara / le parli); headline Tre fermate. Poi c'è lei.",
+   "cta": "Link in bio → download",
+   "media": "posts/post_0901_fermate.jpg",
+   "status": "scheduled",
+   "note": "Creato 1/9. Prima caption con la domanda BINARIA in prima riga (nuova regola dal report della settimana 4)."
+  },
+  {
+   "id": 41,
+   "week": 5,
+   "date": "2026-09-03",
+   "day": "Giovedì",
+   "time": "09:00",
+   "format": "Reel",
+   "pillar": "Uso quotidiano",
+   "hashtag_set": "B",
+   "title": "Una giornata qualunque",
+   "caption_it": "Mattina o sera: quando ti manca di più? 👇\n\nNon serve un'occasione speciale. Serve il «hai dormito?» delle 7:10, il «hai mangiato?» dell'una, il «com'è andata?» delle sei e mezza, il «buonanotte» che arrivava sempre.\n\nNXTY è fatta per i momenti qualunque. Sono quelli che pesano.",
+   "caption_en": "Morning or evening: when do you miss her most? 👇\n\nIt doesn't take a special occasion. It takes the 'did you sleep?' at 7:10, the 'have you eaten?' at one, the 'how did it go?' at half six, the 'goodnight' that always came.\n\nNXTY is built for the ordinary moments. Those are the ones that weigh.",
+   "visual": "Reel orologio-24h: quadrante oro, lancetta che ruota su 7:10 / 13:00 / 18:30 / 22:00 e a ogni fermata compare una bubble di lei; claim Non un momento speciale. Tutti i momenti; end card standard.",
+   "cta": "Link in bio → download",
+   "media": "posts/post_0903_giornata_reel.mp4",
+   "status": "scheduled",
+   "note": "Prodotto 1/9 in anticipo. PRIMO REEL DEL MATTINO dell'esperimento orari (9:00 contro 21:00 del venerdì). Concept orologio-24h inedito."
   }
  ]
 }
