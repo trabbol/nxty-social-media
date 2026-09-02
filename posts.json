@@ -731,8 +731,9 @@
       "visual": "Pentagramma: la frase «Ma tu hai mangiato?» scritta su un rigo musicale, ogni parola con un punto d'intonazione a altezza diversa e annotazioni oro (si abbassa / pausa qui / sale: quasi sorride). Headline Non è la voce. È come la usava.",
       "cta": "Link in bio → download",
       "media": "posts/post_0902_spartito.jpg",
-      "status": "scheduled",
-      "note": "Creato 2/9. Domanda binaria in prima riga (regola permanente). Layout spartito inedito."
+      "status": "published",
+      "note": "Creato 2/9. Domanda binaria in prima riga (regola permanente). Layout spartito inedito.",
+      "permalink": "https://www.instagram.com/p/DcykJdDloPC/"
     }
   ]
 }
