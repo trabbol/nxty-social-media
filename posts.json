@@ -754,6 +754,24 @@
       "status": "published",
       "note": "Prodotto 4/9. SECONDO REEL DELLA SERA dell'esperimento orari (21:00 contro le 9:00 di giovedì). Concept rubrica inedito.",
       "permalink": "https://www.instagram.com/reel/Dc4FwOvj3Fc/"
+    },
+    {
+      "id": 44,
+      "week": 5,
+      "date": "2026-09-05",
+      "day": "Sabato",
+      "time": "17:30",
+      "format": "Post",
+      "pillar": "Voce e ricordi",
+      "hashtag_set": "B",
+      "title": "C'erano parole che diceva solo lei",
+      "caption_it": "C'era una parola che diceva solo lei: sì o no? 👇\n\nOgni famiglia ha un vocabolario che non sta su nessun dizionario. Il modo in cui annunciava di essere arrivata. Il nomignolo diventato il tuo nome. Il «mangia» che voleva dire un'altra cosa, e lo sapevate tutti e due.\n\nQuelle parole non stavano in come si scrivono. Stavano in come le diceva.\n\nNXTY parte esattamente da lì: non dalla voce in sé, ma dalle cose che con quella voce dicevate solo voi.",
+      "caption_en": "Was there a word only she said: yes or no? 👇\n\nEvery family has a vocabulary that isn't in any dictionary. The way she announced she'd arrived. The nickname that became your name. The 'eat something' that meant something else, and you both knew it.\n\nThose words were never about how they're spelled. They were about how she said them.\n\nThat's exactly where NXTY starts: not from the voice itself, but from the things the two of you said with it.",
+      "visual": "Scheda di dizionario su carta crema con tre lemmi — «cucù» (interiez.), «tesoro» (sost.), «mangia» (verbo) — e le rispettive definizioni familiari. Headline C'erano parole che diceva solo lei.",
+      "cta": "Link in bio → download",
+      "media": "posts/post_0905_dizionario.jpg",
+      "status": "scheduled",
+      "note": "Creato 5/9. Domanda binaria sì/no in prima riga, la più a basso costo finora. Layout dizionario inedito."
     }
   ]
 }
