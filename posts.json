@@ -789,8 +789,9 @@
       "visual": "Tavola vista dall'alto: tre coperti (piatto + posate) su un piano scuro, quello centrale cerchiato d'oro e illuminato, etichettati Tu / Lei / Papà, con la didascalia DOMENICA, ORE 13. Headline Il posto in più non è vuoto.",
       "cta": "Link in bio → download",
       "media": "posts/post_0906_tavola.jpg",
-      "status": "scheduled",
-      "note": "Creato 6/9. Chiude la settimana 5. Domanda binaria sì/no in prima riga. Layout tavola apparecchiata inedito."
+      "status": "published",
+      "note": "Creato 6/9. Chiude la settimana 5. Domanda binaria sì/no in prima riga. Layout tavola apparecchiata inedito.",
+      "permalink": "https://www.instagram.com/p/Dc83V0dFlfx/"
     }
   ]
 }
