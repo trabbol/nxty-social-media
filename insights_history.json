@@ -1,0 +1,77 @@
+{
+ "nota": "Dati ricalcolati il 31/08/2026 direttamente dall'API (like_count attuale per ogni media), dopo l'azzeramento del workspace. I totali possono superare quelli annotati nelle settimane precedenti perche' i like continuano ad arrivare dopo la pubblicazione.",
+ "settimane": [
+  {
+   "settimana": 1,
+   "periodo": "03-09/08",
+   "follower_fine": null,
+   "post": 7,
+   "like": 42,
+   "commenti": 1,
+   "like_medi": 6.0,
+   "reel_n": 2,
+   "reel_like_medi": 5.5,
+   "statici_like_medi": 6.2
+  },
+  {
+   "settimana": 2,
+   "periodo": "10-16/08",
+   "follower_fine": 45,
+   "post": 7,
+   "like": 36,
+   "commenti": 1,
+   "like_medi": 5.14,
+   "reel_n": 3,
+   "reel_like_medi": 6.33,
+   "statici_like_medi": 4.25
+  },
+  {
+   "settimana": 3,
+   "periodo": "17-23/08",
+   "follower_fine": 46,
+   "post": 7,
+   "like": 40,
+   "commenti": 0,
+   "like_medi": 5.71,
+   "reel_n": 2,
+   "reel_like_medi": 6.5,
+   "statici_like_medi": 5.4
+  },
+  {
+   "settimana": 4,
+   "periodo": "24-30/08",
+   "follower_fine": 50,
+   "follower_delta": 4,
+   "follows_da_kit": 0,
+   "post": 7,
+   "like": 32,
+   "commenti": 0,
+   "like_medi": 4.57,
+   "reel_n": 2,
+   "reel_like_medi": 4.5,
+   "statici_like_medi": 4.6,
+   "insights_account": "non disponibili (errore #10: token senza instagram_manage_insights)",
+   "note": "Miglior settimana per crescita follower (+4, contro +1 della W3) ma peggior settimana per like (32, -20% su W3) e terza settimana consecutiva a zero commenti. I reel non sovraperformano piu' i post statici (4,5 contro 4,6 like medi): il reel del 28/8 e' il reel meno apprezzato dal lancio. L'unico reel pubblicato di mattina (23/8, 7 like) resta il migliore del mese dopo quello di lancio. Kit interazione manuale ancora non partito (follows 0)."
+  },
+  {
+   "settimana": 5,
+   "periodo": "31/08-06/09",
+   "follower_fine": 52,
+   "follower_delta": 2,
+   "follows_da_kit": 0,
+   "post": 7,
+   "like": 42,
+   "commenti": 0,
+   "like_medi": 6.0,
+   "reel_n": 3,
+   "reel_like_medi": 6.0,
+   "statici_like_medi": 6.0,
+   "insights_account": "non disponibili (errore #10: token ancora senza instagram_manage_insights)",
+   "esperimenti_chiusi": {
+    "orario_reel": "PARITA'. Reel del mattino (3/9, 9:00) e reel della sera (4/9, 21:00) entrambi a 6 like. Con i serali precedenti a 6 e 5, l'orario non e' una leva: esperimento chiuso, non ripeterlo.",
+    "domanda_binaria_prima_riga": "FALLITO. Sette contenuti consecutivi con domanda binaria in apertura, fino al «si o no» del 5/9. Zero commenti. La regola resta (non fa danno) ma non e' la leva sui commenti."
+   },
+   "note": "Settimana piu' stabile del mese: 42 like su 7 contenuti, migliore di W4 (32) e allineata a W1 (42). Il post dell'1/9 'Tre fermate' e' il miglior contenuto del mese a 8 like. Ma quinta settimana consecutiva a zero commenti e follower quasi fermi (+2). Il 6/9 Alessandro ha chiesto una strategia di acquisizione e un'analisi sulle inserzioni: prodotti due documenti (artifact 'Crescita e inserzioni NXTY' e 'Misurare NXTY'). Diagnosi: 84 pubblicazioni per 6 follower nelle ultime tre settimane, profilo che segue 0 account, kit interazione manuale fermo dal 24/8. Il collo di bottiglia non e' il contenuto ma l'assenza di canali di acquisizione. Alessandro ha deciso di partire dall'SDK e dal pixel."
+  }
+ ]
+}
