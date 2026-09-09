@@ -837,7 +837,7 @@
    "week": 6,
    "date": "2026-09-09",
    "day": "Mercoledì",
-   "time": "—",
+   "time": "17:30",
    "format": "Post",
    "pillar": "Come funziona",
    "hashtag_set": "C",
@@ -847,9 +847,9 @@
    "visual": "Terza variante della presenza umana: figura seduta di spalle al buio, illuminata dall'alone di uno schermo davanti a lei. Sotto, i tre passaggi numerati di come funziona.",
    "cta": "Link in bio → download",
    "media": "posts/post_0909_schermo.jpg",
-   "status": "rimandato",
-   "note": "Tema 'come funziona'. Gestisce l'obiezione piu' comune (serve tanto materiale). Terza scena della presenza umana dopo finestra (7/9) e cucina (8/9). Prodotto e verificato il 9/9 alle 8:45, mai pubblicato: PC di Alessandro scollegato dal bridge per tutta la mattina, quattro tentativi di recupero falliti (9:25, 10:15, 11:05, 12:10). I file restano pronti nel container e su nessuna cartella remota: posts/post_0909_schermo.jpg e le tre storie 0909_*. Recuperabili in qualsiasi momento, il contenuto non e' legato alla data.",
-   "permalink": null
+   "status": "published",
+   "note": "Tema 'come funziona'. Gestisce l'obiezione piu' comune (serve tanto materiale). Terza scena della presenza umana dopo finestra (7/9) e cucina (8/9). Giornata travagliata: prodotto e verificato alle 8:45, poi shell del PC rotta (no Plan9 drive shares) e Chrome scollegato per tutta la mattina, quattro tentativi di recupero falliti, storia delle 10:00 persa. Sbloccato alle 13:35 usando i tool GitKraken al posto di nxty_upload.sh: e' il metodo nuovo, ora in direttiva 13.",
+   "permalink": "https://www.instagram.com/p/DdEl1lolswp/"
   }
  ]
 }
