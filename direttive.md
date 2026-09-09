@@ -29,3 +29,14 @@ Aggiornato: 31/08/2026 (file ricostruito dopo l'azzeramento del workspace cloud 
 11. **Rubrica "La domanda della settimana" (7/9)** — Ogni **lunedi'** il post del feed fa una domanda binaria esplicita e promette la risposta pubblica; ogni **martedi' alle 10:00** la storia mantiene la promessa mostrando cosa e' arrivato nei commenti. Se non arriva nulla, dirlo onestamente e rilanciare — mai inventare statistiche. Nasce per rompere i **0 commenti in 5 settimane**.
 
 12. **Verifica visiva (7/9)** — `Read` su ogni immagine PRIMA di caricarla non e' una formalita': guardare davvero se ci sono buchi neri vuoti, testo illeggibile, elementi tagliati o sagome che non si leggono. Il 7/9 tre render di fila sono stati corretti solo perche' guardati.
+
+13. **Caricamento su GitHub via GitKraken (9/9, IMPORTANTE — sostituisce il metodo PC quando la shell e' rotta)** — Il 9/9 `device_bash` ha smesso di funzionare sul PC di Alessandro (`sandbox-helper: no Plan9 drive shares mounted`): nessuna cartella si monta, quindi `nxty_upload.sh` non e' eseguibile. NON e' un vicolo cieco: i tool **GitKraken** passano da un'altra strada e funzionano lo stesso. Procedura:
+    1. `git_pull` su `C:\Users\fabia\Documents\GitHub\nxty-social-media` (il clone locale resta indietro di parecchi commit);
+    2. `device_commit_files` scrivendo i file **nei percorsi veri del repo** (`posts\...`, `stories\daily\...`, `posts.json`), non in `_upload`;
+    3. `git_add` con l'**elenco esplicito** dei file — mai `_upload/` ne' `_lock_da_cancellare/`;
+    4. `git_commit`, poi `git_push`;
+    5. poll del raw URL dal container fino al 200 (le GET su raw.githubusercontent passano; le **scritture** sull'API GitHub dal container sono bloccate dal proxy, e anche il `git push` dal container e' bloccato perche' il repo non e' nelle sorgenti autorizzate della sessione).
+    Nota: da dentro una pagina Instagram il `fetch` su raw.githubusercontent e' bloccato da CORS — il controllo del 200 va fatto dal container, non da Chrome.
+
+14. **Credenziali (9/9)** — Non chiedere mai le credenziali di Alessandro e non usarle nemmeno se le scrive lui in chat. Non passare token in codice eseguito dentro pagine web di terzi: il classificatore lo blocca, e ha ragione. Il token Meta nelle chiamate Graph e' l'eccezione gia' stabilita e va letto dal file, per intero, mai ricostruito a memoria.
+
