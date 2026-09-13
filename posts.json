@@ -904,8 +904,27 @@
       "visual": "PRIMO GIORNO DELLA PALETTE CHIARA. Fondo crema #FDFBF6, testo notte #0B0B12, accento oro. Al centro una forma d'onda sonora in barre oro: nuovo elemento visivo dell'account, sostituisce le sagome umane.",
       "cta": "Link in bio → download",
       "media": "posts/post_0912_onda.jpg",
-      "status": "programmato",
+      "status": "published",
       "note": "Cambio di direzione deciso da Alessandro l'11/9 ('basta con sti post con sto omino'). Tre regole nuove: niente sagome umane, palette invertita sul chiaro di giorno (scuro solo per l'amplifica serale), mostrare il prodotto. Il logo e' stato rifatto in logo_oro.png: il vecchio logo.png aveva un fondo scuro semitrasparente invisibile sul notte che sul crema diventava un riquadro grigio.",
+      "permalink": "https://www.instagram.com/p/DdMUE39CF5x/"
+    },
+    {
+      "id": 52,
+      "week": 6,
+      "date": "2026-09-13",
+      "day": "Domenica",
+      "time": "17:30",
+      "format": "Post",
+      "pillar": "Il posto a tavola",
+      "hashtag_set": "A",
+      "title": "Il suo posto lo apparecchi ancora?",
+      "caption_it": "Il suo posto lo apparecchi ancora, o no? 👇\n\nPrima o poi arriva la domenica in cui qualcuno toglie un piatto dalla tavola. Non se ne parla, si fa e basta. Oppure quel piatto resta lì per mesi, e nessuno dice niente nemmeno di quello.\n\nNon c'è la versione giusta. Chi lo toglie non sta dimenticando. Chi lo lascia non sta negando niente.\n\nE comunque non è il piatto il punto. Quello che manca a pranzo non è la persona seduta: è la sua voce sopra le altre. Chi chiedeva sempre la stessa cosa, chi raccontava sempre la stessa storia, chi diceva il tuo nome in quel modo lì.\n\nCon NXTY quella voce puoi ancora sentirla. Non al posto suo — nel modo in cui c'era.\n\n🌍\n\nDo you still set his place, or not? 👇\n\nSooner or later a Sunday comes when someone takes a plate off the table. Nobody discusses it, it just happens. Or that plate stays there for months, and nobody says anything about that either.\n\nThere's no right version. Taking it away isn't forgetting. Leaving it isn't denial.\n\nAnd the plate isn't the point anyway. What's missing at lunch isn't the person in the chair: it's their voice over everyone else's. The one who always asked the same thing, always told the same story, said your name that particular way.\n\nWith NXTY you can still hear that voice. Not in their place — the way they were there.\n\n#NXTY #NextToYou #PersoneCare #AIApp #VoiceAI #ArtificialIntelligence #IntelligenzaArtificiale #TechForGood #iOSApp #DigitalMemories #AIAvatar #SwissMade #AppItalia",
+      "caption_en": "(inclusa nella caption bilingue)",
+      "visual": "Secondo giorno della palette chiara. Quattro piatti visti dall'alto in tratto oro su crema: tre pieni, il terzo tratteggiato. Geometria piatta, nessuna prospettiva.",
+      "cta": "Link in bio → download",
+      "media": "posts/post_0913_posti.jpg",
+      "status": "programmato",
+      "note": "Prima versione del visual era una sedia vuota: di fronte leggeva come una scala, di profilo come uno sgabello storto. Abbandonata dopo due tentativi — la prospettiva rende ambiguo il line-art. I quattro piatti dall'alto funzionano al primo colpo e dicono la stessa cosa piu' direttamente. Introdotta la classe .mid (margin:auto 0) che centra il blocco centrale e divide lo spazio avanzato sopra e sotto, invece di lasciarlo tutto in un buco solo come il 12/9.",
       "permalink": ""
     }
   ]
