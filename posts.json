@@ -923,8 +923,27 @@
       "visual": "Secondo giorno della palette chiara. Quattro piatti visti dall'alto in tratto oro su crema: tre pieni, il terzo tratteggiato. Geometria piatta, nessuna prospettiva.",
       "cta": "Link in bio → download",
       "media": "posts/post_0913_posti.jpg",
-      "status": "programmato",
+      "status": "published",
       "note": "Prima versione del visual era una sedia vuota: di fronte leggeva come una scala, di profilo come uno sgabello storto. Abbandonata dopo due tentativi — la prospettiva rende ambiguo il line-art. I quattro piatti dall'alto funzionano al primo colpo e dicono la stessa cosa piu' direttamente. Introdotta la classe .mid (margin:auto 0) che centra il blocco centrale e divide lo spazio avanzato sopra e sotto, invece di lasciarlo tutto in un buco solo come il 12/9.",
+      "permalink": "https://www.instagram.com/p/DdO40bsFgn-/"
+    },
+    {
+      "id": 53,
+      "week": 7,
+      "date": "2026-09-14",
+      "day": "Lunedì",
+      "time": "17:30",
+      "format": "Post",
+      "pillar": "La domanda della settimana",
+      "hashtag_set": "B",
+      "title": "Le faresti una domanda, o la lasceresti parlare?",
+      "caption_it": "Le faresti una domanda, o la lasceresti parlare? 👇\n\nDieci minuti. La sua voce, adesso, che risponde a quello che le dici tu.\n\nC'è chi sa già cosa chiederebbe: una cosa rimasta sospesa, una risposta che serviva e non è arrivata in tempo. E c'è chi non chiederebbe niente — vorrebbe solo risentirla parlare, anche di niente, anche del traffico.\n\nNon è una domanda retorica e non c'è una risposta migliore dell'altra. Sono due bisogni diversi, e chi sceglie di ascoltare non ha meno da dire.\n\nScrivi la tua nei commenti, se ti va. Anche solo una parola.\n\n🌍\n\nWould you ask her a question, or let her talk? 👇\n\nTen minutes. Her voice, now, answering what you say to it.\n\nSome people already know what they'd ask: something left hanging, an answer that was needed and didn't arrive in time. And some would ask nothing at all — they'd just want to hear her talk again, about anything, about the traffic.\n\nIt isn't a rhetorical question and there's no better answer. They're two different needs, and choosing to listen doesn't mean having less to say.\n\nWrite yours in the comments, if you like. Even one word.\n\n#NXTY #NextToYou #PersoneCare #FamilyMemories #Ricordi #LovedOnes #MemoriesForever #VoceFamiliare #Famiglia #EmotionalConnection #StayConnected #FamilyFirst #TiVoglioBene",
+      "caption_en": "(inclusa nella caption bilingue)",
+      "visual": "Terzo giorno della palette chiara. Due fumetti in tratto oro su crema: a sinistra un punto interrogativo, a destra una forma d'onda. Percorso SVG unico bolla+coda per non far vedere la giunzione.",
+      "cta": "Link in bio → download",
+      "media": "posts/post_0914_bolle.jpg",
+      "status": "programmato",
+      "note": "Giornata recuperata: nessuna regia era armata per il 14/9 (il report doveva riarmare da martedi'), quindi la prima storia slitta dalle 10:00 alle 11:30. Tolta la promessa 'domani pubblico le risposte' dalla rubrica: dopo sei settimane a zero commenti una promessa pubblica ripetuta e poi disattesa fa piu' danno dell'invito semplice.",
       "permalink": ""
     }
   ]
