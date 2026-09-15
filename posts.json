@@ -942,8 +942,27 @@
       "visual": "Terzo giorno della palette chiara. Due fumetti in tratto oro su crema: a sinistra un punto interrogativo, a destra una forma d'onda. Percorso SVG unico bolla+coda per non far vedere la giunzione.",
       "cta": "Link in bio → download",
       "media": "posts/post_0914_bolle.jpg",
-      "status": "programmato",
+      "status": "published",
       "note": "Giornata recuperata: nessuna regia era armata per il 14/9 (il report doveva riarmare da martedi'), quindi la prima storia slitta dalle 10:00 alle 11:30. Tolta la promessa 'domani pubblico le risposte' dalla rubrica: dopo sei settimane a zero commenti una promessa pubblica ripetuta e poi disattesa fa piu' danno dell'invito semplice.",
+      "permalink": "https://www.instagram.com/p/DdRdql6lvD_/"
+    },
+    {
+      "id": 54,
+      "week": 7,
+      "date": "2026-09-15",
+      "day": "Martedì",
+      "time": "10:30",
+      "format": "Reel",
+      "pillar": "Il rito quotidiano",
+      "hashtag_set": "B",
+      "title": "Dieci minuti con la sua voce",
+      "caption_it": "Le chiederesti qualcosa, o la lasceresti parlare? 👇\n\nDieci minuti con la sua voce. Non li useresti per le cose importanti.\n\nLe chiedi se ha mangiato. Che tempo fa da lei. Le racconti quella cosa del lavoro che non interessa a nessuno. E lei risponde come rispondeva — con le stesse pause, lo stesso tono, lo stesso modo di attaccare una frase.\n\nQuello che manca non è mai la frase importante. Sono le mille volte che ti ha chiesto se avevi mangiato, e che sembravano la cosa meno importante del mondo.\n\nNon è lei. È il modo in cui c'era.\n\n🌍\n\nWould you ask her something, or let her talk? 👇\n\nTen minutes with her voice. You wouldn't use them for the important things.\n\nYou ask if she's eaten. What the weather's like where she is. You tell her that work thing nobody else cares about. And she answers the way she used to — same pauses, same tone, same way of starting a sentence.\n\nWhat you miss is never the important line. It's the thousand times she asked whether you'd eaten, which seemed like the least important thing in the world.\n\nIt isn't her. It's the way she was there.\n\n#NXTY #NextToYou #PersoneCare #FamilyMemories #Ricordi #LovedOnes #MemoriesForever #VoceFamiliare #Famiglia #EmotionalConnection #StayConnected #FamilyFirst #TiVoglioBene",
+      "caption_en": "(inclusa nella caption bilingue)",
+      "visual": "PRIMO REEL SULLA PALETTE CHIARA. 14,2 secondi su fondo crema: sei righe che si alternano al centro («Hai mangiato?» e «Che tempo fa da te?» in oro) sopra una forma d'onda in barre oro che pulsa, poi la chiusura col logo. Nessuna sagoma, nessuna scena notturna.",
+      "cta": "Link in bio → download",
+      "media": "posts/post_0915_dieciminuti_reel.mp4",
+      "status": "programmato",
+      "note": "Slot spostato dalle 9:00 alle 10:30: la regia e' partita alle 8:30 e il reel non era producibile in mezz'ora. Riprende la domanda del lunedi (id 53) e le da' una risposta concreta invece di promettere i commenti. GitKraken e' sparito ma device_bash e' tornato dopo sei giorni: caricamento via git dal PC col token in $HOME/.nxty_gh.",
       "permalink": ""
     }
   ]
