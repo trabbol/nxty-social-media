@@ -997,6 +997,37 @@
       ],
       "pubblicato": "2026-09-16T17:01:34+0000",
       "nota": "Slot 15:30Z saltato: estensione Chrome irraggiungibile per ~1h30. Pubblicato al 4o ritentativo."
+    },
+    {
+      "id": 56,
+      "data": "2026-09-17",
+      "giorno": "Giovedi",
+      "ora": "17:30",
+      "tipo": "post",
+      "tema": "realismo e tecnologia - la voce perfetta non e' la sua",
+      "hashtag_set": "B",
+      "immagine": "posts/daily/post_0917_56.jpg",
+      "caption": "Preferiresti che fosse perfetta, o che sbagliasse come sbagliava lei? 👇\n\nUna voce sintetica pulita è la parte facile. Sale e scende sempre uguale, non esita, non si interrompe, non ricomincia una frase a metà.\n\nE non somiglia a nessuno.\n\nPerché quello che riconosci di una persona non sono le parole giuste. È il respiro prima di rispondere. Il modo in cui si mangiava una sillaba quando era stanca. Quella parola che pronunciava sbagliata e non ha mai corretto.\n\nNXTY lavora su questo: non su una voce corretta, ma sulla sua.\n\nNon è lei. È il modo in cui c'era.\n\n🌍\n\nWould you want it perfect, or wrong in the way she was wrong? 👇\n\nA clean synthetic voice is the easy part. It rises and falls the same way every time, never hesitates, never breaks off, never restarts a sentence halfway.\n\nAnd it sounds like nobody.\n\nBecause what you recognise in a person isn't the right words. It's the breath before answering. The way she swallowed a syllable when she was tired. That one word she always pronounced wrong and never fixed.\n\nThat's what NXTY works on: not a correct voice, but hers.\n\nIt's not her. It's the way she was there.\n\n#NXTY #NextToYou #PersoneCare #FamilyMemories #Ricordi #LovedOnes #MemoriesForever #VoceFamiliare #Famiglia #EmotionalConnection #StayConnected #FamilyFirst #TiVoglioBene",
+      "permalink": null,
+      "media_id": null,
+      "storie": [
+        {
+          "ora": "10:00",
+          "nome": "sottolineato",
+          "file": "stories/daily/0917_1000_sottolineato.jpg"
+        },
+        {
+          "ora": "15:00",
+          "nome": "mattinasera",
+          "file": "stories/daily/0917_1500_mattinasera.jpg"
+        },
+        {
+          "ora": "20:30",
+          "nome": "duevoci",
+          "file": "stories/daily/0917_2030_duevoci.jpg",
+          "amplifica": true
+        }
+      ]
     }
   ]
 }
