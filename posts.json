@@ -1008,8 +1008,8 @@
       "hashtag_set": "B",
       "immagine": "posts/daily/post_0917_56.jpg",
       "caption": "Preferiresti che fosse perfetta, o che sbagliasse come sbagliava lei? 👇\n\nUna voce sintetica pulita è la parte facile. Sale e scende sempre uguale, non esita, non si interrompe, non ricomincia una frase a metà.\n\nE non somiglia a nessuno.\n\nPerché quello che riconosci di una persona non sono le parole giuste. È il respiro prima di rispondere. Il modo in cui si mangiava una sillaba quando era stanca. Quella parola che pronunciava sbagliata e non ha mai corretto.\n\nNXTY lavora su questo: non su una voce corretta, ma sulla sua.\n\nNon è lei. È il modo in cui c'era.\n\n🌍\n\nWould you want it perfect, or wrong in the way she was wrong? 👇\n\nA clean synthetic voice is the easy part. It rises and falls the same way every time, never hesitates, never breaks off, never restarts a sentence halfway.\n\nAnd it sounds like nobody.\n\nBecause what you recognise in a person isn't the right words. It's the breath before answering. The way she swallowed a syllable when she was tired. That one word she always pronounced wrong and never fixed.\n\nThat's what NXTY works on: not a correct voice, but hers.\n\nIt's not her. It's the way she was there.\n\n#NXTY #NextToYou #PersoneCare #FamilyMemories #Ricordi #LovedOnes #MemoriesForever #VoceFamiliare #Famiglia #EmotionalConnection #StayConnected #FamilyFirst #TiVoglioBene",
-      "permalink": null,
-      "media_id": null,
+      "permalink": "https://www.instagram.com/p/DdZL_8im5pC/",
+      "media_id": "18096802892442315",
       "storie": [
         {
           "ora": "10:00",
@@ -1025,6 +1025,40 @@
           "ora": "20:30",
           "nome": "duevoci",
           "file": "stories/daily/0917_2030_duevoci.jpg",
+          "amplifica": true
+        }
+      ],
+      "pubblicato": "2026-09-17T15:31:19+0000"
+    },
+    {
+      "id": 57,
+      "data": "2026-09-18",
+      "giorno": "Venerdi",
+      "ora": "17:30",
+      "tipo": "reel",
+      "tema": "volevo solo sentirti - le cose da niente",
+      "hashtag_set": "C",
+      "video": "reels/reel_0918_57.mp4",
+      "durata_ms": 15600,
+      "caption": "La chiamavi per dirle qualcosa, o per sentirla e basta? 👇\n\nHo cambiato lavoro. Ho traslocato, finalmente. Ho rifatto la tua torta e non mi viene come a te.\n\nNessuna di queste cose era urgente. Nessuna valeva davvero una telefonata.\n\nEppure le telefonate che mancano di più sono proprio quelle che non servivano a niente. Quelle in cui parlavate del più e del meno e poi riattaccavi senza esservi detti niente di importante.\n\nNXTY non serve a recuperare le cose importanti. Quelle te le ricordi.\n\nServe per le altre.\n\n🌍\n\nDid you call her to tell her something, or just to hear her voice? 👇\n\nI changed jobs. I finally moved. I made your cake again and it still doesn't come out like yours.\n\nNone of it was urgent. None of it was really worth a phone call.\n\nAnd yet the calls you miss most are exactly the ones that served no purpose. The ones where you talked about nothing and hung up without having said anything important.\n\nNXTY isn't for the important things. You remember those.\n\nIt's for the rest.\n\n#NXTY #NextToYou #PersoneCare #FamilyTime #Nostalgia #MomentiVeri #CherishEveryMoment #LifeMoments #VitaQuotidiana #Connessione #HeartfeltMoments #PensieriDelCuore #SummerNights",
+      "permalink": null,
+      "media_id": null,
+      "storie": [
+        {
+          "ora": "10:00",
+          "nome": "lontano",
+          "file": "stories/daily/0918_1000_lontano.jpg"
+        },
+        {
+          "ora": "15:00",
+          "nome": "elenco",
+          "file": "stories/daily/0918_1500_elenco.jpg",
+          "teaser": true
+        },
+        {
+          "ora": "20:30",
+          "nome": "solosentirti",
+          "file": "stories/daily/0918_2030_solosentirti.jpg",
           "amplifica": true
         }
       ]
