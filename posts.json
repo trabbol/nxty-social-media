@@ -1041,8 +1041,8 @@
       "video": "reels/reel_0918_57.mp4",
       "durata_ms": 15600,
       "caption": "La chiamavi per dirle qualcosa, o per sentirla e basta? 👇\n\nHo cambiato lavoro. Ho traslocato, finalmente. Ho rifatto la tua torta e non mi viene come a te.\n\nNessuna di queste cose era urgente. Nessuna valeva davvero una telefonata.\n\nEppure le telefonate che mancano di più sono proprio quelle che non servivano a niente. Quelle in cui parlavate del più e del meno e poi riattaccavi senza esservi detti niente di importante.\n\nNXTY non serve a recuperare le cose importanti. Quelle te le ricordi.\n\nServe per le altre.\n\n🌍\n\nDid you call her to tell her something, or just to hear her voice? 👇\n\nI changed jobs. I finally moved. I made your cake again and it still doesn't come out like yours.\n\nNone of it was urgent. None of it was really worth a phone call.\n\nAnd yet the calls you miss most are exactly the ones that served no purpose. The ones where you talked about nothing and hung up without having said anything important.\n\nNXTY isn't for the important things. You remember those.\n\nIt's for the rest.\n\n#NXTY #NextToYou #PersoneCare #FamilyTime #Nostalgia #MomentiVeri #CherishEveryMoment #LifeMoments #VitaQuotidiana #Connessione #HeartfeltMoments #PensieriDelCuore #SummerNights",
-      "permalink": null,
-      "media_id": null,
+      "permalink": "https://www.instagram.com/reel/Ddbw4qaDWvr/",
+      "media_id": "17937514482369505",
       "storie": [
         {
           "ora": "10:00",
@@ -1059,6 +1059,38 @@
           "ora": "20:30",
           "nome": "solosentirti",
           "file": "stories/daily/0918_2030_solosentirti.jpg",
+          "amplifica": true
+        }
+      ],
+      "pubblicato": "2026-09-18T15:32:29+0000"
+    },
+    {
+      "id": 58,
+      "data": "2026-09-19",
+      "giorno": "Sabato",
+      "ora": "17:30",
+      "tipo": "post",
+      "tema": "voce e ricordi - il mosaico a cui mancano pezzi",
+      "hashtag_set": "A",
+      "immagine": "posts/daily/post_0919_58.jpg",
+      "caption": "La sua voce sapresti rifarla, o solo riconoscerla? 👇\n\nProva adesso, mentalmente. Non viene. Sai che era la sua, la riconosceresti fra mille, ma non riesci a rimetterla insieme.\n\nUn ricordo non è un file che riapri uguale. È un mosaico a cui, col tempo, manca qualche pezzo. E non sai nemmeno cosa se ne vada per primo: il timbro, le parole, o il modo in cui le diceva.\n\nI vocali che hai ancora sul telefono sono le tessere che non si sono perse.\n\nNon è lei. È il modo in cui c'era.\n\n🌍\n\nCould you do her voice, or only recognise it? 👇\n\nTry it now, in your head. It doesn't come. You know it was hers, you'd recognise it among a thousand, but you can't put it back together.\n\nA memory isn't a file you reopen unchanged. It's a mosaic missing a few pieces, and you don't even know what goes first: the timbre, the words, or the way she said them.\n\nThe voice notes still on your phone are the tiles that didn't get lost.\n\nIt's not her. It's the way she was there.\n\n#NXTY #NextToYou #PersoneCare #AIApp #VoiceAI #ArtificialIntelligence #IntelligenzaArtificiale #TechForGood #iOSApp #DigitalMemories #AIAvatar #SwissMade #AppItalia",
+      "permalink": null,
+      "media_id": null,
+      "storie": [
+        {
+          "ora": "10:00",
+          "nome": "raccontate",
+          "file": "stories/daily/0919_1000_raccontate.jpg"
+        },
+        {
+          "ora": "15:00",
+          "nome": "cosanon",
+          "file": "stories/daily/0919_1500_cosanon.jpg"
+        },
+        {
+          "ora": "20:30",
+          "nome": "mosaico",
+          "file": "stories/daily/0919_2030_mosaico.jpg",
           "amplifica": true
         }
       ]
