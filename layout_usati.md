@@ -1,6 +1,6 @@
 # Layout e grammatiche gia' usati — @nxty_app
 
-Aggiornato: 21/09/2026. **Leggere questo file prima di scegliere il nome e il layout di ogni storia.**
+Aggiornato: 22/09/2026. **Leggere questo file prima di scegliere il nome e il layout di ogni storia.**
 Un nome in questo elenco significa che quel layout e' gia' andato in onda: non si rifa'.
 
 ## Nomi storia gia' usati (vietati)
@@ -14,7 +14,7 @@ perimetro, schermo, inarrivo, filo, riflesso, campo, attesa, finestrino, primomi
 onda, nastro, ripeterisponde, controluce, posti, rumore, ora, sottosera, bolle, virgolette,
 duestrade, notturna, primopiano, ripetute, nottata, dettagli, prossime, duebarre, sottolineato,
 mattinasera, duevoci, lontano, elenco, solosentirti, raccontate, cosanon, mosaico,
-**registra, sponde, frasi, quotidiano, cosaserve, archivio**
+**registra, sponde, frasi, quotidiano, cosaserve, archivio, quale, domande, ilmodo**
 
 ## Grammatiche visive, in ordine di comparsa (non ripetere a distanza ravvicinata)
 
@@ -25,6 +25,8 @@ mattinasera, duevoci, lontano, elenco, solosentirti, raccontate, cosanon, mosaic
 - **19/9** — mosaico di tessere con i buchi (`MOSAICO()`); riquadro-foto vuoto; barra-citazione a sinistra (`NEGA()`).
 - **20/9** — **lo slot**: rettangolo oro vuoto incastonato nella frase, dove andrebbe il nome (`SLOT()`/`FRASE()`); **allineamento alternato** fra le due sponde della colonna (`SPONDA()`); anello del rec (cerchio oro vuoto col punto pieno).
 - **21/9** — **il cardine**: filetto oro / "o" / filetto oro fra due opzioni dello stesso peso (`CARDINE()`); **salto di scala** dentro la frase (una parola a 124px dentro un testo a 46px); **elenco rigato**, righe separate da filetti oro a tutta colonna (`RIGO()`).
+
+- **22/9** — nel reel la **deriva continua**: le righe scorrono senza fermarsi mai, mascherate in alto e in basso; e' la terza grammatica di movimento dopo la sostituzione (15/9) e l'accumulo (18/9), ed e' l'unica non a passi discreti. Nelle storie: **l'eco** (la stessa parola sdoppiata, sbiadita sopra e piena sotto, con scarto diagonale, per dire la stessa voce a due eta') e la **punteggiatura sporgente** (il "?" tirato fuori nel margine destro in oro: si forma una colonna di domande senza risposta).
 
 ## Metodo
 
