@@ -1,6 +1,6 @@
 # Layout e grammatiche gia' usati — @nxty_app
 
-Aggiornato: 22/09/2026. **Leggere questo file prima di scegliere il nome e il layout di ogni storia.**
+Aggiornato: 23/09/2026. **Leggere questo file prima di scegliere il nome e il layout di ogni storia.**
 Un nome in questo elenco significa che quel layout e' gia' andato in onda: non si rifa'.
 
 ## Nomi storia gia' usati (vietati)
@@ -14,7 +14,7 @@ perimetro, schermo, inarrivo, filo, riflesso, campo, attesa, finestrino, primomi
 onda, nastro, ripeterisponde, controluce, posti, rumore, ora, sottosera, bolle, virgolette,
 duestrade, notturna, primopiano, ripetute, nottata, dettagli, prossime, duebarre, sottolineato,
 mattinasera, duevoci, lontano, elenco, solosentirti, raccontate, cosanon, mosaico,
-**registra, sponde, frasi, quotidiano, cosaserve, archivio, quale, domande, ilmodo**
+**registra, sponde, frasi, quotidiano, cosaserve, archivio, quale, domande, ilmodo, nontutti, limite, sceglitu**
 
 ## Grammatiche visive, in ordine di comparsa (non ripetere a distanza ravvicinata)
 
@@ -27,6 +27,7 @@ mattinasera, duevoci, lontano, elenco, solosentirti, raccontate, cosanon, mosaic
 - **21/9** — **il cardine**: filetto oro / "o" / filetto oro fra due opzioni dello stesso peso (`CARDINE()`); **salto di scala** dentro la frase (una parola a 124px dentro un testo a 46px); **elenco rigato**, righe separate da filetti oro a tutta colonna (`RIGO()`).
 
 - **22/9** — nel reel la **deriva continua**: le righe scorrono senza fermarsi mai, mascherate in alto e in basso; e' la terza grammatica di movimento dopo la sostituzione (15/9) e l'accumulo (18/9), ed e' l'unica non a passi discreti. Nelle storie: **l'eco** (la stessa parola sdoppiata, sbiadita sopra e piena sotto, con scarto diagonale, per dire la stessa voce a due eta') e la **punteggiatura sporgente** (il "?" tirato fuori nel margine destro in oro: si forma una colonna di domande senza risposta).
+- **23/9** — **la graffa**: tre cose a sinistra, una `}` oro, il risultato a destra. Dice l'operazione invece di descriverla, ed e' il modo piu' compatto trovato finora per spiegare un meccanismo. Nelle storie: **la colonna divisa** (due colonne affiancate separate da un filetto verticale oro, per due posizioni che convivono senza che una vinca) e **la dissolvenza del testo** (righe a opacita' decrescente: l'ultima e' la piu' fioca, e quella fioca e' il senso).
 
 ## Metodo
 
