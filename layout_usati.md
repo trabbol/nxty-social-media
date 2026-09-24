@@ -1,6 +1,6 @@
 # Layout e grammatiche gia' usati — @nxty_app
 
-Aggiornato: 23/09/2026. **Leggere questo file prima di scegliere il nome e il layout di ogni storia.**
+Aggiornato: 24/09/2026. **Leggere questo file prima di scegliere il nome e il layout di ogni storia.**
 Un nome in questo elenco significa che quel layout e' gia' andato in onda: non si rifa'.
 
 ## Nomi storia gia' usati (vietati)
@@ -14,7 +14,7 @@ perimetro, schermo, inarrivo, filo, riflesso, campo, attesa, finestrino, primomi
 onda, nastro, ripeterisponde, controluce, posti, rumore, ora, sottosera, bolle, virgolette,
 duestrade, notturna, primopiano, ripetute, nottata, dettagli, prossime, duebarre, sottolineato,
 mattinasera, duevoci, lontano, elenco, solosentirti, raccontate, cosanon, mosaico,
-**registra, sponde, frasi, quotidiano, cosaserve, archivio, quale, domande, ilmodo, nontutti, limite, sceglitu**
+**registra, sponde, frasi, quotidiano, cosaserve, archivio, quale, domande, ilmodo, nontutti, limite, sceglitu, intercalari, contatto, riconosci**
 
 ## Grammatiche visive, in ordine di comparsa (non ripetere a distanza ravvicinata)
 
@@ -28,6 +28,7 @@ mattinasera, duevoci, lontano, elenco, solosentirti, raccontate, cosanon, mosaic
 
 - **22/9** — nel reel la **deriva continua**: le righe scorrono senza fermarsi mai, mascherate in alto e in basso; e' la terza grammatica di movimento dopo la sostituzione (15/9) e l'accumulo (18/9), ed e' l'unica non a passi discreti. Nelle storie: **l'eco** (la stessa parola sdoppiata, sbiadita sopra e piena sotto, con scarto diagonale, per dire la stessa voce a due eta') e la **punteggiatura sporgente** (il "?" tirato fuori nel margine destro in oro: si forma una colonna di domande senza risposta).
 - **23/9** — **la graffa**: tre cose a sinistra, una `}` oro, il risultato a destra. Dice l'operazione invece di descriverla, ed e' il modo piu' compatto trovato finora per spiegare un meccanismo. Nelle storie: **la colonna divisa** (due colonne affiancate separate da un filetto verticale oro, per due posizioni che convivono senza che una vinca) e **la dissolvenza del testo** (righe a opacita' decrescente: l'ultima e' la piu' fioca, e quella fioca e' il senso).
+- **24/9** — **il taglio**: una frase tagliata in orizzontale a poco piu' di meta' altezza, che si legge lo stesso. E' il primo post che **dimostra** la propria tesi invece di enunciarla (somigliare non e' riconoscere), e vale come metodo a se'. Nelle storie: **l'inversione** (blocchi oro pieni con testo notte dentro — prima volta di giorno; il testo crema su oro era illeggibile, notte su oro funziona) e **la colonna stretta** (un paragrafo di 400px in mezzo al vuoto, che va a capo da solo: la forma stessa rallenta la lettura).
 
 ## Metodo
 
