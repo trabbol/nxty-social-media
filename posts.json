@@ -1384,20 +1384,29 @@
     {
      "ora": "08:00",
      "nome": "postonumero",
-     "file": "stories/daily/0927_0800_postonumero.jpg"
+     "file": "stories/daily/0927_0800_postonumero.jpg",
+     "story_id": "17903123340597373",
+     "pubblicata": "2026-09-27T08:02Z"
     },
     {
      "ora": "13:00",
      "nome": "parentesi",
-     "file": "stories/daily/0927_1300_parentesi.jpg"
+     "file": "stories/daily/0927_1300_parentesi.jpg",
+     "story_id": "18130826125813362",
+     "pubblicata": "2026-09-27T13:02Z"
     },
     {
      "ora": "20:30",
      "nome": "intorno",
      "file": "stories/daily/0927_2030_intorno.jpg",
-     "amplifica": true
+     "amplifica": true,
+     "story_id": "18129750250754286",
+     "pubblicata": "2026-09-27T18:31Z"
     }
-   ]
+   ],
+   "permalink": "https://www.instagram.com/p/Ddy8AkLmyBm/",
+   "media_id": "18030824678912579",
+   "pubblicato": "2026-09-27T15:31:43+0000"
   }
  ]
 }
