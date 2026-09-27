@@ -1,6 +1,6 @@
 # Layout e grammatiche gia' usati — @nxty_app
 
-Aggiornato: 26/09/2026. **Leggere questo file prima di scegliere il nome e il layout di ogni storia.**
+Aggiornato: 27/09/2026. **Leggere questo file prima di scegliere il nome e il layout di ogni storia.**
 Un nome in questo elenco significa che quel layout e' gia' andato in onda: non si rifa'.
 
 ## Nomi storia gia' usati (vietati)
@@ -14,7 +14,7 @@ perimetro, schermo, inarrivo, filo, riflesso, campo, attesa, finestrino, primomi
 onda, nastro, ripeterisponde, controluce, posti, rumore, ora, sottosera, bolle, virgolette,
 duestrade, notturna, primopiano, ripetute, nottata, dettagli, prossime, duebarre, sottolineato,
 mattinasera, duevoci, lontano, elenco, solosentirti, raccontate, cosanon, mosaico,
-**registra, sponde, frasi, quotidiano, cosaserve, archivio, quale, domande, ilmodo, nontutti, limite, sceglitu, intercalari, contatto, riconosci, unasola, perloro, restaquella, accento, unavolta, conme**
+**registra, sponde, frasi, quotidiano, cosaserve, archivio, quale, domande, ilmodo, nontutti, limite, sceglitu, intercalari, contatto, riconosci, unasola, perloro, restaquella, accento, unavolta, conme, postonumero, parentesi, intorno**
 
 ## Grammatiche visive, in ordine di comparsa (non ripetere a distanza ravvicinata)
 
@@ -31,6 +31,8 @@ mattinasera, duevoci, lontano, elenco, solosentirti, raccontate, cosanon, mosaic
 - **24/9** — **il taglio**: una frase tagliata in orizzontale a poco piu' di meta' altezza, che si legge lo stesso. E' il primo post che **dimostra** la propria tesi invece di enunciarla (somigliare non e' riconoscere), e vale come metodo a se'. Nelle storie: **l'inversione** (blocchi oro pieni con testo notte dentro — prima volta di giorno; il testo crema su oro era illeggibile, notte su oro funziona) e **la colonna stretta** (un paragrafo di 400px in mezzo al vuoto, che va a capo da solo: la forma stessa rallenta la lettura).
 - **25/9** — nel reel la **sottrazione**: si parte pieni e le righe spariscono una a una, e la colonna si ricentra da sola mentre si svuota. E' la quarta grammatica di movimento dopo sostituzione (15/9), accumulo (18/9) e deriva continua (22/9), ed e' l'unica in cui il senso sta in cio' che viene tolto. Nelle storie: **la lista barrata** (cinque voci sbarrate in oro e una intatta: la stessa sottrazione resa ferma) e **il blocco a sinistra** (tutto il testo a bandiera sinistra — la prima rottura della simmetria centrata usata in ogni contenuto dal 12/9; cambia il tono, da manifesto ad appunto).
 - **26/9** — **la tabella senza righe**: tre colonne allineate (soggetto a destra, "era" al centro in grigio, aggettivo a sinistra in oro) in cui cambia una parola sola, e quella che cambia e' l'unica colorata. La struttura fa l'argomento da sola: stessa persona, tre versioni. Nelle storie: **la sottolineatura tratteggiata** (tratteggio oro sotto una parola sola — diversa dalla sottolineatura spessa e piena del 17/9: quella enfatizzava, questa marca) e **l'interlinea larghissima** (line-height 2.3 su tre righe: la forma rallenta la lettura e cambia il tono, serve per le cose dette piano).
+
+- **27/9** — **l'incavo**: un blocco di testo **giustificato** (prima volta in assoluto: tutto era centrato, una sola volta a bandiera) posato su un campo oro chiarissimo, con un rettangolo **ritagliato via** dall'angolo in alto a destra. Il posto vuoto non e' disegnato: e' la forma che le parole prendono per starci intorno. Prima prova fallita e da ricordare: senza il campo colorato dietro, l'incavo non si legge come vuoto voluto ma come un errore di impaginazione — **il buco esiste solo se il pieno e' visibile**. Nelle storie: **la numerazione che salta** (1, 2, 3, 5, 6 — il ritmo verticale resta regolare, il buco e' solo nei numeri: si vede contando, non guardando) e **la parentesi** (un blocco intero stretto fra due parentesi oro alte 238px: la cosa vera detta di lato, come a tavola; diversa dalla graffa del 23/9, che era un'operazione con un risultato, e dalle virgolette, che citavano).
 
 ## Metodo
 
