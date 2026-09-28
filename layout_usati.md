@@ -1,6 +1,6 @@
 # Layout e grammatiche gia' usati — @nxty_app
 
-Aggiornato: 27/09/2026. **Leggere questo file prima di scegliere il nome e il layout di ogni storia.**
+Aggiornato: 28/09/2026. **Leggere questo file prima di scegliere il nome e il layout di ogni storia.**
 Un nome in questo elenco significa che quel layout e' gia' andato in onda: non si rifa'.
 
 ## Nomi storia gia' usati (vietati)
@@ -14,7 +14,7 @@ perimetro, schermo, inarrivo, filo, riflesso, campo, attesa, finestrino, primomi
 onda, nastro, ripeterisponde, controluce, posti, rumore, ora, sottosera, bolle, virgolette,
 duestrade, notturna, primopiano, ripetute, nottata, dettagli, prossime, duebarre, sottolineato,
 mattinasera, duevoci, lontano, elenco, solosentirti, raccontate, cosanon, mosaico,
-**registra, sponde, frasi, quotidiano, cosaserve, archivio, quale, domande, ilmodo, nontutti, limite, sceglitu, intercalari, contatto, riconosci, unasola, perloro, restaquella, accento, unavolta, conme, postonumero, parentesi, intorno**
+**registra, sponde, frasi, quotidiano, cosaserve, archivio, quale, domande, ilmodo, nontutti, limite, sceglitu, intercalari, contatto, riconosci, unasola, perloro, restaquella, accento, unavolta, conme, postonumero, parentesi, intorno, maglia**
 
 ## Grammatiche visive, in ordine di comparsa (non ripetere a distanza ravvicinata)
 
@@ -33,6 +33,11 @@ mattinasera, duevoci, lontano, elenco, solosentirti, raccontate, cosanon, mosaic
 - **26/9** — **la tabella senza righe**: tre colonne allineate (soggetto a destra, "era" al centro in grigio, aggettivo a sinistra in oro) in cui cambia una parola sola, e quella che cambia e' l'unica colorata. La struttura fa l'argomento da sola: stessa persona, tre versioni. Nelle storie: **la sottolineatura tratteggiata** (tratteggio oro sotto una parola sola — diversa dalla sottolineatura spessa e piena del 17/9: quella enfatizzava, questa marca) e **l'interlinea larghissima** (line-height 2.3 su tre righe: la forma rallenta la lettura e cambia il tono, serve per le cose dette piano).
 
 - **27/9** — **l'incavo**: un blocco di testo **giustificato** (prima volta in assoluto: tutto era centrato, una sola volta a bandiera) posato su un campo oro chiarissimo, con un rettangolo **ritagliato via** dall'angolo in alto a destra. Il posto vuoto non e' disegnato: e' la forma che le parole prendono per starci intorno. Prima prova fallita e da ricordare: senza il campo colorato dietro, l'incavo non si legge come vuoto voluto ma come un errore di impaginazione — **il buco esiste solo se il pieno e' visibile**. Nelle storie: **la numerazione che salta** (1, 2, 3, 5, 6 — il ritmo verticale resta regolare, il buco e' solo nei numeri: si vede contando, non guardando) e **la parentesi** (un blocco intero stretto fra due parentesi oro alte 238px: la cosa vera detta di lato, come a tavola; diversa dalla graffa del 23/9, che era un'operazione con un risultato, e dalle virgolette, che citavano).
+
+## Dal 29/9: nuova logica (direttiva 32)
+
+Per i **reel** non vale piu' "una grammatica nuova ogni giorno": vale il **formato a serie**. Ogni serie ha la sua forma fissa, riconoscibile al primo fotogramma, e cambia solo il contenuto. Il registro qui sotto tiene le serie e gli episodi usciti; l'elenco dei nomi vietati resta per le storie.
+- **"Dal mammese all'italiano"** — interfaccia piatta di traduttore: pill MAMMESE -> ITALIANO, scheda bianca con la frase della madre fra caporali, scheda oro chiaro con la traduzione, cursore oro lampeggiante prima della traduzione. La battuta si segnala girando la scheda della traduzione in notte. Ep. 1 il 29/9 (reel_0929.py): Copriti / Hai mangiato? / Chiamami quando arrivi / Fa' come vuoi -> *Non* fare come vuoi / Lascia, faccio io. Frasi gia' usate anche nella storia: Metti la maglia della salute. **Non riusare queste sei frasi negli episodi successivi.**
 
 ## Metodo
 

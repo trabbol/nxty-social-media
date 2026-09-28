@@ -1407,6 +1407,31 @@
    "permalink": "https://www.instagram.com/p/Ddy8AkLmyBm/",
    "media_id": "18030824678912579",
    "pubblicato": "2026-09-27T15:31:43+0000"
+  },
+  {
+   "id": 67,
+   "data": "2026-09-29",
+   "giorno": "Martedì",
+   "ora": "17:30",
+   "tipo": "reel",
+   "trial_reel": true,
+   "graduation_strategy": "SS_PERFORMANCE",
+   "serie": "Dal mammese all'italiano",
+   "episodio": 1,
+   "tema": "nuova logica (direttiva 32) - riconoscimento, non lutto: le frasi di madre tradotte",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "video": "posts/daily/reel_0929_67.mp4",
+   "durata_s": 11.57,
+   "audio": "originale, generato in casa (audio_0929.py)",
+   "caption": "Tua madre parla mammese o italiano?\n\n«Copriti.» «Hai mangiato?» «Chiamami quando arrivi.» «Lascia, faccio io.»\nTradotte, vogliono dire tutte la stessa cosa.\n\nTranne «fa' come vuoi». Quella vuol dire esattamente il contrario.\n\nCerte lingue le parla una persona sola. NXTY è fatta per non perderne l'accento.\n\n🌍 EN\n\nDoes your mum speak Mum, or English?\n\n\"Wrap up warm.\" \"Have you eaten?\" \"Call me when you get there.\" \"Leave it, I'll do it.\"\nTranslated, they all mean the same thing.\n\nExcept \"do what you like\". That one means the exact opposite.\n\nSome languages are spoken by one person only. NXTY is made so you never lose the accent.\n\n#NXTY #NextToYou #PersoneCare #mammaitaliana #famiglia",
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "maglia",
+     "file": "stories/daily/0929_2030_maglia.jpg",
+     "nota": "unica storia del giorno; NON rimanda al reel (trial, nascosto ai follower)"
+    }
+   ]
   }
  ]
 }
