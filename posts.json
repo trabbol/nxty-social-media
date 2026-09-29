@@ -1414,8 +1414,7 @@
    "giorno": "Martedì",
    "ora": "17:30",
    "tipo": "reel",
-   "trial_reel": true,
-   "graduation_strategy": "SS_PERFORMANCE",
+   "trial_reel": false,
    "serie": "Dal mammese all'italiano",
    "episodio": 1,
    "tema": "nuova logica (direttiva 32) - riconoscimento, non lutto: le frasi di madre tradotte",
@@ -1429,9 +1428,15 @@
      "ora": "20:30",
      "nome": "maglia",
      "file": "stories/daily/0929_2030_maglia.jpg",
-     "nota": "unica storia del giorno; NON rimanda al reel (trial, nascosto ai follower)"
+     "nota": "unica storia del giorno; NON rimanda al reel (trial, nascosto ai follower)",
+     "story_id": "18494331301101370",
+     "pubblicata": "2026-09-29T18:31Z"
     }
-   ]
+   ],
+   "trial_errore": "(#10) subcode 2207081 — «Reel di prova con follower insufficienti: l'account Instagram non soddisfa i requisiti di prova per i follower per creare reel di prova.» Ripiegato su reel normale con share_to_feed=true.",
+   "permalink": "https://www.instagram.com/reel/Dd4FzbiAC3c/",
+   "media_id": "18120824530941922",
+   "pubblicato": "2026-09-29T15:34:14+0000"
   }
  ]
 }
