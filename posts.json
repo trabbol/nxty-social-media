@@ -1459,13 +1459,19 @@
      "ora": "20:30",
      "nome": "nonna",
      "file": "stories/daily/0930_2030_nonna.jpg",
-     "nota": "amplifica scura con il fotogramma a 8,6 s del reel"
+     "nota": "amplifica scura con il fotogramma a 8,6 s del reel",
+     "story_id": "17917682385446476",
+     "pubblicata": "2026-09-30T19:09:42Z"
     }
    ],
    "slot_saltati": [
     "2026-09-30T15:30Z: token Meta assente (NXTY INSTA/meta_token.txt non presente) — non pubblicato",
     "2026-09-30T18:30Z: token Meta ancora assente — reel e storia non pubblicati"
-   ]
+   ],
+   "permalink": "https://www.instagram.com/reel/Dd7DPtzFXSM/",
+   "media_id": "17912691783280894",
+   "pubblicato": "2026-09-30T19:09:13+0000",
+   "nota_pubblicazione": "uscito alle 19:09Z invece delle 15:30Z: token Meta nuovo arrivato da Alessandro alle ~19:05Z, pubblicato subito come concordato"
   }
  ]
 }
