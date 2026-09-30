@@ -1437,6 +1437,31 @@
    "permalink": "https://www.instagram.com/reel/Dd4FzbiAC3c/",
    "media_id": "18120824530941922",
    "pubblicato": "2026-09-29T15:34:14+0000"
+  },
+  {
+   "id": 68,
+   "data": "2026-09-30",
+   "giorno": "Mercoledì",
+   "ora": "17:30",
+   "tipo": "reel",
+   "trial_reel": false,
+   "share_to_feed": true,
+   "serie": "Il vocale della nonna",
+   "episodio": 1,
+   "tema": "direttiva 32 - riconoscimento: il vocale tipico della nonna, trascritto",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "video": "posts/daily/reel_0930_68.mp4",
+   "durata_s": 11.8,
+   "audio": "originale, generato in casa (audio_0930.py)",
+   "caption": "Tua nonna manda vocali o telefonate registrate?\n\nComincia con «Pronto?». Controlla se sta registrando. Si dimentica cosa voleva dire. Ti chiede se hai mangiato. Saluta quattro volte.\n\nQuarantasette secondi per dire «ti penso».\n\nQuei vocali non cancellarli: spesso sono l'unica registrazione che hai di come parla davvero. NXTY parte da lì.\n\n🌍 EN\n\nDoes your grandma send voice notes, or recorded phone calls?\n\nShe opens with \"Hello?\". Checks whether it's recording. Forgets what she wanted to say. Asks if you've eaten. Says goodbye four times.\n\nForty-seven seconds to say \"I'm thinking of you\".\n\nDon't delete those voice notes: they're often the only recording you have of how she really talks. That's where NXTY starts.\n\n#NXTY #NextToYou #PersoneCare #nonna #vocali",
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "nonna",
+     "file": "stories/daily/0930_2030_nonna.jpg",
+     "nota": "amplifica scura con il fotogramma a 8,6 s del reel"
+    }
+   ]
   }
  ]
 }
