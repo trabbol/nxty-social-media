@@ -1472,6 +1472,31 @@
    "media_id": "17912691783280894",
    "pubblicato": "2026-09-30T19:09:13+0000",
    "nota_pubblicazione": "uscito alle 19:09Z invece delle 15:30Z: token Meta nuovo arrivato da Alessandro alle ~19:05Z, pubblicato subito come concordato"
+  },
+  {
+   "id": 69,
+   "data": "2026-10-01",
+   "giorno": "Giovedì",
+   "ora": "17:30",
+   "tipo": "reel",
+   "trial_reel": false,
+   "share_to_feed": true,
+   "serie": "Dal mammese all'italiano",
+   "episodio": 2,
+   "tema": "direttiva 32 - riconoscimento: frasi di madre tradotte, la battuta e' «non ti preoccupare per me»",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "video": "posts/daily/reel_1001_69.mp4",
+   "durata_s": 11.57,
+   "audio": "originale, stesso tema sonoro della serie (audio_0929.py)",
+   "caption": "Anche tua madre dice «non ti preoccupare per me»?\n\n«Hai preso la giacca?» «Che faccia che hai.» «Ti ho congelato il ragù.» «Ti ho stirato due camicie.»\nTradotte, vogliono dire sempre la stessa cosa.\n\nTranne «non ti preoccupare per me». Quella vuol dire: preoccupati per me.\n\nCerte lingue le parla una persona sola. NXTY è fatta per non perderne l'accento.\n\n🌍 EN\n\nDoes your mum say \"don't worry about me\" too?\n\n\"Did you take a jacket?\" \"Look at your face.\" \"I froze some ragù for you.\" \"I ironed two shirts for you.\"\nTranslated, they always mean the same thing.\n\nExcept \"don't worry about me\". That one means: worry about me.\n\nSome languages are spoken by one person only. NXTY is made so you never lose the accent.\n\n#NXTY #NextToYou #PersoneCare #mammaitaliana #famiglia",
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "ragu",
+     "file": "stories/daily/1001_2030_ragu.jpg",
+     "nota": "amplifica scura con il fotogramma della battuta (6,2 s)"
+    }
+   ]
   }
  ]
 }
