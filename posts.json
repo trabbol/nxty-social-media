@@ -1502,6 +1502,31 @@
    "permalink": "https://www.instagram.com/reel/Dd9PTO6gfOx/",
    "media_id": "18054546218581907",
    "pubblicato": "2026-10-01T15:33:07+0000"
+  },
+  {
+   "id": 70,
+   "data": "2026-10-02",
+   "giorno": "Venerdì",
+   "ora": "17:30",
+   "tipo": "reel",
+   "trial_reel": false,
+   "share_to_feed": true,
+   "serie": "Il vocale della nonna",
+   "episodio": 2,
+   "tema": "direttiva 32 - riconoscimento: il vocale che parte a meta' frase e finisce col nonno che respira",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "video": "posts/daily/reel_1002_70.mp4",
+   "durata_s": 11.8,
+   "audio": "originale (audio_1002.py): tema della serie + pentole + respiro",
+   "caption": "Anche tua nonna comincia i vocali a metà frase?\n\nParte con «…e quindi la zia non viene». Si accorge che sta registrando. Sbatte le pentole. Ti chiede se piove anche da te. Poi ti passa il nonno, che per trentasei secondi respira nel microfono.\n\nUn minuto e dodici secondi per dire «ci manchi».\n\nQuei vocali tienili tutti, anche quelli in cui non si dice niente. NXTY parte da lì.\n\n🌍 EN\n\nDoes your grandma also start voice notes mid-sentence?\n\nShe opens with \"...so your aunt isn't coming\". Realises it's recording. Bangs the pots. Asks if it's raining where you are too. Then she passes the phone to grandpa, who breathes into the microphone for thirty-six seconds.\n\nOne minute and twelve seconds to say \"we miss you\".\n\nKeep all of those voice notes, even the ones where nothing gets said. That's where NXTY starts.\n\n#NXTY #NextToYou #PersoneCare #nonna #vocali",
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "pentole",
+     "file": "stories/daily/1002_2030_pentole.jpg",
+     "nota": "amplifica scura con il fotogramma a 8,6 s"
+    }
+   ]
   }
  ]
 }
