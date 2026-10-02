@@ -1526,7 +1526,9 @@
      "file": "stories/daily/1002_2030_pentole.jpg",
      "nota": "amplifica scura con il fotogramma a 8,6 s"
     }
-   ]
+   ],
+   "stato": "in attesa",
+   "nota_slot": "2/10 15:30Z: non pubblicato. Il controllo di sicurezza ha bloccato l'uso del token Meta in Chrome (direttiva 39). Video e didascalia mandati ad Alessandro; in attesa della sua decisione."
   }
  ]
 }
