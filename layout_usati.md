@@ -1,6 +1,6 @@
 # Layout e grammatiche gia' usati — @nxty_app
 
-Aggiornato: 02/10/2026. **Leggere questo file prima di scegliere il nome e il layout di ogni storia.**
+Aggiornato: 03/10/2026. **Leggere questo file prima di scegliere il nome e il layout di ogni storia.**
 Un nome in questo elenco significa che quel layout e' gia' andato in onda: non si rifa'.
 
 ## Nomi storia gia' usati (vietati)
@@ -39,6 +39,12 @@ mattinasera, duevoci, lontano, elenco, solosentirti, raccontate, cosanon, mosaic
 Per i **reel** non vale piu' "una grammatica nuova ogni giorno": vale il **formato a serie**. Ogni serie ha la sua forma fissa, riconoscibile al primo fotogramma, e cambia solo il contenuto. Il registro qui sotto tiene le serie e gli episodi usciti; l'elenco dei nomi vietati resta per le storie.
 - **"Dal mammese all'italiano"** — interfaccia piatta di traduttore: pill MAMMESE -> ITALIANO, scheda bianca con la frase della madre fra caporali, scheda oro chiaro con la traduzione, cursore oro lampeggiante prima della traduzione. La battuta si segnala girando la scheda della traduzione in notte. Ep. 1 il 29/9 (reel_0929.py): Copriti / Hai mangiato? / Chiamami quando arrivi / Fa' come vuoi -> *Non* fare come vuoi / Lascia, faccio io. Frasi gia' usate anche nella storia: Metti la maglia della salute. Ep. 2 il 1/10 (reel_1001.py): Hai preso la giacca? / Che faccia che hai / Ti ho congelato il ragu' / Non ti preoccupare per me -> *Preoccupati* per me / Ti ho stirato due camicie. **Non riusare nessuna di queste undici frasi negli episodi successivi.**
 - **"Il vocale della nonna"** — intestazione di chat piatta (avatar oro con la N, "Nonna", "messaggio vocale"), bolla bianca del vocale con play oro, forma d'onda di 40 barre che si riempie d'oro seguendo i minuti della trascrizione (con un tratto piatto dove c'e' il silenzio), scheda TRASCRIZIONE che cresce riga per riga, ciascuna col suo minuto a sinistra. Occhiello "IL VOCALE DELLA NONNA · EP. N" in alto, visibile dal primo fotogramma. Ep. 1 il 30/9 (reel_0930.py): Pronto? / Mi senti? Non so se sta registrando / Allora, ti volevo dire una cosa / [otto secondi di niente] / Non mi ricordo piu', hai mangiato? / Va bene, ciao, ciao, ciao, ciao. Chiusura: "Quarantasette secondi per dire «ti penso»". Ep. 2 il 2/10 (reel_1002.py, vocale da 1:12): …e quindi la zia non viene / Ah, ma sta gia' registrando? / [rumore di pentole] / Qui piove, da voi piove? / Aspetta, ti passo il nonno / [il nonno respira nel microfono]; forma d'onda con il tratto alto delle pentole e il tratto piccolo e regolare del respiro. Chiusura: "Un minuto e dodici secondi per dire «ci manchi»". **Non riusare queste battute negli episodi successivi.**
+
+## Caroselli del weekend (dal 3/10, direttiva 32)
+
+Formato a serie anche qui: la forma resta, cambiano le frasi. 8 slide 1080x1350 (massimo consentito), modello `tools/caro_1003.py`.
+- **"Le frasi che giuravi di non dire"** — copertina notte con il titolo ("giuravi" in oro), il sottotitolo "Poi ti sono uscite. Tutte." e il segno della serie gia' visibile: `— ~~mamma~~ ~~papa'~~ tu.`; freccia oro in basso a destra disegnata in SVG (il carattere freccia non e' nel font). Sei slide su crema: occhiello oro in alto, contatore N/6, frase grande fra caporali oro con il caporale aperto **sporgente nel margine**, sotto la **firma barrata**: il genitore in grigio tagliato da una barra oro inclinata di 3 gradi, poi "tu." in oro. Chiusura notte: "Le frasi, ormai, sono tue." / "La voce con cui te le dicevano, tienila." + logo + NEXT TO YOU. Ep. 1 il 3/10 (id 71): Perche' lo dico io / Chiedilo a tuo padre / Spegni quella luce, mica la paghi tu / Conto fino a tre. Uno... due... / Ma che musica e' questa? / Te l'avevo detto. **Non riusare queste sei frasi** (ne' le undici del mammese).
+- Nota tipografica: in Plus Jakarta Sans 800 punto, virgola e puntini hanno molto spazio a sinistra e a corpo grande sembrano staccati dalla parola. Si avvicinano di .075em con la funzione `k()` del modello; da usare in tutti i testi grandi.
 
 ## Metodo
 

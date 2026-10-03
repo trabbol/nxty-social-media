@@ -1529,6 +1529,39 @@
    ],
    "stato": "in attesa",
    "nota_slot": "2/10 15:30Z: non pubblicato. Il controllo di sicurezza ha bloccato l'uso del token Meta in Chrome (direttiva 39). Video e didascalia mandati ad Alessandro; in attesa della sua decisione."
+  },
+  {
+   "id": 71,
+   "data": "2026-10-03",
+   "giorno": "Sabato",
+   "ora": "17:30",
+   "tipo": "carosello",
+   "serie": "Le frasi che giuravi di non dire",
+   "episodio": 1,
+   "tema": "direttiva 32 - riconoscimento: le frasi dei genitori che ora dici tu; chiusura sulla voce da tenere",
+   "slide": [
+    "posts/daily/caro_1003_71_s1.jpg",
+    "posts/daily/caro_1003_71_s2.jpg",
+    "posts/daily/caro_1003_71_s3.jpg",
+    "posts/daily/caro_1003_71_s4.jpg",
+    "posts/daily/caro_1003_71_s5.jpg",
+    "posts/daily/caro_1003_71_s6.jpg",
+    "posts/daily/caro_1003_71_s7.jpg",
+    "posts/daily/caro_1003_71_s8.jpg"
+   ],
+   "formato": "8 slide 1080x1350 (copertina notte, 6 frasi su crema, chiusura notte con logo)",
+   "modello": "tools/caro_1003.py",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "caption": "A quindici anni giuravi: «Questa frase io non la dirò mai».\n\nPoi una sera ti è uscito «perché lo dico io», con lo stesso tono e la stessa pausa prima dell'ultima parola.\n\nLe frasi si ereditano senza accorgersene. La voce con cui te le dicevano, invece, va tenuta da parte: NXTY parte da lì.\n\n🌍 EN\n\nAt fifteen you swore: \"I will never say that.\"\n\nThen one evening \"because I said so\" came out of your mouth, same tone, same little pause before the last word.\n\nYou inherit the phrases without noticing. The voice they were said in is worth keeping, and that's where NXTY starts.\n\n#NXTY #NextToYou #PersoneCare #genitori #famiglia",
+   "modalita": "kit manuale (direttiva 39): slide e caption mandate ad Alessandro, pubblica lui",
+   "stato": "kit inviato, in attesa del link",
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "condivisione",
+     "nota": "kit manuale: condividere il carosello nella storia dal tasto aeroplano (Aggiungi alla storia), cosi' la storia porta al post con un tocco"
+    }
+   ]
   }
  ]
 }
