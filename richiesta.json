@@ -1,7 +1,7 @@
 {
- "rid": "2026-10-04-caro71",
+ "rid": "2026-10-04-giuravi",
  "id": 71,
- "slot": "post",
- "entro": "2026-10-04T18:00:00Z",
- "ordine": "rilancio del giro delle 15:30Z non partito (ritardo di GitHub); piano approvato da Alessandro il 4/10"
+ "slot": "storia",
+ "entro": "2026-10-04T21:00:00Z",
+ "ordine": "riserva dello slot storia 18:30Z (il cron di GitHub non e' partito); piano approvato da Alessandro il 4/10"
 }
