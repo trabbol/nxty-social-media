@@ -177,3 +177,5 @@ Cosa fare, in ordine:
     · **Ora legale.** Gli slot sono in UTC: dal 25/10 le 15:30Z diventano le 16:30 italiane.
     · **Rinnovo del token.** Il 22/11 (promemoria gia' armato), quando Alessandro rinnova il token, aggiorna anche il secret META_TOKEN e il file di riserva sul PC.
     · **Primi contenuti.** Carosello 71 il 4/10 alle 15:30Z, storia "giuravi" alle 18:30Z; reel 70 il 5/10 alle 15:30Z, storia "pentole" alle 18:30Z. Ad Alessandro e' stato detto di non pubblicarli a mano.
+    · **Prova riuscita (4/10, 10:02Z).** Alessandro ha creato il workflow dal sito di GitHub, perche' l'app non lascia scrivere `.github/workflows` dal PC: e' una protezione, non va aggirata. La prova automatica ha dato token_ok true, nxty_app, 53 follower, 60 media e "71: PROVA, pubblicherei il carosello (8 file)". L'intestazione Authorization: Bearer funziona.
+    · **Copia del token nel container cancellata il 4/10.** Per pubblicare non serve piu'. Restano il secret su GitHub e il file di riserva di Alessandro, `NXTY INSTA\meta_token.txt`. La procedura di ripristino della direttiva 35 non riguarda piu' il token.
