@@ -14,7 +14,7 @@ perimetro, schermo, inarrivo, filo, riflesso, campo, attesa, finestrino, primomi
 onda, nastro, ripeterisponde, controluce, posti, rumore, ora, sottosera, bolle, virgolette,
 duestrade, notturna, primopiano, ripetute, nottata, dettagli, prossime, duebarre, sottolineato,
 mattinasera, duevoci, lontano, elenco, solosentirti, raccontate, cosanon, mosaico,
-**registra, sponde, frasi, quotidiano, cosaserve, archivio, quale, domande, ilmodo, nontutti, limite, sceglitu, intercalari, contatto, riconosci, unasola, perloro, restaquella, accento, unavolta, conme, postonumero, parentesi, intorno, maglia, nonna, ragu, pentole, giuravi**
+**registra, sponde, frasi, quotidiano, cosaserve, archivio, quale, domande, ilmodo, nontutti, limite, sceglitu, intercalari, contatto, riconosci, unasola, perloro, restaquella, accento, unavolta, conme, postonumero, parentesi, intorno, maglia, nonna, ragu, pentole, giuravi, giuro**
 
 ## Grammatiche visive, in ordine di comparsa (non ripetere a distanza ravvicinata)
 

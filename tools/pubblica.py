@@ -14,7 +14,12 @@ Regole:
 - Questo script non modifica posts.json (lo scrive solo la regia). Scrive due file suoi:
   pubblicati.json (id -> permalink, media_id, ora, storie) e stato_pubblicazione.json (esito dell'ultimo giro,
   follower e numero di post, che sono dati pubblici del profilo).
-- DRY_RUN=true: legge tutto e dice cosa farebbe, senza nessuna chiamata che pubblica.
+- DRY_RUN=true: legge tutto e dice cosa farebbe, senza nessuna chiamata che pubblica. Un push e' sempre una
+  prova, TRANNE quando nel repository c'e' richiesta.json valida (ordine diretto di Alessandro, eseguito una
+  volta sola): {"rid": "...", "id": 72, "slot": "storia", "entro": "2026-10-04T11:30:00Z"}.
+- Le entry con "solo_su_richiesta": true non escono mai dai giri programmati, solo da richiesta.json o da
+  un avvio manuale con post_id. Le entry "tipo": "storia" sono storie da sole, senza post da aspettare.
+- Storie: mai la stessa due volte (id registrato) e al massimo MAX_STORIE al giorno.
 """
 import datetime as dt
 import json
@@ -25,6 +30,7 @@ import urllib.error
 import urllib.parse
 import urllib.request
 
+VERSIONE = "2026-10-04b"  # cambiarla insieme a richiesta.json fa partire il workflow su push
 API = os.environ.get("API_BASE", "https://graph.facebook.com/v21.0").rstrip("/")
 RAW = os.environ.get("RAW_BASE", "https://raw.githubusercontent.com/trabbol/nxty-social-media/main").rstrip("/") + "/"
 IG = os.environ.get("IG_USER_ID", "17841480193943878")
@@ -42,6 +48,7 @@ ADESSO = (dt.datetime.fromisoformat(os.environ["ADESSO_TEST"].replace("Z", "+00:
 # finestre (UTC) entro cui un giro programmato puo' ancora pubblicare: GitHub a volte parte in ritardo,
 # ma un post non deve uscire a mezzanotte. Un avvio manuale (workflow_dispatch) e' un ordine diretto: niente finestra.
 FINESTRE = {"post": (15.25, 19.5), "storia": (18.25, 22.0)}
+MAX_STORIE = 3
 CRON_SLOT = {"30 15 * * *": "post", "30 18 * * *": "storia"}
 
 stato = {"ultimo_giro": ADESSO.strftime("%Y-%m-%dT%H:%M:%SZ"), "evento": EVENTO, "slot": None,
@@ -147,8 +154,35 @@ def slot_del_giro():
     return "post" if EVENTO == "push" else None
 
 
+def leggi_richiesta(pubblicati):
+    """Ordine diretto via richiesta.json: valido solo su push, entro la scadenza e una volta sola."""
+    if EVENTO != "push":
+        return None
+    r = leggi("richiesta.json", None)
+    if not r or not r.get("rid") or r.get("slot") not in ("post", "storia") or not r.get("id"):
+        return None
+    if r["rid"] in pubblicati.get("_richieste", {}):
+        stato["azioni"].append(f"richiesta {r['rid']} gia' eseguita, la ignoro")
+        return None
+    try:
+        entro = dt.datetime.fromisoformat(str(r.get("entro", "")).replace("Z", "+00:00"))
+    except ValueError:
+        return None
+    if ADESSO > entro:
+        stato["azioni"].append(f"richiesta {r['rid']} scaduta ({r.get('entro')}), la ignoro")
+        return None
+    return r
+
+
 def main():
+    global DRY, ID_IN
+    pubblicati = leggi("pubblicati.json", {})
     slot = slot_del_giro()
+    richiesta = leggi_richiesta(pubblicati)
+    if richiesta:
+        DRY, ID_IN, slot = False, str(richiesta["id"]), richiesta["slot"]
+        stato["richiesta"] = richiesta["rid"]
+        stato["dry_run"] = False
     stato["slot"] = slot
     if not TOKEN:
         stato["errori"].append("META_TOKEN mancante: va aggiunto nei secret del repository")
@@ -171,13 +205,16 @@ def main():
             return 0
 
     posts = leggi("posts.json", {"posts": []})["posts"]
-    pubblicati = leggi("pubblicati.json", {})
     oggi = ADESSO.date().isoformat()
+    if richiesta:
+        pubblicati.setdefault("_richieste", {})[richiesta["rid"]] = {"eseguita": stato["ultimo_giro"],
+                                                                     "id": richiesta["id"], "slot": slot}
 
     if ID_IN:
         cand = [p for p in posts if str(p.get("id")) == ID_IN]
     else:
-        cand = [p for p in posts if p.get("data") == oggi and p.get("pubblica_auto") is True]
+        cand = [p for p in posts if p.get("data") == oggi and p.get("pubblica_auto") is True
+                and not p.get("solo_su_richiesta")]
     if not cand:
         stato["azioni"].append(f"nessun contenuto con pubblica_auto per {oggi}" if not ID_IN
                                else f"id {ID_IN} non trovato in posts.json")
@@ -220,7 +257,8 @@ def main():
             storie_oggi = None
         for p in cand:
             pid = str(p["id"])
-            uscito = p.get("permalink") or pubblicati.get(pid, {}).get("permalink")
+            uscito = (p.get("tipo") == "storia" or p.get("permalink")
+                      or pubblicati.get(pid, {}).get("permalink"))
             for i, s in enumerate(p.get("storie", [])):
                 if not s.get("file"):
                     continue
@@ -231,8 +269,11 @@ def main():
                 if not uscito:
                     stato["azioni"].append(f"{pid}: il post non e' uscito, la storia {i} aspetta")
                     continue
-                if storie_oggi is None or storie_oggi:
-                    stato["azioni"].append(f"{pid}: oggi c'e' gia' una storia (o non si leggono), non ne aggiungo")
+                if storie_oggi is None:
+                    stato["azioni"].append(f"{pid}: non riesco a leggere le storie di oggi, non ne aggiungo")
+                    continue
+                if len(storie_oggi) >= MAX_STORIE:
+                    stato["azioni"].append(f"{pid}: oggi ci sono gia' {len(storie_oggi)} storie, non ne aggiungo")
                     continue
                 if DRY:
                     stato["azioni"].append(f"{pid}: PROVA, pubblicherei la storia {s['file']}")
@@ -241,7 +282,7 @@ def main():
                     sid = pubblica_storia(s["file"])
                     pubblicati.setdefault(pid, {}).setdefault("storie", {})[str(i)] = sid
                     stato["azioni"].append(f"{pid}: storia pubblicata ({sid})")
-                    storie_oggi = [{"id": sid}]
+                    storie_oggi.append({"id": sid})
                 except ApiError as e:
                     stato["errori"].append(f"{pid} storia {i}: {e}")
 

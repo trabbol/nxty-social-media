@@ -1570,6 +1570,25 @@
    ],
    "data_originale": "2026-10-03",
    "pubblica_auto": true
+  },
+  {
+   "id": 72,
+   "data": "2026-10-04",
+   "giorno": "Domenica",
+   "ora": "subito (ordine diretto)",
+   "tipo": "storia",
+   "tema": "ripartenza dopo due giorni fermi: annuncia il carosello 71 del pomeriggio",
+   "pubblica_auto": true,
+   "solo_su_richiesta": true,
+   "ordine": "Alessandro in chat il 4/10 verso le 10:15Z: «ok pubblica ora una storia almeno»",
+   "storie": [
+    {
+     "ora": "subito",
+     "nome": "giuro",
+     "file": "stories/daily/1004_1030_giuro.jpg",
+     "nota": "crema; promessa con «non» e «mai» barrati in oro (batch_1004_giuro.py)"
+    }
+   ]
   }
  ]
 }

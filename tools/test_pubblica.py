@@ -66,6 +66,8 @@ for p in posts["posts"]:
         p["storie"] = [{"ora": "20:30", "nome": "test", "file": "stories/daily/x.jpg"}]
     if p["id"] == 70:
         p["data"] = "2026-10-05"; p["pubblica_auto"] = True
+posts["posts"].append({"id": 72, "data": "2026-10-04", "tipo": "storia", "pubblica_auto": True, "solo_su_richiesta": True,
+                       "storie": [{"nome": "giuro", "file": "stories/daily/1004_1030_giuro.jpg"}]})
 json.dump(posts, open(W + "/posts.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 
 def run(env, label):
@@ -132,4 +134,35 @@ assert c == 0 and len(reel) == 1 and reel[0]["share_to_feed"] == "true" and reel
 pj = json.load(open(W + "/pubblicati.json")); pj.pop("70"); json.dump(pj, open(W + "/pubblicati.json", "w"))
 c, st = run({"META_TOKEN": TOK, "EVENTO": "workflow_dispatch", "SLOT": "post", "POST_ID": "70", "DRY_RUN": "true"}, "12 prova a mano")
 assert c == 0 and "PROVA" in st["azioni"][0] and not any(m == "POST" for m, _, _ in LOG)
+# 13 richiesta.json valida su push: storia 72 pubblicata davvero
+STATE["recent"] = []; STATE["stories"] = []; STATE["story_mode"] = True
+for f in ("pubblicati.json",):
+    if os.path.exists(W + "/" + f): os.remove(W + "/" + f)
+json.dump({"rid": "2026-10-04-giuro", "id": 72, "slot": "storia", "entro": "2026-10-04T11:30:00Z"}, open(W + "/richiesta.json", "w"))
+c, st = run({"META_TOKEN": TOK, "EVENTO": "push", "ADESSO_TEST": "2026-10-04T10:20:00Z"}, "13 richiesta storia")
+sto = [b for m, p, b in LOG if m == "POST" and b.get("media_type") == "STORIES"]
+assert c == 0 and not st["dry_run"] and st.get("richiesta") == "2026-10-04-giuro" and len(sto) == 1
+assert sto[0]["image_url"].endswith("stories/daily/1004_1030_giuro.jpg")
+pj = json.load(open(W + "/pubblicati.json")); assert "2026-10-04-giuro" in pj["_richieste"] and pj["72"]["storie"]["0"]
+# 14 stesso push ripetuto: niente doppione
+c, st = run({"META_TOKEN": TOK, "EVENTO": "push", "ADESSO_TEST": "2026-10-04T10:25:00Z"}, "14 richiesta ripetuta")
+assert c == 0 and st["dry_run"] and "gia' eseguita" in st["azioni"][0] and not any(m == "POST" for m, _, _ in LOG)
+# 15 richiesta scaduta
+json.dump({"rid": "altra", "id": 72, "slot": "storia", "entro": "2026-10-04T09:00:00Z"}, open(W + "/richiesta.json", "w"))
+c, st = run({"META_TOKEN": TOK, "EVENTO": "push", "ADESSO_TEST": "2026-10-04T10:30:00Z"}, "15 richiesta scaduta")
+assert c == 0 and st["dry_run"] and "scaduta" in st["azioni"][0] and not any(m == "POST" for m, _, _ in LOG)
+os.remove(W + "/richiesta.json")
+# 16 giro delle 15:30Z: carosello 71 (la 72 e' solo su richiesta e non c'entra)
+c, st = run({"META_TOKEN": TOK, "EVENTO": "schedule", "CRON": "30 15 * * *", "ADESSO_TEST": "2026-10-04T15:32:00Z"}, "16 carosello dopo la storia")
+assert c == 0 and len(st["azioni"]) == 1 and "71: pubblicato" in st["azioni"][0]
+# 17 giro delle 18:30Z: la storia del carosello esce anche se oggi c'e' gia' la storia 72 (tetto 3)
+c, st = run({"META_TOKEN": TOK, "EVENTO": "schedule", "CRON": "30 18 * * *", "ADESSO_TEST": "2026-10-04T18:33:00Z"}, "17 seconda storia del giorno")
+sto = [b for m, p, b in LOG if m == "POST" and b.get("media_type") == "STORIES"]
+assert c == 0 and len(sto) == 1 and "storia pubblicata" in st["azioni"][0] and len(st["azioni"]) == 1
+# 18 tetto: con 3 storie oggi non ne aggiunge
+pj = json.load(open(W + "/pubblicati.json")); pj["71"].pop("storie"); json.dump(pj, open(W + "/pubblicati.json", "w"))
+STATE["stories"] += [{"id": "x1", "timestamp": "2026-10-04T12:00:00+0000"}]
+c, st = run({"META_TOKEN": TOK, "EVENTO": "schedule", "CRON": "30 18 * * *", "ADESSO_TEST": "2026-10-04T18:40:00Z"}, "18 tetto 3 storie")
+assert c == 0 and "non ne aggiungo" in st["azioni"][0] and not any(m == "POST" for m, _, _ in LOG)
+STATE["story_mode"] = False
 print("TUTTE LE PROVE PASSATE")
