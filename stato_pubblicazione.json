@@ -1,7 +1,7 @@
 {
- "ultimo_giro": "2026-10-04T18:44:27Z",
+ "ultimo_giro": "2026-10-04T21:42:56Z",
  "evento": "schedule",
- "slot": "post",
+ "slot": "storia",
  "dry_run": false,
  "token_ok": true,
  "account": {
@@ -10,7 +10,7 @@
   "media_count": 61
  },
  "azioni": [
-  "71: gia' pubblicato, salto"
+  "71: storia 0 gia' pubblicata, salto"
  ],
  "errori": [],
  "allineato": true
