@@ -1,0 +1,16 @@
+{
+ "ultimo_giro": "2026-10-04T10:02:13Z",
+ "evento": "push",
+ "slot": "post",
+ "dry_run": true,
+ "token_ok": true,
+ "account": {
+  "username": "nxty_app",
+  "followers_count": 53,
+  "media_count": 60
+ },
+ "azioni": [
+  "71: PROVA, pubblicherei il carosello (8 file) con la didascalia dell'entry"
+ ],
+ "errori": []
+}
