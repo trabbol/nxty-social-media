@@ -1,8 +1,8 @@
 {
- "ultimo_giro": "2026-10-04T16:16:04Z",
+ "ultimo_giro": "2026-10-04T18:37:25Z",
  "evento": "push",
- "slot": "post",
- "dry_run": true,
+ "slot": "storia",
+ "dry_run": false,
  "token_ok": true,
  "account": {
   "username": "nxty_app",
@@ -10,9 +10,9 @@
   "media_count": 61
  },
  "azioni": [
-  "richiesta 2026-10-04-caro71 gia' eseguita, la ignoro",
-  "71: gia' pubblicato, salto"
+  "71: storia pubblicata (18594600406071329)"
  ],
  "errori": [],
- "allineato": true
+ "allineato": true,
+ "richiesta": "2026-10-04-giuravi"
 }

@@ -9,6 +9,11 @@
    "eseguita": "2026-10-04T16:12:58Z",
    "id": 71,
    "slot": "post"
+  },
+  "2026-10-04-giuravi": {
+   "eseguita": "2026-10-04T18:37:25Z",
+   "id": 71,
+   "slot": "storia"
   }
  },
  "72": {
@@ -20,6 +25,9 @@
   "media_id": "18135792343631521",
   "permalink": "https://www.instagram.com/p/DeFCYhWEe9Y/",
   "pubblicato": "2026-10-04T16:13:37+0000",
-  "pubblicato_da": "GitHub Actions"
+  "pubblicato_da": "GitHub Actions",
+  "storie": {
+   "0": "18594600406071329"
+  }
  }
 }
