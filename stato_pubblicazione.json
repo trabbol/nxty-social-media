@@ -1,17 +1,18 @@
 {
- "ultimo_giro": "2026-10-04T16:12:58Z",
+ "ultimo_giro": "2026-10-04T16:16:04Z",
  "evento": "push",
  "slot": "post",
- "dry_run": false,
+ "dry_run": true,
  "token_ok": true,
  "account": {
   "username": "nxty_app",
   "followers_count": 53,
-  "media_count": 60
+  "media_count": 61
  },
  "azioni": [
-  "71: pubblicato https://www.instagram.com/p/DeFCYhWEe9Y/"
+  "richiesta 2026-10-04-caro71 gia' eseguita, la ignoro",
+  "71: gia' pubblicato, salto"
  ],
  "errori": [],
- "richiesta": "2026-10-04-caro71"
+ "allineato": true
 }
