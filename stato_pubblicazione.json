@@ -1,7 +1,7 @@
 {
- "ultimo_giro": "2026-10-04T10:07:15Z",
+ "ultimo_giro": "2026-10-04T16:12:58Z",
  "evento": "push",
- "slot": "storia",
+ "slot": "post",
  "dry_run": false,
  "token_ok": true,
  "account": {
@@ -10,8 +10,8 @@
   "media_count": 60
  },
  "azioni": [
-  "72: storia pubblicata (18179258743434754)"
+  "71: pubblicato https://www.instagram.com/p/DeFCYhWEe9Y/"
  ],
  "errori": [],
- "richiesta": "2026-10-04-giuro"
+ "richiesta": "2026-10-04-caro71"
 }

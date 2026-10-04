@@ -4,11 +4,22 @@
    "eseguita": "2026-10-04T10:07:15Z",
    "id": 72,
    "slot": "storia"
+  },
+  "2026-10-04-caro71": {
+   "eseguita": "2026-10-04T16:12:58Z",
+   "id": 71,
+   "slot": "post"
   }
  },
  "72": {
   "storie": {
    "0": "18179258743434754"
   }
+ },
+ "71": {
+  "media_id": "18135792343631521",
+  "permalink": "https://www.instagram.com/p/DeFCYhWEe9Y/",
+  "pubblicato": "2026-10-04T16:13:37+0000",
+  "pubblicato_da": "GitHub Actions"
  }
 }
