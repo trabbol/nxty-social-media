@@ -1,0 +1,69 @@
+# Pubblicazione automatica su Instagram (@nxty_app). Vedi tools/pubblica.py e la direttiva 40.
+# Il token Meta sta solo nel secret META_TOKEN del repository.
+name: Pubblica su Instagram
+
+on:
+  schedule:
+    - cron: '30 15 * * *'   # post del giorno (reel o carosello)
+    - cron: '30 18 * * *'   # storia del giorno
+  workflow_dispatch:
+    inputs:
+      slot:
+        description: 'Cosa pubblicare'
+        type: choice
+        options: [post, storia]
+        default: post
+      post_id:
+        description: 'id in posts.json (vuoto = il contenuto di oggi)'
+        required: false
+        default: ''
+      dry_run:
+        description: 'Solo prova: legge e dice cosa farebbe, senza pubblicare'
+        type: boolean
+        default: true
+  push:
+    branches: [main]
+    paths:
+      - 'tools/pubblica.py'
+      - '.github/workflows/pubblica.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pubblica-instagram
+  cancel-in-progress: false
+
+jobs:
+  pubblica:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 50
+
+      - name: Pubblica
+        env:
+          META_TOKEN: ${{ secrets.META_TOKEN }}
+          EVENTO: ${{ github.event_name }}
+          CRON: ${{ github.event.schedule }}
+          SLOT: ${{ github.event.inputs.slot }}
+          POST_ID: ${{ github.event.inputs.post_id }}
+          DRY_RUN: ${{ github.event_name == 'push' && 'true' || github.event.inputs.dry_run || 'false' }}
+        run: python3 tools/pubblica.py
+
+      - name: Salva esito nel repository
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stato_pubblicazione.json
+          [ -f pubblicati.json ] && git add pubblicati.json
+          if git diff --cached --quiet; then echo "niente da salvare"; exit 0; fi
+          git commit -m "pubblicazione automatica $(date -u +%Y-%m-%dT%H:%MZ) [skip ci]"
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            sleep 7
+          done
+          exit 1
