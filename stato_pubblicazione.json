@@ -1,8 +1,8 @@
 {
- "ultimo_giro": "2026-10-04T10:02:13Z",
+ "ultimo_giro": "2026-10-04T10:07:15Z",
  "evento": "push",
- "slot": "post",
- "dry_run": true,
+ "slot": "storia",
+ "dry_run": false,
  "token_ok": true,
  "account": {
   "username": "nxty_app",
@@ -10,7 +10,8 @@
   "media_count": 60
  },
  "azioni": [
-  "71: PROVA, pubblicherei il carosello (8 file) con la didascalia dell'entry"
+  "72: storia pubblicata (18179258743434754)"
  ],
- "errori": []
+ "errori": [],
+ "richiesta": "2026-10-04-giuro"
 }
