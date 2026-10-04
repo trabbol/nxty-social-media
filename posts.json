@@ -1586,9 +1586,13 @@
      "ora": "subito",
      "nome": "giuro",
      "file": "stories/daily/1004_1030_giuro.jpg",
-     "nota": "crema; promessa con «non» e «mai» barrati in oro (batch_1004_giuro.py)"
+     "nota": "crema; promessa con «non» e «mai» barrati in oro (batch_1004_giuro.py)",
+     "story_id": "18179258743434754",
+     "pubblicata": "2026-10-04T10:07:15Z",
+     "pubblicata_da": "GitHub Actions (richiesta.json)"
     }
-   ]
+   ],
+   "stato": "pubblicata"
   }
  ]
 }
