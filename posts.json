@@ -1556,7 +1556,7 @@
    "hashtag_set": "CORE + 2 tematici (max 5)",
    "caption": "A quindici anni giuravi: «Questa frase io non la dirò mai».\n\nPoi una sera ti è uscito «perché lo dico io», con lo stesso tono e la stessa pausa prima dell'ultima parola.\n\nLe frasi si ereditano senza accorgersene. La voce con cui te le dicevano, invece, va tenuta da parte: NXTY parte da lì.\n\n🌍 EN\n\nAt fifteen you swore: \"I will never say that.\"\n\nThen one evening \"because I said so\" came out of your mouth, same tone, same little pause before the last word.\n\nYou inherit the phrases without noticing. The voice they were said in is worth keeping, and that's where NXTY starts.\n\n#NXTY #NextToYou #PersoneCare #genitori #famiglia",
    "modalita": "GitHub Actions (direttiva 40)",
-   "stato": "programmato: 15:30Z del 4/10 via GitHub Actions",
+   "stato": "pubblicato",
    "storie": [
     {
      "ora": "20:30",
@@ -1569,7 +1569,12 @@
     "2026-10-04 (niente arretrati: kit del 3/10 ricordato per le 17:30, file non rimandati)"
    ],
    "data_originale": "2026-10-03",
-   "pubblica_auto": true
+   "pubblica_auto": true,
+   "permalink": "https://www.instagram.com/p/DeFCYhWEe9Y/",
+   "media_id": "18135792343631521",
+   "pubblicato": "2026-10-04T16:13:37Z",
+   "pubblicato_da": "GitHub Actions (richiesta.json)",
+   "nota_pubblicazione": "il giro programmato delle 15:30Z non e' partito (alle 16:12Z GitHub non l'aveva avviato); rilanciato con richiesta.json 2026-10-04-caro71"
   },
   {
    "id": 72,
