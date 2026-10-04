@@ -1562,7 +1562,10 @@
      "ora": "20:30",
      "nome": "giuravi",
      "file": "stories/daily/1004_2030_giuravi.jpg",
-     "nota": "amplifica scura con la copertina del carosello (batch_1004.py)"
+     "nota": "amplifica scura con la copertina del carosello (batch_1004.py)",
+     "story_id": "18594600406071329",
+     "pubblicata": "2026-10-04T18:37:25Z",
+     "pubblicata_da": "GitHub Actions (richiesta.json di riserva: il cron delle 18:30Z non era partito)"
     }
    ],
    "riproposto": [
