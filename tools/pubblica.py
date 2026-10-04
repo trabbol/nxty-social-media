@@ -24,13 +24,14 @@ Regole:
 import datetime as dt
 import json
 import os
+import subprocess
 import sys
 import time
 import urllib.error
 import urllib.parse
 import urllib.request
 
-VERSIONE = "2026-10-04c"  # cambiarla insieme a richiesta.json fa partire il workflow su push
+VERSIONE = "2026-10-04d"  # cambiarla insieme a richiesta.json fa partire il workflow su push
 API = os.environ.get("API_BASE", "https://graph.facebook.com/v21.0").rstrip("/")
 RAW = os.environ.get("RAW_BASE", "https://raw.githubusercontent.com/trabbol/nxty-social-media/main").rstrip("/") + "/"
 IG = os.environ.get("IG_USER_ID", "17841480193943878")
@@ -174,8 +175,21 @@ def leggi_richiesta(pubblicati):
     return r
 
 
+def allinea_al_remoto():
+    """Su GitHub Actions porta il checkout all'ultimo main prima di decidere: un giro partito in ritardo
+    (o in coda dietro un altro) vede cosi' il registro aggiornato e non ripubblica."""
+    if os.environ.get("GITHUB_ACTIONS") != "true":
+        return
+    r = subprocess.run(["git", "-C", RADICE, "pull", "--ff-only", "--quiet", "origin", "main"],
+                       capture_output=True, text=True, timeout=90)
+    stato["allineato"] = r.returncode == 0
+    if r.returncode != 0:
+        stato["azioni"].append("attenzione: allineamento a origin/main non riuscito, uso il checkout dell'evento")
+
+
 def main():
     global DRY, ID_IN
+    allinea_al_remoto()
     pubblicati = leggi("pubblicati.json", {})
     slot = slot_del_giro()
     richiesta = leggi_richiesta(pubblicati)

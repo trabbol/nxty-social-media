@@ -61,11 +61,17 @@ shutil.rmtree(W, ignore_errors=True); os.makedirs(W + "/tools")
 shutil.copy(SRC + "/tools/pubblica.py", W + "/tools/")
 posts = json.load(open(SRC + "/posts.json", encoding="utf-8"))
 for p in posts["posts"]:
+    if p["id"] in (70, 71, 72):  # stato "prima della pubblicazione", qualunque cosa ci sia nel posts.json vero
+        for k in ("permalink", "media_id", "pubblicato", "pubblicato_da"):
+            p.pop(k, None)
+        for st_ in p.get("storie", []):
+            st_.pop("story_id", None)
     if p["id"] == 71:
         p["data"] = "2026-10-04"; p["pubblica_auto"] = True
         p["storie"] = [{"ora": "20:30", "nome": "test", "file": "stories/daily/x.jpg"}]
     if p["id"] == 70:
         p["data"] = "2026-10-05"; p["pubblica_auto"] = True
+posts["posts"] = [p for p in posts["posts"] if p["id"] != 72]
 posts["posts"].append({"id": 72, "data": "2026-10-04", "tipo": "storia", "pubblica_auto": True, "solo_su_richiesta": True,
                        "storie": [{"nome": "giuro", "file": "stories/daily/1004_1030_giuro.jpg"}]})
 json.dump(posts, open(W + "/posts.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
