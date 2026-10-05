@@ -14,6 +14,11 @@
    "eseguita": "2026-10-04T18:37:25Z",
    "id": 71,
    "slot": "storia"
+  },
+  "2026-10-05-reel70": {
+   "eseguita": "2026-10-05T15:31:17Z",
+   "id": 70,
+   "slot": "post"
   }
  },
  "72": {
@@ -29,5 +34,11 @@
   "storie": {
    "0": "18594600406071329"
   }
+ },
+ "70": {
+  "media_id": "18107369252266432",
+  "permalink": "https://www.instagram.com/reel/DeHiXSPianf/",
+  "pubblicato": "2026-10-05T15:31:53+0000",
+  "pubblicato_da": "GitHub Actions"
  }
 }
