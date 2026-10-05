@@ -1524,13 +1524,20 @@
      "ora": "20:30",
      "nome": "pentole",
      "file": "stories/daily/1002_2030_pentole.jpg",
-     "nota": "amplifica scura con il fotogramma a 8,6 s"
+     "nota": "amplifica scura con il fotogramma a 8,6 s",
+     "story_id": "17960883765227894",
+     "pubblicata": "2026-10-05T18:31:09Z",
+     "pubblicata_da": "GitHub Actions (richiesta.json 2026-10-05-pentole)"
     }
    ],
-   "stato": "programmato: 15:30Z del 5/10 via GitHub Actions",
+   "stato": "pubblicato",
    "nota_slot": "2/10 15:30Z: non pubblicato. Il controllo di sicurezza ha bloccato l'uso del token Meta in Chrome (direttiva 39). Video e didascalia mandati ad Alessandro; in attesa della sua decisione.",
    "data_originale": "2026-10-02",
-   "pubblica_auto": true
+   "pubblica_auto": true,
+   "permalink": "https://www.instagram.com/reel/DeHiXSPianf/",
+   "media_id": "18107369252266432",
+   "pubblicato": "2026-10-05T15:31:53Z",
+   "pubblicato_da": "GitHub Actions (richiesta.json 2026-10-05-reel70)"
   },
   {
    "id": 71,
