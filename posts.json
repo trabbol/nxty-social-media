@@ -1601,6 +1601,33 @@
     }
    ],
    "stato": "pubblicata"
+  },
+  {
+   "id": 73,
+   "data": "2026-10-06",
+   "giorno": "Martedì",
+   "ora": "17:30",
+   "tipo": "reel",
+   "trial_reel": false,
+   "share_to_feed": true,
+   "serie": "Dal mammese all'italiano",
+   "episodio": 3,
+   "tema": "direttiva 32 - riconoscimento: le frasi della madre che vogliono dire ti voglio bene; battuta: «non ho bisogno di niente» = ho bisogno di te",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "video": "posts/daily/reel_1006_73.mp4",
+   "durata_s": 11.6,
+   "audio": "originale della serie (audio_0929.wav, stessi tempi degli ep. 1-2)",
+   "caption": "Anche tua madre dice «non ho bisogno di niente»?\n\n«Sei dimagrito.» «Va' piano.» «Ti accompagno fino alla macchina.» «Ti ho tenuto la torta.»\nTradotte, vogliono dire sempre la stessa cosa.\n\nTranne «non ho bisogno di niente». Quella vuol dire: ho bisogno di te.\n\nCerte lingue le parla una persona sola. NXTY è fatta per non perderne l'accento.\n\n🌍 EN\n\nDoes your mum say \"I don't need anything\" too?\n\n\"You've lost weight.\" \"Drive slowly.\" \"I'll walk you to the car.\" \"I saved you some cake.\"\nTranslated, they always mean the same thing.\n\nExcept \"I don't need anything\". That one means: I need you.\n\nSome languages are spoken by one person only. NXTY is made so you never lose the accent.\n\n#NXTY #NextToYou #PersoneCare #mammaitaliana #famiglia",
+   "pubblica_auto": true,
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "torta",
+     "file": "stories/daily/1006_2030_torta.jpg",
+     "nota": "amplifica scura con il fotogramma a 6,8 s, la battuta (batch_1006.py)"
+    }
+   ],
+   "preparato": "2026-10-05 (un giorno di scorta, direttiva 41)"
   }
  ]
 }
