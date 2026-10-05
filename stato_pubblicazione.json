@@ -1,8 +1,8 @@
 {
- "ultimo_giro": "2026-10-04T21:42:56Z",
- "evento": "schedule",
- "slot": "storia",
- "dry_run": false,
+ "ultimo_giro": "2026-10-05T07:32:01Z",
+ "evento": "push",
+ "slot": "post",
+ "dry_run": true,
  "token_ok": true,
  "account": {
   "username": "nxty_app",
@@ -10,8 +10,561 @@
   "media_count": 61
  },
  "azioni": [
-  "71: storia 0 gia' pubblicata, salto"
+  "richiesta 2026-10-04-giuravi gia' eseguita, la ignoro",
+  "70: PROVA, pubblicherei il reel (1 file) con la didascalia dell'entry"
  ],
  "errori": [],
- "allineato": true
+ "allineato": true,
+ "media": [
+  {
+   "id": "18135792343631521",
+   "timestamp": "2026-10-04T16:13:37+0000",
+   "media_product_type": "FEED",
+   "media_type": "CAROUSEL_ALBUM",
+   "like_count": 2,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/p/DeFCYhWEe9Y/"
+  },
+  {
+   "id": "18054546218581907",
+   "timestamp": "2026-10-01T15:33:07+0000",
+   "media_product_type": "REELS",
+   "media_type": "VIDEO",
+   "like_count": 2,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/reel/Dd9PTO6gfOx/"
+  },
+  {
+   "id": "17912691783280894",
+   "timestamp": "2026-09-30T19:09:13+0000",
+   "media_product_type": "REELS",
+   "media_type": "VIDEO",
+   "like_count": 1,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/reel/Dd7DPtzFXSM/"
+  },
+  {
+   "id": "18120824530941922",
+   "timestamp": "2026-09-29T15:34:14+0000",
+   "media_product_type": "REELS",
+   "media_type": "VIDEO",
+   "like_count": 2,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/reel/Dd4FzbiAC3c/"
+  },
+  {
+   "id": "18030824678912579",
+   "timestamp": "2026-09-27T15:31:43+0000",
+   "media_product_type": "FEED",
+   "media_type": "IMAGE",
+   "like_count": 2,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/p/Ddy8AkLmyBm/"
+  },
+  {
+   "id": "18341117968270162",
+   "timestamp": "2026-09-26T15:31:38+0000",
+   "media_product_type": "FEED",
+   "media_type": "IMAGE",
+   "like_count": 2,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/p/DdwXM0cm9uh/"
+  },
+  {
+   "id": "18110831279148897",
+   "timestamp": "2026-09-25T15:32:14+0000",
+   "media_product_type": "REELS",
+   "media_type": "VIDEO",
+   "like_count": 2,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/reel/DdtybfPAZAz/"
+  },
+  {
+   "id": "18094738826648549",
+   "timestamp": "2026-09-24T15:31:18+0000",
+   "media_product_type": "FEED",
+   "media_type": "IMAGE",
+   "like_count": 2,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/p/DdrNkhmG426/"
+  },
+  {
+   "id": "17909677227470762",
+   "timestamp": "2026-09-23T15:31:46+0000",
+   "media_product_type": "FEED",
+   "media_type": "IMAGE",
+   "like_count": 2,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/p/Ddoo1Tim2Yy/"
+  },
+  {
+   "id": "18160290091498807",
+   "timestamp": "2026-09-22T15:31:47+0000",
+   "media_product_type": "REELS",
+   "media_type": "VIDEO",
+   "like_count": 2,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/reel/DdmD-qVD1yF/"
+  },
+  {
+   "id": "18126963598813158",
+   "timestamp": "2026-09-21T15:31:08+0000",
+   "media_product_type": "FEED",
+   "media_type": "IMAGE",
+   "like_count": 2,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/p/DdjfK-umzjE/"
+  },
+  {
+   "id": "18128985727685953",
+   "timestamp": "2026-09-20T15:31:46+0000",
+   "media_product_type": "FEED",
+   "media_type": "IMAGE",
+   "like_count": 2,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/p/Ddg6cy5m5AB/"
+  },
+  {
+   "id": "18135034726726804",
+   "timestamp": "2026-09-19T15:31:19+0000",
+   "media_product_type": "FEED",
+   "media_type": "IMAGE",
+   "like_count": 3,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/p/DdeVmI1m5KH/"
+  },
+  {
+   "id": "17937514482369505",
+   "timestamp": "2026-09-18T15:32:29+0000",
+   "media_product_type": "REELS",
+   "media_type": "VIDEO",
+   "like_count": 3,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/reel/Ddbw4qaDWvr/"
+  },
+  {
+   "id": "18096802892442315",
+   "timestamp": "2026-09-17T15:31:19+0000",
+   "media_product_type": "FEED",
+   "media_type": "IMAGE",
+   "like_count": 5,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/p/DdZL_8im5pC/"
+  },
+  {
+   "id": "18171022624457043",
+   "timestamp": "2026-09-16T17:01:34+0000",
+   "media_product_type": "FEED",
+   "media_type": "IMAGE",
+   "like_count": 4,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/p/DdWxhECCs_O/"
+  },
+  {
+   "id": "18009689507967777",
+   "timestamp": "2026-09-15T08:31:58+0000",
+   "media_product_type": "REELS",
+   "media_type": "VIDEO",
+   "like_count": 5,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/reel/DdTSYs1ijtc/"
+  },
+  {
+   "id": "18145237045566848",
+   "timestamp": "2026-09-14T15:31:43+0000",
+   "media_product_type": "FEED",
+   "media_type": "IMAGE",
+   "like_count": 5,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/p/DdRdql6lvD_/"
+  },
+  {
+   "id": "18052106039587874",
+   "timestamp": "2026-09-13T15:31:15+0000",
+   "media_product_type": "FEED",
+   "media_type": "IMAGE",
+   "like_count": 5,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/p/DdO40bsFgn-/"
+  },
+  {
+   "id": "17896427424600524",
+   "timestamp": "2026-09-12T15:31:42+0000",
+   "media_product_type": "FEED",
+   "media_type": "IMAGE",
+   "like_count": 3,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/p/DdMUE39CF5x/"
+  },
+  {
+   "id": "17987082449866918",
+   "timestamp": "2026-09-11T07:48:11+0000",
+   "media_product_type": "REELS",
+   "media_type": "VIDEO",
+   "like_count": 4,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/reel/DdI6LV9gUri/"
+  },
+  {
+   "id": "18086470016654894",
+   "timestamp": "2026-09-10T15:31:32+0000",
+   "media_product_type": "FEED",
+   "media_type": "IMAGE",
+   "like_count": 5,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/p/DdHKdv0FhYY/"
+  },
+  {
+   "id": "18623635510040456",
+   "timestamp": "2026-09-09T15:33:30+0000",
+   "media_product_type": "FEED",
+   "media_type": "IMAGE",
+   "like_count": 6,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/p/DdEl1lolswp/"
+  },
+  {
+   "id": "17934460941367871",
+   "timestamp": "2026-09-08T07:48:02+0000",
+   "media_product_type": "REELS",
+   "media_type": "VIDEO",
+   "like_count": 5,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/reel/DdBLzIUDjnD/"
+  },
+  {
+   "id": "18033868139891710",
+   "timestamp": "2026-09-07T15:31:25+0000",
+   "media_product_type": "FEED",
+   "media_type": "IMAGE",
+   "like_count": 4,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/p/Dc_cEF0lq5v/"
+  },
+  {
+   "id": "18172387135445838",
+   "timestamp": "2026-09-06T15:32:01+0000",
+   "media_product_type": "FEED",
+   "media_type": "IMAGE",
+   "like_count": 6,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/p/Dc83V0dFlfx/"
+  },
+  {
+   "id": "18125324959702140",
+   "timestamp": "2026-09-05T15:31:19+0000",
+   "media_product_type": "FEED",
+   "media_type": "IMAGE",
+   "like_count": 5,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/p/Dc6SdpFlkky/"
+  },
+  {
+   "id": "18437263993130795",
+   "timestamp": "2026-09-04T19:02:48+0000",
+   "media_product_type": "REELS",
+   "media_type": "VIDEO",
+   "like_count": 6,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/reel/Dc4FwOvj3Fc/"
+  },
+  {
+   "id": "18622314511051833",
+   "timestamp": "2026-09-03T07:02:01+0000",
+   "media_product_type": "REELS",
+   "media_type": "VIDEO",
+   "like_count": 6,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/reel/Dc0Oj28DhSf/"
+  },
+  {
+   "id": "18125963449828144",
+   "timestamp": "2026-09-02T15:31:59+0000",
+   "media_product_type": "FEED",
+   "media_type": "IMAGE",
+   "like_count": 6,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/p/DcykJdDloPC/"
+  },
+  {
+   "id": "17876568084543479",
+   "timestamp": "2026-09-01T15:31:36+0000",
+   "media_product_type": "FEED",
+   "media_type": "IMAGE",
+   "like_count": 8,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/p/Dcv_T1cFrFR/"
+  },
+  {
+   "id": "17982777348097734",
+   "timestamp": "2026-08-31T19:03:02+0000",
+   "media_product_type": "REELS",
+   "media_type": "VIDEO",
+   "like_count": 6,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/reel/DctyrQLiulq/"
+  },
+  {
+   "id": "18148367869535186",
+   "timestamp": "2026-08-30T15:31:45+0000",
+   "media_product_type": "FEED",
+   "media_type": "IMAGE",
+   "like_count": 5,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/p/Dcq1v0slmGQ/"
+  },
+  {
+   "id": "18110962628024143",
+   "timestamp": "2026-08-29T15:32:11+0000",
+   "media_product_type": "FEED",
+   "media_type": "IMAGE",
+   "like_count": 5,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/p/DcoRANdkV1E/"
+  },
+  {
+   "id": "17887816545675355",
+   "timestamp": "2026-08-28T19:02:54+0000",
+   "media_product_type": "REELS",
+   "media_type": "VIDEO",
+   "like_count": 5,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/reel/DcmERqWgljo/"
+  },
+  {
+   "id": "17921015976202760",
+   "timestamp": "2026-08-27T15:33:00+0000",
+   "media_product_type": "FEED",
+   "media_type": "IMAGE",
+   "like_count": 6,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/p/DcjHgRVFue9/"
+  },
+  {
+   "id": "18340382350255160",
+   "timestamp": "2026-08-26T15:32:17+0000",
+   "media_product_type": "FEED",
+   "media_type": "IMAGE",
+   "like_count": 5,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/p/Dcgin76jpLL/"
+  },
+  {
+   "id": "18089084861166697",
+   "timestamp": "2026-08-25T19:03:25+0000",
+   "media_product_type": "REELS",
+   "media_type": "VIDEO",
+   "like_count": 6,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/reel/DceV-eelenZ/"
+  },
+  {
+   "id": "18195110992379625",
+   "timestamp": "2026-08-24T15:37:52+0000",
+   "media_product_type": "FEED",
+   "media_type": "IMAGE",
+   "like_count": 4,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/p/DcbZhjajXzj/"
+  },
+  {
+   "id": "17864244252658359",
+   "timestamp": "2026-08-23T15:32:12+0000",
+   "media_product_type": "FEED",
+   "media_type": "IMAGE",
+   "like_count": 6,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/p/DcY0OxCm_IQ/"
+  },
+  {
+   "id": "17929372866400156",
+   "timestamp": "2026-08-23T05:18:53+0000",
+   "media_product_type": "REELS",
+   "media_type": "VIDEO",
+   "like_count": 7,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/reel/DcXuBcLDwMQ/"
+  },
+  {
+   "id": "18120693791504395",
+   "timestamp": "2026-08-21T15:32:49+0000",
+   "media_product_type": "FEED",
+   "media_type": "IMAGE",
+   "like_count": 6,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/p/DcTqsGOFToJ/"
+  },
+  {
+   "id": "17976726141086273",
+   "timestamp": "2026-08-20T15:32:19+0000",
+   "media_product_type": "FEED",
+   "media_type": "IMAGE",
+   "like_count": 5,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/p/DcRF2ZblRFE/"
+  },
+  {
+   "id": "18114108595942676",
+   "timestamp": "2026-08-19T19:02:35+0000",
+   "media_product_type": "REELS",
+   "media_type": "VIDEO",
+   "like_count": 6,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/reel/DcO5Fd0gLJ-/"
+  },
+  {
+   "id": "17944903059294253",
+   "timestamp": "2026-08-18T15:31:55+0000",
+   "media_product_type": "FEED",
+   "media_type": "IMAGE",
+   "like_count": 5,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/p/DcL8OaCFdbD/"
+  },
+  {
+   "id": "18126161035758931",
+   "timestamp": "2026-08-17T15:36:08+0000",
+   "media_product_type": "FEED",
+   "media_type": "IMAGE",
+   "like_count": 5,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/p/DcJX6Stla15/"
+  },
+  {
+   "id": "18112335400976939",
+   "timestamp": "2026-08-16T19:03:59+0000",
+   "media_product_type": "REELS",
+   "media_type": "VIDEO",
+   "like_count": 7,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/reel/DcHKzPVAgfo/"
+  },
+  {
+   "id": "17980204497081540",
+   "timestamp": "2026-08-15T15:31:28+0000",
+   "media_product_type": "FEED",
+   "media_type": "IMAGE",
+   "like_count": 3,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/p/DcENynDlVCn/"
+  },
+  {
+   "id": "18201154666372991",
+   "timestamp": "2026-08-14T17:09:59+0000",
+   "media_product_type": "FEED",
+   "media_type": "IMAGE",
+   "like_count": 5,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/p/DcB0RHlFbrL/"
+  },
+  {
+   "id": "18107352887039060",
+   "timestamp": "2026-08-13T18:03:20+0000",
+   "media_product_type": "REELS",
+   "media_type": "VIDEO",
+   "like_count": 5,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/reel/Db_VgbClRAU/"
+  },
+  {
+   "id": "18103548028926813",
+   "timestamp": "2026-08-12T16:00:01+0000",
+   "media_product_type": "FEED",
+   "media_type": "IMAGE",
+   "like_count": 5,
+   "comments_count": 1,
+   "permalink": "https://www.instagram.com/p/Db8iq1JlYXz/"
+  },
+  {
+   "id": "18009117911941833",
+   "timestamp": "2026-08-11T10:32:47+0000",
+   "media_product_type": "FEED",
+   "media_type": "IMAGE",
+   "like_count": 4,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/p/Db5YZiTj5Jh/"
+  },
+  {
+   "id": "18088248707398184",
+   "timestamp": "2026-08-10T16:33:08+0000",
+   "media_product_type": "REELS",
+   "media_type": "VIDEO",
+   "like_count": 7,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/reel/Db3cv9pD6em/"
+  },
+  {
+   "id": "17874070632553337",
+   "timestamp": "2026-08-09T19:02:43+0000",
+   "media_product_type": "FEED",
+   "media_type": "IMAGE",
+   "like_count": 7,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/p/Db1JG-WiYXL/"
+  },
+  {
+   "id": "18122268589830588",
+   "timestamp": "2026-08-08T15:31:40+0000",
+   "media_product_type": "FEED",
+   "media_type": "IMAGE",
+   "like_count": 6,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/p/DbyMPWuliwH/"
+  },
+  {
+   "id": "18093317267435883",
+   "timestamp": "2026-08-07T15:32:38+0000",
+   "media_product_type": "FEED",
+   "media_type": "IMAGE",
+   "like_count": 7,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/p/Dbvng-FFoPa/"
+  },
+  {
+   "id": "18125289026501323",
+   "timestamp": "2026-08-06T18:04:02+0000",
+   "media_product_type": "REELS",
+   "media_type": "VIDEO",
+   "like_count": 7,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/reel/DbtUDq7DDJI/"
+  },
+  {
+   "id": "18118561927926944",
+   "timestamp": "2026-08-05T10:32:32+0000",
+   "media_product_type": "FEED",
+   "media_type": "IMAGE",
+   "like_count": 6,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/p/Dbp7jsFlgDC/"
+  },
+  {
+   "id": "18084573518226086",
+   "timestamp": "2026-08-04T10:30:09+0000",
+   "media_product_type": "FEED",
+   "media_type": "CAROUSEL_ALBUM",
+   "like_count": 5,
+   "comments_count": 1,
+   "permalink": "https://www.instagram.com/p/DbnWmDiD3cq/"
+  },
+  {
+   "id": "18107407742594128",
+   "timestamp": "2026-08-03T19:51:33+0000",
+   "media_product_type": "REELS",
+   "media_type": "VIDEO",
+   "like_count": 5,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/reel/DblyAm0EtJj/"
+  },
+  {
+   "id": "18110431136080112",
+   "timestamp": "2026-08-01T09:22:39+0000",
+   "media_product_type": "REELS",
+   "media_type": "VIDEO",
+   "like_count": 14,
+   "comments_count": 1,
+   "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
+  }
+ ],
+ "media_letti": "2026-10-05T07:32:01Z"
 }
