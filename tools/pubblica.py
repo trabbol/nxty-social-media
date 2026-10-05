@@ -31,7 +31,7 @@ import urllib.error
 import urllib.parse
 import urllib.request
 
-VERSIONE = "2026-10-04e"  # cambiarla insieme a richiesta.json fa partire il workflow su push
+VERSIONE = "2026-10-05a"  # cambiarla insieme a richiesta.json fa partire il workflow su push
 API = os.environ.get("API_BASE", "https://graph.facebook.com/v21.0").rstrip("/")
 RAW = os.environ.get("RAW_BASE", "https://raw.githubusercontent.com/trabbol/nxty-social-media/main").rstrip("/") + "/"
 IG = os.environ.get("IG_USER_ID", "17841480193943878")
@@ -175,6 +175,22 @@ def leggi_richiesta(pubblicati):
     return r
 
 
+def leggi_media():
+    """Like e commenti di tutti i post (dati pubblici del profilo) per i report: nessun insight privato."""
+    out, after = [], None
+    for _ in range(4):
+        q = {"fields": "id,timestamp,media_product_type,media_type,like_count,comments_count,permalink", "limit": "50"}
+        if after:
+            q["after"] = after
+        r = call("GET", f"{IG}/media", q)
+        out += [{k: m.get(k) for k in ("id", "timestamp", "media_product_type", "media_type",
+                                         "like_count", "comments_count", "permalink")} for m in r.get("data", [])]
+        after = (r.get("paging") or {}).get("cursors", {}).get("after")
+        if not (r.get("paging") or {}).get("next") or not after:
+            break
+    return out
+
+
 def allinea_al_remoto():
     """Su GitHub Actions porta il checkout all'ultimo main prima di decidere: un giro partito in ritardo
     (o in coda dietro un altro) vede cosi' il registro aggiornato e non ripubblica."""
@@ -208,6 +224,11 @@ def main():
     except ApiError as e:
         stato["errori"].append(f"token non valido o scaduto: {e}")
         return 1
+    try:
+        stato["media"] = leggi_media()
+        stato["media_letti"] = stato["ultimo_giro"]
+    except ApiError as e:
+        stato["azioni"].append(f"attenzione: lettura like/commenti non riuscita ({e})")
     if slot is None:
         stato["errori"].append(f"slot sconosciuto (evento {EVENTO}, cron '{CRON}')")
         return 1
