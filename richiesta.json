@@ -1,7 +1,7 @@
 {
- "rid": "2026-10-04-giuravi",
- "id": 71,
- "slot": "storia",
- "entro": "2026-10-04T21:00:00Z",
- "ordine": "riserva dello slot storia 18:30Z (il cron di GitHub non e' partito); piano approvato da Alessandro il 4/10"
+ "rid": "2026-10-05-reel70",
+ "id": 70,
+ "slot": "post",
+ "entro": "2026-10-05T18:00:00Z",
+ "ordine": "slot post 15:30Z del 5/10 (riserva principale, direttiva 40)"
 }
