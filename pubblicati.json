@@ -19,6 +19,11 @@
    "eseguita": "2026-10-05T15:31:17Z",
    "id": 70,
    "slot": "post"
+  },
+  "2026-10-05-pentole": {
+   "eseguita": "2026-10-05T18:31:09Z",
+   "id": 70,
+   "slot": "storia"
   }
  },
  "72": {
@@ -39,6 +44,9 @@
   "media_id": "18107369252266432",
   "permalink": "https://www.instagram.com/reel/DeHiXSPianf/",
   "pubblicato": "2026-10-05T15:31:53+0000",
-  "pubblicato_da": "GitHub Actions"
+  "pubblicato_da": "GitHub Actions",
+  "storie": {
+   "0": "17960883765227894"
+  }
  }
 }
