@@ -1635,6 +1635,33 @@
     }
    ],
    "preparato": "2026-10-05 (un giorno di scorta, direttiva 41)"
+  },
+  {
+   "id": 74,
+   "data": "2026-10-07",
+   "giorno": "Mercoledì",
+   "ora": "17:30",
+   "tipo": "reel",
+   "trial_reel": false,
+   "share_to_feed": true,
+   "serie": "Il vocale della nonna",
+   "episodio": 3,
+   "tema": "direttiva 32 - riconoscimento: il vocale da «un minuto» che dura due; chiusura «volevo sentirti»",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "video": "posts/daily/reel_1007_74.mp4",
+   "durata_s": 11.8,
+   "audio": "originale (audio_1007.py): tema della serie + brusio di televisore sintetico + tocchi sullo schermo",
+   "caption": "Anche tua nonna «ti ruba solo un minuto»?\n\nPromette un minuto. Ti chiede della signora del terzo piano. Lascia il telegiornale a tutto volume. Spiega a Pina che sta parlando con te. Dice che non era niente di importante. Cerca il tasto per chiudere.\n\nDue minuti e tre secondi per dire «volevo sentirti».\n\nQuei vocali tienili, anche quelli lunghi: sono la sua voce com'è davvero. NXTY parte da lì.\n\n🌍 EN\n\nDoes your grandma also \"only take a minute\"?\n\nShe promises one minute. Asks about the lady on the third floor. Leaves the news on full blast. Tells Pina she's talking to you. Says it was nothing important. Looks for the button to hang up.\n\nTwo minutes and three seconds to say \"I wanted to hear you\".\n\nKeep those voice notes, even the long ones: that's her voice as it really is. That's where NXTY starts.\n\n#NXTY #NextToYou #PersoneCare #nonna #vocali",
+   "pubblica_auto": true,
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "pina",
+     "file": "stories/daily/1007_2030_pina.jpg",
+     "nota": "amplifica scura con il fotogramma a 8,6 s, la trascrizione completa (batch_1007.py)"
+    }
+   ],
+   "preparato": "2026-10-06 (un giorno di scorta, direttiva 41)"
   }
  ]
 }
