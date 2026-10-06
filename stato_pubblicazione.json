@@ -1,7 +1,7 @@
 {
- "ultimo_giro": "2026-10-06T18:31:22Z",
- "evento": "push",
- "slot": "storia",
+ "ultimo_giro": "2026-10-06T20:29:48Z",
+ "evento": "schedule",
+ "slot": "post",
  "dry_run": false,
  "token_ok": true,
  "account": {
@@ -10,11 +10,10 @@
   "media_count": 63
  },
  "azioni": [
-  "73: storia pubblicata (17986196733089960)"
+  "giro fuori finestra (20:29Z): non pubblico niente"
  ],
  "errori": [],
  "allineato": true,
- "richiesta": "2026-10-06-torta",
  "media": [
   {
    "id": "18200180455379024",
@@ -584,5 +583,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-10-06T18:31:22Z"
+ "media_letti": "2026-10-06T20:29:48Z"
 }
