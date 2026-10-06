@@ -29,6 +29,11 @@
    "eseguita": "2026-10-06T15:31:22Z",
    "id": 73,
    "slot": "post"
+  },
+  "2026-10-06-torta": {
+   "eseguita": "2026-10-06T18:31:22Z",
+   "id": 73,
+   "slot": "storia"
   }
  },
  "72": {
@@ -58,6 +63,9 @@
   "media_id": "18200180455379024",
   "permalink": "https://www.instagram.com/reel/DeKHLITAI7g/",
   "pubblicato": "2026-10-06T15:32:03+0000",
-  "pubblicato_da": "GitHub Actions"
+  "pubblicato_da": "GitHub Actions",
+  "storie": {
+   "0": "17986196733089960"
+  }
  }
 }

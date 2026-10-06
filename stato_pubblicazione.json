@@ -1,21 +1,30 @@
 {
- "ultimo_giro": "2026-10-06T15:31:22Z",
+ "ultimo_giro": "2026-10-06T18:31:22Z",
  "evento": "push",
- "slot": "post",
+ "slot": "storia",
  "dry_run": false,
  "token_ok": true,
  "account": {
   "username": "nxty_app",
   "followers_count": 53,
-  "media_count": 62
+  "media_count": 63
  },
  "azioni": [
-  "73: pubblicato https://www.instagram.com/reel/DeKHLITAI7g/"
+  "73: storia pubblicata (17986196733089960)"
  ],
  "errori": [],
  "allineato": true,
- "richiesta": "2026-10-06-reel73",
+ "richiesta": "2026-10-06-torta",
  "media": [
+  {
+   "id": "18200180455379024",
+   "timestamp": "2026-10-06T15:32:03+0000",
+   "media_product_type": "REELS",
+   "media_type": "VIDEO",
+   "like_count": 2,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/reel/DeKHLITAI7g/"
+  },
   {
    "id": "18107369252266432",
    "timestamp": "2026-10-05T15:31:53+0000",
@@ -575,5 +584,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-10-06T15:31:22Z"
+ "media_letti": "2026-10-06T18:31:22Z"
 }
