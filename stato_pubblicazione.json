@@ -1,21 +1,29 @@
 {
- "ultimo_giro": "2026-10-07T15:31:47Z",
- "evento": "push",
+ "ultimo_giro": "2026-10-07T20:44:00Z",
+ "evento": "schedule",
  "slot": "post",
  "dry_run": false,
  "token_ok": true,
  "account": {
   "username": "nxty_app",
   "followers_count": 53,
-  "media_count": 63
+  "media_count": 64
  },
  "azioni": [
-  "74: pubblicato https://www.instagram.com/reel/DeMsFleCMZP/"
+  "giro fuori finestra (20:44Z): non pubblico niente"
  ],
  "errori": [],
  "allineato": true,
- "richiesta": "2026-10-07-reel74",
  "media": [
+  {
+   "id": "17944151022359686",
+   "timestamp": "2026-10-07T15:33:08+0000",
+   "media_product_type": "REELS",
+   "media_type": "VIDEO",
+   "like_count": 2,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/reel/DeMsFleCMZP/"
+  },
   {
    "id": "18200180455379024",
    "timestamp": "2026-10-06T15:32:03+0000",
@@ -584,5 +592,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-10-07T15:31:47Z"
+ "media_letti": "2026-10-07T20:44:00Z"
 }
