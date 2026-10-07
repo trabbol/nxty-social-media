@@ -34,6 +34,11 @@
    "eseguita": "2026-10-06T18:31:22Z",
    "id": 73,
    "slot": "storia"
+  },
+  "2026-10-07-reel74": {
+   "eseguita": "2026-10-07T15:31:47Z",
+   "id": 74,
+   "slot": "post"
   }
  },
  "72": {
@@ -67,5 +72,11 @@
   "storie": {
    "0": "17986196733089960"
   }
+ },
+ "74": {
+  "media_id": "17944151022359686",
+  "permalink": "https://www.instagram.com/reel/DeMsFleCMZP/",
+  "pubblicato": "2026-10-07T15:33:08+0000",
+  "pubblicato_da": "GitHub Actions"
  }
 }
