@@ -1670,6 +1670,33 @@
     }
    ],
    "preparato": "2026-10-06 (un giorno di scorta, direttiva 41)"
+  },
+  {
+   "id": 75,
+   "data": "2026-10-08",
+   "giorno": "Giovedì",
+   "ora": "17:30",
+   "tipo": "reel",
+   "trial_reel": false,
+   "share_to_feed": true,
+   "serie": "Dal mammese all'italiano",
+   "episodio": 4,
+   "tema": "direttiva 32 - riconoscimento: le frasi della madre che vogliono dire ti voglio bene; battuta: «non serve che vieni» = vieni",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "video": "posts/daily/reel_1008_75.mp4",
+   "durata_s": 11.6,
+   "audio": "originale della serie (audio_0929.wav, stessi tempi degli ep. 1-3)",
+   "caption": "Anche tua madre dice «non serve che vieni»?\n\n«Dormi abbastanza?» «Hai bisogno di soldi?» «Ti ho prenotato il dentista.» «Fammi sapere.»\nTradotte, vogliono dire sempre la stessa cosa.\n\nTranne «non serve che vieni». Quella vuol dire: vieni.\n\nCerte lingue le parla una persona sola. NXTY è fatta per non perderne l'accento.\n\n🌍 EN\n\nDoes your mum say \"you don't need to come\" too?\n\n\"Are you sleeping enough?\" \"Do you need money?\" \"I booked you the dentist.\" \"Let me know.\"\nTranslated, they always mean the same thing.\n\nExcept \"you don't need to come\". That one means: come.\n\nSome languages are spoken by one person only. NXTY is made so you never lose the accent.\n\n#NXTY #NextToYou #PersoneCare #mammaitaliana #famiglia",
+   "pubblica_auto": true,
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "dentista",
+     "file": "stories/daily/1008_2030_dentista.jpg",
+     "nota": "amplifica scura con il fotogramma a 6,8 s, la battuta (batch_1008.py)"
+    }
+   ],
+   "preparato": "2026-10-07 (un giorno di scorta, direttiva 41)"
   }
  ]
 }
