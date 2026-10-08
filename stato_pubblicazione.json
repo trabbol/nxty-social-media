@@ -1,7 +1,7 @@
 {
- "ultimo_giro": "2026-10-08T20:46:30Z",
+ "ultimo_giro": "2026-10-08T23:28:56Z",
  "evento": "schedule",
- "slot": "post",
+ "slot": "storia",
  "dry_run": false,
  "token_ok": true,
  "account": {
@@ -10,7 +10,7 @@
   "media_count": 65
  },
  "azioni": [
-  "giro fuori finestra (20:46Z): non pubblico niente"
+  "giro fuori finestra (23:28Z): non pubblico niente"
  ],
  "errori": [],
  "allineato": true,
@@ -601,5 +601,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-10-08T20:46:30Z"
+ "media_letti": "2026-10-08T23:28:56Z"
 }
