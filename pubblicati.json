@@ -44,6 +44,11 @@
    "eseguita": "2026-10-08T15:31:51Z",
    "id": 75,
    "slot": "post"
+  },
+  "2026-10-08-dentista": {
+   "eseguita": "2026-10-08T18:31:18Z",
+   "id": 75,
+   "slot": "storia"
   }
  },
  "72": {
@@ -88,6 +93,9 @@
   "media_id": "17894388693681127",
   "permalink": "https://www.instagram.com/reel/DePQzaujh3m/",
   "pubblicato": "2026-10-08T15:32:21+0000",
-  "pubblicato_da": "GitHub Actions"
+  "pubblicato_da": "GitHub Actions",
+  "storie": {
+   "0": "18118637438083241"
+  }
  }
 }
