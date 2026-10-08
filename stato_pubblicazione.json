@@ -1,7 +1,7 @@
 {
- "ultimo_giro": "2026-10-08T18:31:18Z",
- "evento": "push",
- "slot": "storia",
+ "ultimo_giro": "2026-10-08T20:46:30Z",
+ "evento": "schedule",
+ "slot": "post",
  "dry_run": false,
  "token_ok": true,
  "account": {
@@ -10,11 +10,10 @@
   "media_count": 65
  },
  "azioni": [
-  "75: storia pubblicata (18118637438083241)"
+  "giro fuori finestra (20:46Z): non pubblico niente"
  ],
  "errori": [],
  "allineato": true,
- "richiesta": "2026-10-08-dentista",
  "media": [
   {
    "id": "17894388693681127",
@@ -602,5 +601,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-10-08T18:31:18Z"
+ "media_letti": "2026-10-08T20:46:30Z"
 }
