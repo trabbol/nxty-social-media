@@ -39,6 +39,11 @@
    "eseguita": "2026-10-07T15:31:47Z",
    "id": 74,
    "slot": "post"
+  },
+  "2026-10-08-reel75": {
+   "eseguita": "2026-10-08T15:31:51Z",
+   "id": 75,
+   "slot": "post"
   }
  },
  "72": {
@@ -77,6 +82,12 @@
   "media_id": "17944151022359686",
   "permalink": "https://www.instagram.com/reel/DeMsFleCMZP/",
   "pubblicato": "2026-10-07T15:33:08+0000",
+  "pubblicato_da": "GitHub Actions"
+ },
+ "75": {
+  "media_id": "17894388693681127",
+  "permalink": "https://www.instagram.com/reel/DePQzaujh3m/",
+  "pubblicato": "2026-10-08T15:32:21+0000",
   "pubblicato_da": "GitHub Actions"
  }
 }
