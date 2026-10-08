@@ -1666,10 +1666,17 @@
      "ora": "20:30",
      "nome": "pina",
      "file": "stories/daily/1007_2030_pina.jpg",
-     "nota": "amplifica scura con il fotogramma a 8,6 s, la trascrizione completa (batch_1007.py)"
+     "nota": "amplifica scura con il fotogramma a 8,6 s, la trascrizione completa (batch_1007.py)",
+     "stato": "saltata",
+     "esito": "non uscita: alle 18:30Z e alle 18:45Z il PC non era raggiungibile (niente riserva) e il cron di GitHub delle 18:30Z e' arrivato alle 23:13:30Z, fuori finestra. Niente arretrati (direttiva 39)."
     }
    ],
-   "preparato": "2026-10-06 (un giorno di scorta, direttiva 41)"
+   "preparato": "2026-10-06 (un giorno di scorta, direttiva 41)",
+   "permalink": "https://www.instagram.com/reel/DeMsFleCMZP/",
+   "media_id": "17944151022359686",
+   "pubblicato": "2026-10-07T15:33:08Z",
+   "pubblicato_da": "GitHub Actions (richiesta.json 2026-10-07-reel74)",
+   "stato": "pubblicato"
   },
   {
    "id": 75,
@@ -1697,6 +1704,33 @@
     }
    ],
    "preparato": "2026-10-07 (un giorno di scorta, direttiva 41)"
+  },
+  {
+   "id": 76,
+   "data": "2026-10-09",
+   "giorno": "Venerdì",
+   "ora": "17:30",
+   "tipo": "reel",
+   "trial_reel": false,
+   "share_to_feed": true,
+   "serie": "Il vocale della nonna",
+   "episodio": 4,
+   "tema": "direttiva 32 - riconoscimento: la nonna che fa vedere le tue foto a tutti (anche quella nella vasca); chiusura «sono fiera di te»",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "video": "posts/daily/reel_1009_76.mp4",
+   "durata_s": 11.8,
+   "audio": "originale (audio_1009.py): tema della serie + sette fruscii di dito sul vetro mentre scorrono le foto",
+   "caption": "Anche tua nonna fa vedere le tue foto a tutti?\n\nSi presenta, anche se sai benissimo chi è. Ti saluta da parte della Franca. Le fa vedere tutte le tue foto, anche quella nella vasca. Ti fa sapere che hai gli occhi di tuo nonno. Poi te ne chiede una nuova, perché queste la Franca le ha già viste.\n\nTre minuti e otto secondi per dire «sono fiera di te».\n\nQuei vocali tienili: dentro c'è anche come parla di te. NXTY parte da lì.\n\n🌍 EN\n\nDoes your grandma also show your photos to everyone?\n\nShe introduces herself, even though you know exactly who she is. Says hi from Franca. Shows her all your photos, even the one in the bathtub. Lets you know you have your grandpa's eyes. Then asks you for a new one, because Franca has already seen these.\n\nThree minutes and eight seconds to say \"I'm proud of you\".\n\nKeep those voice notes: they also hold how she talks about you. That's where NXTY starts.\n\n#NXTY #NextToYou #PersoneCare #nonna #vocali",
+   "pubblica_auto": true,
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "franca",
+     "file": "stories/daily/1009_2030_franca.jpg",
+     "nota": "amplifica scura con il fotogramma a 8,6 s, la trascrizione completa (batch_1009.py)"
+    }
+   ],
+   "preparato": "2026-10-08 (un giorno di scorta, direttiva 41)"
   }
  ]
 }
