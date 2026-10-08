@@ -1700,10 +1700,18 @@
      "ora": "20:30",
      "nome": "dentista",
      "file": "stories/daily/1008_2030_dentista.jpg",
-     "nota": "amplifica scura con il fotogramma a 6,8 s, la battuta (batch_1008.py)"
+     "nota": "amplifica scura con il fotogramma a 6,8 s, la battuta (batch_1008.py)",
+     "story_id": "18118637438083241",
+     "pubblicata": "2026-10-08T18:31:18Z",
+     "pubblicata_da": "GitHub Actions (richiesta.json 2026-10-08-dentista)"
     }
    ],
-   "preparato": "2026-10-07 (un giorno di scorta, direttiva 41)"
+   "preparato": "2026-10-07 (un giorno di scorta, direttiva 41)",
+   "permalink": "https://www.instagram.com/reel/DePQzaujh3m/",
+   "media_id": "17894388693681127",
+   "pubblicato": "2026-10-08T15:32:21Z",
+   "pubblicato_da": "GitHub Actions (richiesta.json 2026-10-08-reel75)",
+   "stato": "pubblicato"
   },
   {
    "id": 76,
