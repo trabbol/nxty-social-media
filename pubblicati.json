@@ -54,6 +54,11 @@
    "eseguita": "2026-10-09T15:31:41Z",
    "id": 76,
    "slot": "post"
+  },
+  "2026-10-09-franca": {
+   "eseguita": "2026-10-09T18:31:07Z",
+   "id": 76,
+   "slot": "storia"
   }
  },
  "72": {
@@ -107,6 +112,9 @@
   "media_id": "18115048967031236",
   "permalink": "https://www.instagram.com/reel/DeR1k-xjwUS/",
   "pubblicato": "2026-10-09T15:32:13+0000",
-  "pubblicato_da": "GitHub Actions"
+  "pubblicato_da": "GitHub Actions",
+  "storie": {
+   "0": "18385993123234962"
+  }
  }
 }

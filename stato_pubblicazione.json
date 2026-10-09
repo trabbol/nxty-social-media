@@ -1,21 +1,30 @@
 {
- "ultimo_giro": "2026-10-09T15:31:41Z",
+ "ultimo_giro": "2026-10-09T18:31:07Z",
  "evento": "push",
- "slot": "post",
+ "slot": "storia",
  "dry_run": false,
  "token_ok": true,
  "account": {
   "username": "nxty_app",
-  "followers_count": 53,
-  "media_count": 65
+  "followers_count": 52,
+  "media_count": 66
  },
  "azioni": [
-  "76: pubblicato https://www.instagram.com/reel/DeR1k-xjwUS/"
+  "76: storia pubblicata (18385993123234962)"
  ],
  "errori": [],
  "allineato": true,
- "richiesta": "2026-10-09-reel76",
+ "richiesta": "2026-10-09-franca",
  "media": [
+  {
+   "id": "18115048967031236",
+   "timestamp": "2026-10-09T15:32:13+0000",
+   "media_product_type": "REELS",
+   "media_type": "VIDEO",
+   "like_count": 1,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/reel/DeR1k-xjwUS/"
+  },
   {
    "id": "17894388693681127",
    "timestamp": "2026-10-08T15:32:21+0000",
@@ -602,5 +611,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-10-09T15:31:41Z"
+ "media_letti": "2026-10-09T18:31:07Z"
 }
