@@ -49,6 +49,11 @@
    "eseguita": "2026-10-08T18:31:18Z",
    "id": 75,
    "slot": "storia"
+  },
+  "2026-10-09-reel76": {
+   "eseguita": "2026-10-09T15:31:41Z",
+   "id": 76,
+   "slot": "post"
   }
  },
  "72": {
@@ -97,5 +102,11 @@
   "storie": {
    "0": "18118637438083241"
   }
+ },
+ "76": {
+  "media_id": "18115048967031236",
+  "permalink": "https://www.instagram.com/reel/DeR1k-xjwUS/",
+  "pubblicato": "2026-10-09T15:32:13+0000",
+  "pubblicato_da": "GitHub Actions"
  }
 }
