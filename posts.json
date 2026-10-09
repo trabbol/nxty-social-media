@@ -1739,6 +1739,40 @@
     }
    ],
    "preparato": "2026-10-08 (un giorno di scorta, direttiva 41)"
+  },
+  {
+   "id": 77,
+   "data": "2026-10-10",
+   "giorno": "Sabato",
+   "ora": "17:30",
+   "tipo": "carosello",
+   "serie": "Le frasi che giuravi di non dire",
+   "episodio": 2,
+   "tema": "direttiva 32 - riconoscimento: le frasi dei genitori che ora dici tu (ep. 2); chiusura fissa della serie sulla voce da tenere",
+   "slide": [
+    "posts/daily/caro_1010_77_s1.jpg",
+    "posts/daily/caro_1010_77_s2.jpg",
+    "posts/daily/caro_1010_77_s3.jpg",
+    "posts/daily/caro_1010_77_s4.jpg",
+    "posts/daily/caro_1010_77_s5.jpg",
+    "posts/daily/caro_1010_77_s6.jpg",
+    "posts/daily/caro_1010_77_s7.jpg",
+    "posts/daily/caro_1010_77_s8.jpg"
+   ],
+   "formato": "8 slide 1080x1350 (copertina notte con occhiello EPISODIO 2, 6 frasi su crema, chiusura notte con logo)",
+   "modello": "tools/caro_1010.py",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "caption": "Te l'eri giurato: certe frasi, mai.\n\nPoi un sabato sera hai guardato l'orologio e ti è uscito «Ti sembra questa l'ora?», con le braccia conserte e tutto.\n\nLe frasi passano da una generazione all'altra senza chiedere il permesso. La voce con cui te le dicevano, invece, va tenuta da parte: NXTY parte da lì.\n\n🌍 EN\n\nYou'd sworn it: some phrases, never.\n\nThen one Saturday night you looked at the clock and out came \"What time do you call this?\", arms crossed and all.\n\nPhrases pass from one generation to the next without asking permission. The voice they were said in is worth keeping, and that's where NXTY starts.\n\n#NXTY #NextToYou #PersoneCare #genitori #famiglia",
+   "pubblica_auto": true,
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "albergo",
+     "file": "stories/daily/1010_2030_albergo.jpg",
+     "nota": "amplifica scura con la copertina del carosello (batch_1010.py)"
+    }
+   ],
+   "preparato": "2026-10-09 (un giorno di scorta, direttiva 41)"
   }
  ]
 }
