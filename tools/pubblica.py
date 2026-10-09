@@ -31,7 +31,7 @@ import urllib.error
 import urllib.parse
 import urllib.request
 
-VERSIONE = "2026-10-09a"  # cambiarla insieme a richiesta.json fa partire il workflow su push
+VERSIONE = "2026-10-09b"  # cambiarla insieme a richiesta.json fa partire il workflow su push
 API = os.environ.get("API_BASE", "https://graph.facebook.com/v21.0").rstrip("/")
 RAW = os.environ.get("RAW_BASE", "https://raw.githubusercontent.com/trabbol/nxty-social-media/main").rstrip("/") + "/"
 IG = os.environ.get("IG_USER_ID", "17841480193943878")
