@@ -1777,10 +1777,18 @@
      "ora": "20:30",
      "nome": "albergo",
      "file": "stories/daily/1010_2030_albergo.jpg",
-     "nota": "amplifica scura con la copertina del carosello (batch_1010.py)"
+     "nota": "amplifica scura con la copertina del carosello (batch_1010.py)",
+     "story_id": "18167755132486813",
+     "pubblicata": "2026-10-10T18:31:41Z",
+     "pubblicata_da": "GitHub Actions (richiesta.json 2026-10-10-albergo)"
     }
    ],
-   "preparato": "2026-10-09 (un giorno di scorta, direttiva 41)"
+   "preparato": "2026-10-09 (un giorno di scorta, direttiva 41)",
+   "permalink": "https://www.instagram.com/p/DeUadXcmJFH/",
+   "media_id": "18077958101416162",
+   "pubblicato": "2026-10-10T15:32:44Z",
+   "pubblicato_da": "GitHub Actions (richiesta.json 2026-10-10-caro77)",
+   "stato": "pubblicato"
   },
   {
    "id": 78,
