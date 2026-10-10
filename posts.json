@@ -1781,6 +1781,40 @@
     }
    ],
    "preparato": "2026-10-09 (un giorno di scorta, direttiva 41)"
+  },
+  {
+   "id": 78,
+   "data": "2026-10-11",
+   "giorno": "Domenica",
+   "ora": "17:30",
+   "tipo": "carosello",
+   "serie": "Il vocabolario della nonna",
+   "episodio": 1,
+   "tema": "direttiva 32 - riconoscimento: le parole che usa solo lei, come voci di dizionario; chiusura sulla voce da tenere (seconda serie del weekend)",
+   "slide": [
+    "posts/daily/caro_1011_78_s1.jpg",
+    "posts/daily/caro_1011_78_s2.jpg",
+    "posts/daily/caro_1011_78_s3.jpg",
+    "posts/daily/caro_1011_78_s4.jpg",
+    "posts/daily/caro_1011_78_s5.jpg",
+    "posts/daily/caro_1011_78_s6.jpg",
+    "posts/daily/caro_1011_78_s7.jpg",
+    "posts/daily/caro_1011_78_s8.jpg"
+   ],
+   "formato": "8 slide 1080x1350 (copertina notte che e' gia' una voce di dizionario, 6 voci su crema, chiusura notte con logo)",
+   "modello": "tools/caro_1011.py",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "caption": "Anche tua nonna ha un vocabolario tutto suo?\n\nChiama «coso» il telecomando, «un pochino» un piatto pieno, «fare un salto» un pranzo di quattro ore. E quando dice «tieni», sai già che c'è una banconota piegata in quattro.\n\nSono parole che nel dizionario non ci sono: ci sono nella sua voce. Tienila. NXTY parte da lì.\n\n🌍 EN\n\nDoes your grandma have a vocabulary all of her own?\n\nShe calls the remote \"the thingy\", a full plate \"just a little\", a four-hour lunch \"popping by\". And when she says \"here\", you already know there's a banknote folded in four.\n\nThese words aren't in any dictionary: they're in her voice. Keep it. That's where NXTY starts.\n\n#NXTY #NextToYou #PersoneCare #nonna #famiglia",
+   "pubblica_auto": true,
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "golfino",
+     "file": "stories/daily/1011_2030_golfino.jpg",
+     "nota": "amplifica scura con la copertina del carosello e una domanda per le risposte (batch_1011.py)"
+    }
+   ],
+   "preparato": "2026-10-10 (un giorno di scorta, direttiva 41)"
   }
  ]
 }

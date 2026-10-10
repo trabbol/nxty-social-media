@@ -1,6 +1,6 @@
 # Layout e grammatiche gia' usati — @nxty_app
 
-Aggiornato: 09/10/2026. **Leggere questo file prima di scegliere il nome e il layout di ogni storia.**
+Aggiornato: 10/10/2026. **Leggere questo file prima di scegliere il nome e il layout di ogni storia.**
 Un nome in questo elenco significa che quel layout e' gia' andato in onda: non si rifa'.
 
 ## Nomi storia gia' usati (vietati)
@@ -14,7 +14,7 @@ perimetro, schermo, inarrivo, filo, riflesso, campo, attesa, finestrino, primomi
 onda, nastro, ripeterisponde, controluce, posti, rumore, ora, sottosera, bolle, virgolette,
 duestrade, notturna, primopiano, ripetute, nottata, dettagli, prossime, duebarre, sottolineato,
 mattinasera, duevoci, lontano, elenco, solosentirti, raccontate, cosanon, mosaico,
-**registra, sponde, frasi, quotidiano, cosaserve, archivio, quale, domande, ilmodo, nontutti, limite, sceglitu, intercalari, contatto, riconosci, unasola, perloro, restaquella, accento, unavolta, conme, postonumero, parentesi, intorno, maglia, nonna, ragu, pentole, giuravi, giuro, torta, pina, dentista, franca, albergo**
+**registra, sponde, frasi, quotidiano, cosaserve, archivio, quale, domande, ilmodo, nontutti, limite, sceglitu, intercalari, contatto, riconosci, unasola, perloro, restaquella, accento, unavolta, conme, postonumero, parentesi, intorno, maglia, nonna, ragu, pentole, giuravi, giuro, torta, pina, dentista, franca, albergo, golfino**
 
 ## Grammatiche visive, in ordine di comparsa (non ripetere a distanza ravvicinata)
 
@@ -44,6 +44,7 @@ Per i **reel** non vale piu' "una grammatica nuova ogni giorno": vale il **forma
 
 Formato a serie anche qui: la forma resta, cambiano le frasi. 8 slide 1080x1350 (massimo consentito), modello `tools/caro_1003.py`.
 - **"Le frasi che giuravi di non dire"** — copertina notte con il titolo ("giuravi" in oro), il sottotitolo "Poi ti sono uscite. Tutte." e il segno della serie gia' visibile: `— ~~mamma~~ ~~papa'~~ tu.`; freccia oro in basso a destra disegnata in SVG (il carattere freccia non e' nel font). Sei slide su crema: occhiello oro in alto, contatore N/6, frase grande fra caporali oro con il caporale aperto **sporgente nel margine**, sotto la **firma barrata**: il genitore in grigio tagliato da una barra oro inclinata di 3 gradi, poi "tu." in oro. Chiusura notte: "Le frasi, ormai, sono tue." / "La voce con cui te le dicevano, tienila." + logo + NEXT TO YOU. Ep. 1 il 3/10, uscito il 4/10 (id 71): Perche' lo dico io / Chiedilo a tuo padre / Spegni quella luce, mica la paghi tu / Conto fino a tre. Uno... due... / Ma che musica e' questa? / Te l'avevo detto. Ep. 2 il 10/10 (id 77, caro_1010.py; in copertina l'occhiello "EPISODIO 2" sopra il titolo e il sottotitolo "Ne sono uscite altre sei."): Questa casa non e' un albergo / Ne parliamo a casa / Ti sembra questa l'ora? / Vedremo. / Se si buttano dal ponte, ti butti anche tu? / Un giorno mi ringrazierai. Storia "albergo": copertina incorniciata + "Altre sei frasi. Quante ne hai gia' dette?". **Non riusare queste dodici frasi** (ne' le ventuno del mammese).
+- **"Il vocabolario della nonna"** (seconda serie del weekend, dall'11/10, modello `tools/caro_1011.py`) — ogni slide e' una **voce di dizionario**: lemma grande come lo dice lei, categoria grammaticale in corsivo oro (Plus Jakarta Sans 600 italic, file vero, non obliquo finto), filetto oro, accezione numerata "1." in oro con la definizione. Copertina notte che e' gia' una voce ("nonna" s.f., con l'accento grafico) dentro un riquadro con il filetto oro a sinistra, occhiello "NUOVA SERIE", sottotitolo "Sei parole. Le capisci solo tu.". Chiusura notte: "Nel dizionario non ci sono." / "Ci sono nella sua voce. Tienila." + logo + NEXT TO YOU. Ep. 1 l'11/10 (id 78): copertina «nonna — Ti chiama con il nome di tutti i cugini, poi con il tuo»; voci Uazzap (dove manda i vocali da tre minuti) / Il coso (quasi sempre il telecomando) / Un pochino (un piatto pieno, poi il bis) / Il golfino (quello che devi mettere tu quando ha freddo lei) / Fare un salto (pranzo di quattro ore, caffe' compreso) / Tieni (venti euro piegati in quattro, «non dirlo a mamma»). Storia "golfino": copertina incorniciata + "Sei parole sono poche. Qual e' quella di tua nonna?". **Non riusare queste voci.**
 - Nota tipografica: in Plus Jakarta Sans 800 punto, virgola e puntini hanno molto spazio a sinistra e a corpo grande sembrano staccati dalla parola. Si avvicinano di .075em con la funzione `k()` del modello; da usare in tutti i testi grandi. Dal reel 76 anche nella trascrizione e nel cartello della nonna, e nelle didascalie delle storie.
 
 ## Metodo
