@@ -1,21 +1,30 @@
 {
- "ultimo_giro": "2026-10-10T15:31:53Z",
+ "ultimo_giro": "2026-10-10T18:31:41Z",
  "evento": "push",
- "slot": "post",
+ "slot": "storia",
  "dry_run": false,
  "token_ok": true,
  "account": {
   "username": "nxty_app",
   "followers_count": 52,
-  "media_count": 66
+  "media_count": 67
  },
  "azioni": [
-  "77: pubblicato https://www.instagram.com/p/DeUadXcmJFH/"
+  "77: storia pubblicata (18167755132486813)"
  ],
  "errori": [],
  "allineato": true,
- "richiesta": "2026-10-10-caro77",
+ "richiesta": "2026-10-10-albergo",
  "media": [
+  {
+   "id": "18077958101416162",
+   "timestamp": "2026-10-10T15:32:44+0000",
+   "media_product_type": "FEED",
+   "media_type": "CAROUSEL_ALBUM",
+   "like_count": 1,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/p/DeUadXcmJFH/"
+  },
   {
    "id": "18115048967031236",
    "timestamp": "2026-10-09T15:32:13+0000",
@@ -611,5 +620,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-10-10T15:31:53Z"
+ "media_letti": "2026-10-10T18:31:41Z"
 }

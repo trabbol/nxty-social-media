@@ -64,6 +64,11 @@
    "eseguita": "2026-10-10T15:31:53Z",
    "id": 77,
    "slot": "post"
+  },
+  "2026-10-10-albergo": {
+   "eseguita": "2026-10-10T18:31:41Z",
+   "id": 77,
+   "slot": "storia"
   }
  },
  "72": {
@@ -126,6 +131,9 @@
   "media_id": "18077958101416162",
   "permalink": "https://www.instagram.com/p/DeUadXcmJFH/",
   "pubblicato": "2026-10-10T15:32:44+0000",
-  "pubblicato_da": "GitHub Actions"
+  "pubblicato_da": "GitHub Actions",
+  "storie": {
+   "0": "18167755132486813"
+  }
  }
 }
