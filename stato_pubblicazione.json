@@ -1,7 +1,7 @@
 {
- "ultimo_giro": "2026-10-10T18:31:41Z",
- "evento": "push",
- "slot": "storia",
+ "ultimo_giro": "2026-10-10T19:27:16Z",
+ "evento": "schedule",
+ "slot": "post",
  "dry_run": false,
  "token_ok": true,
  "account": {
@@ -10,11 +10,10 @@
   "media_count": 67
  },
  "azioni": [
-  "77: storia pubblicata (18167755132486813)"
+  "77: gia' pubblicato, salto"
  ],
  "errori": [],
  "allineato": true,
- "richiesta": "2026-10-10-albergo",
  "media": [
   {
    "id": "18077958101416162",
@@ -620,5 +619,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-10-10T18:31:41Z"
+ "media_letti": "2026-10-10T19:27:16Z"
 }
