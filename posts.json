@@ -1819,10 +1819,18 @@
      "ora": "20:30",
      "nome": "golfino",
      "file": "stories/daily/1011_2030_golfino.jpg",
-     "nota": "amplifica scura con la copertina del carosello e una domanda per le risposte (batch_1011.py)"
+     "nota": "amplifica scura con la copertina del carosello e una domanda per le risposte (batch_1011.py)",
+     "story_id": "18231577135325924",
+     "pubblicata": "2026-10-11T18:31:02Z",
+     "pubblicata_da": "GitHub Actions (richiesta.json 2026-10-11-golfino)"
     }
    ],
-   "preparato": "2026-10-10 (un giorno di scorta, direttiva 41)"
+   "preparato": "2026-10-10 (un giorno di scorta, direttiva 41)",
+   "permalink": "https://www.instagram.com/p/DeW_QLcGBE1/",
+   "media_id": "18109530350630295",
+   "pubblicato": "2026-10-11T15:32:43Z",
+   "pubblicato_da": "GitHub Actions (richiesta.json 2026-10-11-caro78)",
+   "stato": "pubblicato"
   },
   {
    "id": 79,
