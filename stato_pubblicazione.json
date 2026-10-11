@@ -1,21 +1,30 @@
 {
- "ultimo_giro": "2026-10-11T15:31:50Z",
+ "ultimo_giro": "2026-10-11T18:31:02Z",
  "evento": "push",
- "slot": "post",
+ "slot": "storia",
  "dry_run": false,
  "token_ok": true,
  "account": {
   "username": "nxty_app",
   "followers_count": 51,
-  "media_count": 67
+  "media_count": 68
  },
  "azioni": [
-  "78: pubblicato https://www.instagram.com/p/DeW_QLcGBE1/"
+  "78: storia pubblicata (18231577135325924)"
  ],
  "errori": [],
  "allineato": true,
- "richiesta": "2026-10-11-caro78",
+ "richiesta": "2026-10-11-golfino",
  "media": [
+  {
+   "id": "18109530350630295",
+   "timestamp": "2026-10-11T15:32:43+0000",
+   "media_product_type": "FEED",
+   "media_type": "CAROUSEL_ALBUM",
+   "like_count": 0,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/p/DeW_QLcGBE1/"
+  },
   {
    "id": "18077958101416162",
    "timestamp": "2026-10-10T15:32:44+0000",
@@ -620,5 +629,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-10-11T15:31:50Z"
+ "media_letti": "2026-10-11T18:31:02Z"
 }

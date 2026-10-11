@@ -74,6 +74,11 @@
    "eseguita": "2026-10-11T15:31:50Z",
    "id": 78,
    "slot": "post"
+  },
+  "2026-10-11-golfino": {
+   "eseguita": "2026-10-11T18:31:02Z",
+   "id": 78,
+   "slot": "storia"
   }
  },
  "72": {
@@ -145,6 +150,9 @@
   "media_id": "18109530350630295",
   "permalink": "https://www.instagram.com/p/DeW_QLcGBE1/",
   "pubblicato": "2026-10-11T15:32:43+0000",
-  "pubblicato_da": "GitHub Actions"
+  "pubblicato_da": "GitHub Actions",
+  "storie": {
+   "0": "18231577135325924"
+  }
  }
 }
