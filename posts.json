@@ -1858,6 +1858,33 @@
     }
    ],
    "preparato": "2026-10-11 (un giorno di scorta, direttiva 41)"
+  },
+  {
+   "id": 80,
+   "data": "2026-10-13",
+   "giorno": "Martedì",
+   "ora": "17:30",
+   "tipo": "reel",
+   "trial_reel": false,
+   "share_to_feed": true,
+   "serie": "Il vocale della nonna",
+   "episodio": 5,
+   "tema": "direttiva 32 - riconoscimento: la ricetta a voce senza dosi; chiusura «torna presto»",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "video": "posts/daily/reel_1013_80.mp4",
+   "durata_s": 11.8,
+   "audio": "originale (audio_1013.py): tema della serie + forchetta sulla ciotola, sette colpi al secondo",
+   "caption": "Anche tua nonna ti manda le ricette a voce?\n\nComincia con «allora, la ricetta». La farina, «quanta ne prende». Sbatte le uova vicino al telefono. Il sale, «quanto basta». Ti spiega che quando è pronto lo senti dal profumo. Poi ti avvisa che tanto non ti viene uguale.\n\nQuattro minuti e nove secondi per dire «torna presto».\n\nQuei vocali tienili: dentro c'è anche la ricetta giusta, quella che non ha mai scritto. NXTY parte da lì.\n\n🌍 EN\n\nDoes your grandma send you recipes by voice note too?\n\nShe opens with \"right, the recipe\". Flour, \"as much as it takes\". Whisks the eggs right next to the phone. Salt, \"just enough\". Explains you'll know it's ready by the smell. Then warns you it won't come out the same anyway.\n\nFour minutes and nine seconds to say \"come back soon\".\n\nKeep those voice notes: the real recipe is in there too, the one she never wrote down. That's where NXTY starts.\n\n#NXTY #NextToYou #PersoneCare #nonna #vocali",
+   "pubblica_auto": true,
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "ricetta",
+     "file": "stories/daily/1013_2030_ricetta.jpg",
+     "nota": "amplifica scura con il fotogramma a 8,6 s, la trascrizione completa (batch_1013.py)"
+    }
+   ],
+   "preparato": "2026-10-12 (un giorno di scorta, direttiva 41)"
   }
  ]
 }
