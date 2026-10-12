@@ -1854,10 +1854,18 @@
      "ora": "20:30",
      "nome": "pettinatura",
      "file": "stories/daily/1012_2030_pettinatura.jpg",
-     "nota": "amplifica scura con il fotogramma a 6,8 s, la battuta (batch_1012.py)"
+     "nota": "amplifica scura con il fotogramma a 6,8 s, la battuta (batch_1012.py)",
+     "story_id": "18110990432144729",
+     "pubblicata": "2026-10-12T18:31:48Z",
+     "pubblicata_da": "GitHub Actions (richiesta.json 2026-10-12-pettinatura)"
     }
    ],
-   "preparato": "2026-10-11 (un giorno di scorta, direttiva 41)"
+   "preparato": "2026-10-11 (un giorno di scorta, direttiva 41)",
+   "permalink": "https://www.instagram.com/reel/DeZj8D_Dch5/",
+   "media_id": "17951451366313255",
+   "pubblicato": "2026-10-12T15:32:00Z",
+   "pubblicato_da": "GitHub Actions (richiesta.json 2026-10-12-reel79)",
+   "stato": "pubblicato"
   },
   {
    "id": 80,
