@@ -79,6 +79,11 @@
    "eseguita": "2026-10-11T18:31:02Z",
    "id": 78,
    "slot": "storia"
+  },
+  "2026-10-12-reel79": {
+   "eseguita": "2026-10-12T15:31:25Z",
+   "id": 79,
+   "slot": "post"
   }
  },
  "72": {
@@ -154,5 +159,11 @@
   "storie": {
    "0": "18231577135325924"
   }
+ },
+ "79": {
+  "media_id": "17951451366313255",
+  "permalink": "https://www.instagram.com/reel/DeZj8D_Dch5/",
+  "pubblicato": "2026-10-12T15:32:00+0000",
+  "pubblicato_da": "GitHub Actions"
  }
 }
