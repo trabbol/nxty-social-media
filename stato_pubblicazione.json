@@ -1,7 +1,7 @@
 {
- "ultimo_giro": "2026-10-12T18:31:48Z",
- "evento": "push",
- "slot": "storia",
+ "ultimo_giro": "2026-10-12T22:33:20Z",
+ "evento": "schedule",
+ "slot": "post",
  "dry_run": false,
  "token_ok": true,
  "account": {
@@ -10,11 +10,10 @@
   "media_count": 69
  },
  "azioni": [
-  "79: storia pubblicata (18110990432144729)"
+  "giro fuori finestra (22:33Z): non pubblico niente"
  ],
  "errori": [],
  "allineato": true,
- "richiesta": "2026-10-12-pettinatura",
  "media": [
   {
    "id": "17951451366313255",
@@ -638,5 +637,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-10-12T18:31:48Z"
+ "media_letti": "2026-10-12T22:33:20Z"
 }
