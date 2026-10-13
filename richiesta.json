@@ -1,7 +1,7 @@
 {
- "rid": "2026-10-12-pettinatura",
- "id": 79,
- "slot": "storia",
- "entro": "2026-10-12T21:00:00Z",
- "ordine": "slot storia 18:30Z del 12/10 (riserva principale, direttiva 40)"
+ "rid": "2026-10-13-reel80",
+ "id": 80,
+ "slot": "post",
+ "entro": "2026-10-13T18:00:00Z",
+ "ordine": "slot post 15:30Z del 13/10 (riserva principale, direttiva 40)"
 }
