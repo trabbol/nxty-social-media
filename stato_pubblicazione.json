@@ -1,7 +1,7 @@
 {
- "ultimo_giro": "2026-10-13T18:31:17Z",
- "evento": "push",
- "slot": "storia",
+ "ultimo_giro": "2026-10-13T20:47:20Z",
+ "evento": "schedule",
+ "slot": "post",
  "dry_run": false,
  "token_ok": true,
  "account": {
@@ -10,11 +10,10 @@
   "media_count": 70
  },
  "azioni": [
-  "80: storia pubblicata (18112289474239878)"
+  "giro fuori finestra (20:47Z): non pubblico niente"
  ],
  "errori": [],
  "allineato": true,
- "richiesta": "2026-10-13-ricetta",
  "media": [
   {
    "id": "18189834238397694",
@@ -647,5 +646,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-10-13T18:31:17Z"
+ "media_letti": "2026-10-13T20:47:20Z"
 }
