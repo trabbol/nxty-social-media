@@ -1,7 +1,7 @@
 {
- "rid": "2026-10-13-reel80",
+ "rid": "2026-10-13-ricetta",
  "id": 80,
- "slot": "post",
- "entro": "2026-10-13T18:00:00Z",
- "ordine": "slot post 15:30Z del 13/10 (riserva principale, direttiva 40)"
+ "slot": "storia",
+ "entro": "2026-10-13T21:00:00Z",
+ "ordine": "slot storia 18:30Z del 13/10 (riserva principale, direttiva 40)"
 }
