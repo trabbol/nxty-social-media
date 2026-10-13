@@ -89,6 +89,11 @@
    "eseguita": "2026-10-12T18:31:48Z",
    "id": 79,
    "slot": "storia"
+  },
+  "2026-10-13-reel80": {
+   "eseguita": "2026-10-13T15:32:10Z",
+   "id": 80,
+   "slot": "post"
   }
  },
  "72": {
@@ -173,5 +178,11 @@
   "storie": {
    "0": "18110990432144729"
   }
+ },
+ "80": {
+  "media_id": "18189834238397694",
+  "permalink": "https://www.instagram.com/reel/DecI0JKDmnb/",
+  "pubblicato": "2026-10-13T15:32:42+0000",
+  "pubblicato_da": "GitHub Actions"
  }
 }
