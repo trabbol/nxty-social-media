@@ -1,21 +1,30 @@
 {
- "ultimo_giro": "2026-10-13T15:32:10Z",
+ "ultimo_giro": "2026-10-13T18:31:17Z",
  "evento": "push",
- "slot": "post",
+ "slot": "storia",
  "dry_run": false,
  "token_ok": true,
  "account": {
   "username": "nxty_app",
   "followers_count": 51,
-  "media_count": 69
+  "media_count": 70
  },
  "azioni": [
-  "80: pubblicato https://www.instagram.com/reel/DecI0JKDmnb/"
+  "80: storia pubblicata (18112289474239878)"
  ],
  "errori": [],
  "allineato": true,
- "richiesta": "2026-10-13-reel80",
+ "richiesta": "2026-10-13-ricetta",
  "media": [
+  {
+   "id": "18189834238397694",
+   "timestamp": "2026-10-13T15:32:42+0000",
+   "media_product_type": "REELS",
+   "media_type": "VIDEO",
+   "like_count": 1,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/reel/DecI0JKDmnb/"
+  },
   {
    "id": "17951451366313255",
    "timestamp": "2026-10-12T15:32:00+0000",
@@ -39,7 +48,7 @@
    "timestamp": "2026-10-10T15:32:44+0000",
    "media_product_type": "FEED",
    "media_type": "CAROUSEL_ALBUM",
-   "like_count": 4,
+   "like_count": 5,
    "comments_count": 0,
    "permalink": "https://www.instagram.com/p/DeUadXcmJFH/"
   },
@@ -638,5 +647,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-10-13T15:32:10Z"
+ "media_letti": "2026-10-13T18:31:17Z"
 }

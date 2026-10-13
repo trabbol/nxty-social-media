@@ -94,6 +94,11 @@
    "eseguita": "2026-10-13T15:32:10Z",
    "id": 80,
    "slot": "post"
+  },
+  "2026-10-13-ricetta": {
+   "eseguita": "2026-10-13T18:31:17Z",
+   "id": 80,
+   "slot": "storia"
   }
  },
  "72": {
@@ -183,6 +188,9 @@
   "media_id": "18189834238397694",
   "permalink": "https://www.instagram.com/reel/DecI0JKDmnb/",
   "pubblicato": "2026-10-13T15:32:42+0000",
-  "pubblicato_da": "GitHub Actions"
+  "pubblicato_da": "GitHub Actions",
+  "storie": {
+   "0": "18112289474239878"
+  }
  }
 }
