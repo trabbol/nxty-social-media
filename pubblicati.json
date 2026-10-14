@@ -104,6 +104,11 @@
    "eseguita": "2026-10-14T15:32:08Z",
    "id": 81,
    "slot": "post"
+  },
+  "2026-10-14-calze": {
+   "eseguita": "2026-10-14T18:31:36Z",
+   "id": 81,
+   "slot": "storia"
   }
  },
  "72": {
@@ -202,6 +207,9 @@
   "media_id": "18118889341763720",
   "permalink": "https://www.instagram.com/reel/DeetmpIEaZV/",
   "pubblicato": "2026-10-14T15:32:29+0000",
-  "pubblicato_da": "GitHub Actions"
+  "pubblicato_da": "GitHub Actions",
+  "storie": {
+   "0": "18132564685738975"
+  }
  }
 }
