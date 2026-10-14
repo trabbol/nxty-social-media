@@ -1924,7 +1924,10 @@
      "ora": "20:30",
      "nome": "calze",
      "file": "stories/daily/1014_2030_calze.jpg",
-     "nota": "amplifica scura con il fotogramma a 6,8 s, la battuta (batch_1014.py)"
+     "nota": "amplifica scura con il fotogramma a 6,8 s, la battuta (batch_1014.py)",
+     "story_id": "18132564685738975",
+     "pubblicata": "2026-10-14T18:31:36Z",
+     "pubblicata_da": "GitHub Actions (richiesta.json 2026-10-14-calze)"
     }
    ],
    "preparato": "2026-10-13 (un giorno di scorta, direttiva 41)",
