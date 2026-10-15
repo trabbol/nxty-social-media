@@ -1963,6 +1963,33 @@
     }
    ],
    "preparato": "2026-10-14 (un giorno di scorta, direttiva 41)"
+  },
+  {
+   "id": 83,
+   "data": "2026-10-16",
+   "giorno": "Venerdì",
+   "ora": "17:30",
+   "tipo": "reel",
+   "trial_reel": false,
+   "share_to_feed": true,
+   "serie": "Dal mammese all'italiano",
+   "episodio": 7,
+   "tema": "direttiva 32 - riconoscimento: le frasi d'autunno della madre che vogliono dire ti voglio bene; battuta: «ah, allora esisti» = mi mancavi",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "video": "posts/daily/reel_1016_83.mp4",
+   "durata_s": 11.6,
+   "audio": "originale della serie (audio_0929.wav, stessi tempi degli ep. 1-6)",
+   "caption": "Anche tua madre dice «ah, allora esisti»?\n\n«Accendi i termosifoni.» «Hai fatto il cambio di stagione?» «Mangia la frutta.» «Prendi la vitamina C.»\nTradotte, vogliono dire sempre la stessa cosa.\n\nTranne «ah, allora esisti». Quella vuol dire: mi mancavi.\n\nCerte lingue le parla una persona sola. NXTY è fatta per non perderne l'accento.\n\n🌍 EN\n\nDoes your mum say \"oh, so you do exist\" too?\n\n\"Turn the heating on.\" \"Have you swapped your summer clothes for winter ones?\" \"Eat some fruit.\" \"Take your vitamin C.\"\nTranslated, they always mean the same thing.\n\nExcept \"oh, so you do exist\". That one means: I missed you.\n\nSome languages are spoken by one person only. NXTY is made so you never lose the accent.\n\n#NXTY #NextToYou #PersoneCare #mammaitaliana #famiglia",
+   "pubblica_auto": true,
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "termosifoni",
+     "file": "stories/daily/1016_2030_termosifoni.jpg",
+     "nota": "amplifica scura con il fotogramma a 6,8 s, la battuta (batch_1016.py)"
+    }
+   ],
+   "preparato": "2026-10-15 (un giorno di scorta, direttiva 41)"
   }
  ]
 }
