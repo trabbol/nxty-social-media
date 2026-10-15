@@ -114,6 +114,11 @@
    "eseguita": "2026-10-15T15:32:14Z",
    "id": 82,
    "slot": "post"
+  },
+  "2026-10-15-pagelle": {
+   "eseguita": "2026-10-15T18:31:36Z",
+   "id": 82,
+   "slot": "storia"
   }
  },
  "72": {
@@ -221,6 +226,9 @@
   "media_id": "18118308755287346",
   "permalink": "https://www.instagram.com/reel/DehSaeDCIeb/",
   "pubblicato": "2026-10-15T15:32:46+0000",
-  "pubblicato_da": "GitHub Actions"
+  "pubblicato_da": "GitHub Actions",
+  "storie": {
+   "0": "17974439214152183"
+  }
  }
 }
