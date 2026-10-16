@@ -1994,10 +1994,18 @@
      "ora": "20:30",
      "nome": "termosifoni",
      "file": "stories/daily/1016_2030_termosifoni.jpg",
-     "nota": "amplifica scura con il fotogramma a 6,8 s, la battuta (batch_1016.py)"
+     "nota": "amplifica scura con il fotogramma a 6,8 s, la battuta (batch_1016.py)",
+     "story_id": "17879680938632304",
+     "pubblicata": "2026-10-16T18:31:41Z",
+     "pubblicata_da": "GitHub Actions (richiesta.json 2026-10-16-termosifoni)"
     }
    ],
-   "preparato": "2026-10-15 (un giorno di scorta, direttiva 41)"
+   "preparato": "2026-10-15 (un giorno di scorta, direttiva 41)",
+   "permalink": "https://www.instagram.com/reel/Dej3OFFCAeI/",
+   "media_id": "18130936801693390",
+   "pubblicato": "2026-10-16T15:33:00Z",
+   "pubblicato_da": "GitHub Actions (richiesta.json 2026-10-16-reel83)",
+   "stato": "pubblicato"
   },
   {
    "id": 84,
