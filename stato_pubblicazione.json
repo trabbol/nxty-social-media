@@ -1,7 +1,7 @@
 {
- "ultimo_giro": "2026-10-16T18:31:41Z",
- "evento": "push",
- "slot": "storia",
+ "ultimo_giro": "2026-10-16T18:56:24Z",
+ "evento": "schedule",
+ "slot": "post",
  "dry_run": false,
  "token_ok": true,
  "account": {
@@ -10,11 +10,10 @@
   "media_count": 73
  },
  "azioni": [
-  "83: storia pubblicata (17879680938632304)"
+  "83: gia' pubblicato, salto"
  ],
  "errori": [],
  "allineato": true,
- "richiesta": "2026-10-16-termosifoni",
  "media": [
   {
    "id": "18130936801693390",
@@ -674,5 +673,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-10-16T18:31:41Z"
+ "media_letti": "2026-10-16T18:56:24Z"
 }
