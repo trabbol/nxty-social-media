@@ -1998,6 +1998,40 @@
     }
    ],
    "preparato": "2026-10-15 (un giorno di scorta, direttiva 41)"
+  },
+  {
+   "id": 84,
+   "data": "2026-10-17",
+   "giorno": "Sabato",
+   "ora": "17:30",
+   "tipo": "carosello",
+   "serie": "Le frasi che giuravi di non dire",
+   "episodio": 3,
+   "tema": "direttiva 32 - riconoscimento: le frasi dei genitori che ora dici tu (ep. 3, chiude con «Quando avrai figli, capirai»); chiusura fissa della serie sulla voce da tenere",
+   "slide": [
+    "posts/daily/caro_1017_84_s1.jpg",
+    "posts/daily/caro_1017_84_s2.jpg",
+    "posts/daily/caro_1017_84_s3.jpg",
+    "posts/daily/caro_1017_84_s4.jpg",
+    "posts/daily/caro_1017_84_s5.jpg",
+    "posts/daily/caro_1017_84_s6.jpg",
+    "posts/daily/caro_1017_84_s7.jpg",
+    "posts/daily/caro_1017_84_s8.jpg"
+   ],
+   "formato": "8 slide 1080x1350 (copertina notte con occhiello EPISODIO 3, 6 frasi su crema, chiusura notte con logo)",
+   "modello": "tools/caro_1017.py",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "caption": "Avevi giurato che con i tuoi figli sarebbe stato diverso.\n\nPoi, a cena, qualcuno ha alzato gli occhi al cielo e ti è uscito «Quando avrai figli, capirai». Con il dito alzato, come faceva lei.\n\nLe frasi tornano tutte, prima o poi. La voce con cui te le dicevano, invece, va tenuta da parte: NXTY parte da lì.\n\n🌍 EN\n\nYou swore it would be different with your own kids.\n\nThen, at dinner, someone rolled their eyes and out came \"You'll understand when you have kids\". Finger raised, just like she used to.\n\nEvery phrase comes back sooner or later. The voice they were said in is worth keeping, and that's where NXTY starts.\n\n#NXTY #NextToYou #PersoneCare #genitori #famiglia",
+   "pubblica_auto": true,
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "figli",
+     "file": "stories/daily/1017_2030_figli.jpg",
+     "nota": "amplifica scura con la copertina del carosello e la domanda «Quale ti è già uscita?» (batch_1017.py)"
+    }
+   ],
+   "preparato": "2026-10-16 (un giorno di scorta, direttiva 41)"
   }
  ]
 }
