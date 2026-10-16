@@ -124,6 +124,11 @@
    "eseguita": "2026-10-16T15:32:20Z",
    "id": 83,
    "slot": "post"
+  },
+  "2026-10-16-termosifoni": {
+   "eseguita": "2026-10-16T18:31:41Z",
+   "id": 83,
+   "slot": "storia"
   }
  },
  "72": {
@@ -240,6 +245,9 @@
   "media_id": "18130936801693390",
   "permalink": "https://www.instagram.com/reel/Dej3OFFCAeI/",
   "pubblicato": "2026-10-16T15:33:00+0000",
-  "pubblicato_da": "GitHub Actions"
+  "pubblicato_da": "GitHub Actions",
+  "storie": {
+   "0": "17879680938632304"
+  }
  }
 }

@@ -1,21 +1,30 @@
 {
- "ultimo_giro": "2026-10-16T15:32:20Z",
+ "ultimo_giro": "2026-10-16T18:31:41Z",
  "evento": "push",
- "slot": "post",
+ "slot": "storia",
  "dry_run": false,
  "token_ok": true,
  "account": {
   "username": "nxty_app",
   "followers_count": 51,
-  "media_count": 72
+  "media_count": 73
  },
  "azioni": [
-  "83: pubblicato https://www.instagram.com/reel/Dej3OFFCAeI/"
+  "83: storia pubblicata (17879680938632304)"
  ],
  "errori": [],
  "allineato": true,
- "richiesta": "2026-10-16-reel83",
+ "richiesta": "2026-10-16-termosifoni",
  "media": [
+  {
+   "id": "18130936801693390",
+   "timestamp": "2026-10-16T15:33:00+0000",
+   "media_product_type": "REELS",
+   "media_type": "VIDEO",
+   "like_count": 2,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/reel/Dej3OFFCAeI/"
+  },
   {
    "id": "18118308755287346",
    "timestamp": "2026-10-15T15:32:46+0000",
@@ -665,5 +674,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-10-16T15:32:20Z"
+ "media_letti": "2026-10-16T18:31:41Z"
 }
