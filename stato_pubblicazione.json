@@ -1,21 +1,29 @@
 {
- "ultimo_giro": "2026-10-17T15:33:28Z",
- "evento": "push",
+ "ultimo_giro": "2026-10-17T17:54:28Z",
+ "evento": "schedule",
  "slot": "post",
  "dry_run": false,
  "token_ok": true,
  "account": {
   "username": "nxty_app",
   "followers_count": 51,
-  "media_count": 73
+  "media_count": 74
  },
  "azioni": [
-  "84: pubblicato https://www.instagram.com/p/DemcNFQHSb9/"
+  "84: gia' pubblicato, salto"
  ],
  "errori": [],
  "allineato": true,
- "richiesta": "2026-10-17-caro84",
  "media": [
+  {
+   "id": "17953443702295247",
+   "timestamp": "2026-10-17T15:34:19+0000",
+   "media_product_type": "FEED",
+   "media_type": "CAROUSEL_ALBUM",
+   "like_count": 1,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/p/DemcNFQHSb9/"
+  },
   {
    "id": "18130936801693390",
    "timestamp": "2026-10-16T15:33:00+0000",
@@ -674,5 +682,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-10-17T15:33:28Z"
+ "media_letti": "2026-10-17T17:54:28Z"
 }
