@@ -2036,7 +2036,10 @@
      "ora": "20:30",
      "nome": "figli",
      "file": "stories/daily/1017_2030_figli.jpg",
-     "nota": "amplifica scura con la copertina del carosello e la domanda «Quale ti è già uscita?» (batch_1017.py)"
+     "nota": "amplifica scura con la copertina del carosello e la domanda «Quale ti è già uscita?» (batch_1017.py)",
+     "story_id": "17934136059142494",
+     "pubblicata": "2026-10-17T18:31:33Z",
+     "pubblicata_da": "GitHub Actions (richiesta.json 2026-10-17-figli)"
     }
    ],
    "preparato": "2026-10-16 (un giorno di scorta, direttiva 41)",
