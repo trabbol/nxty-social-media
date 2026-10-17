@@ -129,6 +129,11 @@
    "eseguita": "2026-10-16T18:31:41Z",
    "id": 83,
    "slot": "storia"
+  },
+  "2026-10-17-caro84": {
+   "eseguita": "2026-10-17T15:33:28Z",
+   "id": 84,
+   "slot": "post"
   }
  },
  "72": {
@@ -249,5 +254,11 @@
   "storie": {
    "0": "17879680938632304"
   }
+ },
+ "84": {
+  "media_id": "17953443702295247",
+  "permalink": "https://www.instagram.com/p/DemcNFQHSb9/",
+  "pubblicato": "2026-10-17T15:34:19+0000",
+  "pubblicato_da": "GitHub Actions"
  }
 }
