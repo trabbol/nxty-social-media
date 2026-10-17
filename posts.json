@@ -2039,7 +2039,46 @@
      "nota": "amplifica scura con la copertina del carosello e la domanda «Quale ti è già uscita?» (batch_1017.py)"
     }
    ],
-   "preparato": "2026-10-16 (un giorno di scorta, direttiva 41)"
+   "preparato": "2026-10-16 (un giorno di scorta, direttiva 41)",
+   "permalink": "https://www.instagram.com/p/DemcNFQHSb9/",
+   "media_id": "17953443702295247",
+   "pubblicato": "2026-10-17T15:34:19Z",
+   "pubblicato_da": "GitHub Actions (richiesta.json 2026-10-17-caro84)",
+   "stato": "pubblicato"
+  },
+  {
+   "id": 85,
+   "data": "2026-10-18",
+   "giorno": "Domenica",
+   "ora": "17:30",
+   "tipo": "carosello",
+   "serie": "Il vocabolario della nonna",
+   "episodio": 2,
+   "tema": "direttiva 32 - riconoscimento: le parole che usa solo lei, come voci di dizionario (ep. 2); chiusura fissa sulla voce da tenere",
+   "slide": [
+    "posts/daily/caro_1018_85_s1.jpg",
+    "posts/daily/caro_1018_85_s2.jpg",
+    "posts/daily/caro_1018_85_s3.jpg",
+    "posts/daily/caro_1018_85_s4.jpg",
+    "posts/daily/caro_1018_85_s5.jpg",
+    "posts/daily/caro_1018_85_s6.jpg",
+    "posts/daily/caro_1018_85_s7.jpg",
+    "posts/daily/caro_1018_85_s8.jpg"
+   ],
+   "formato": "8 slide 1080x1350 (copertina notte con occhiello EPISODIO 2 e la voce «voce», 6 voci su crema, chiusura notte con logo)",
+   "modello": "tools/caro_1018.py",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "caption": "Altre sei parole del vocabolario della nonna. Quante ne usa anche la tua?\n\nTiene il «telefonino» spento in borsa, per le emergenze. Chiama «il tuo amico» la persona con cui vivi da sei anni. «In bianco» vuol dire pasta al burro, poi la cotoletta. E per lei sei «il preferito», a turno con tutti gli altri nipoti.\n\nSono parole che nel dizionario non ci sono: ci sono nella sua voce. Tienila. NXTY parte da lì.\n\n🌍 EN\n\nSix more words from grandma's dictionary. How many does yours use?\n\nShe keeps her \"mobile\" switched off in her handbag, for emergencies. She calls the person you've lived with for six years \"your friend\". \"Eating plain\" means pasta with butter, then a breaded cutlet. And to her you're \"the favourite\", taking turns with all the other grandchildren.\n\nThese words aren't in any dictionary: they're in her voice. Keep it. That's where NXTY starts.\n\n#NXTY #NextToYou #PersoneCare #nonna #famiglia",
+   "pubblica_auto": true,
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "preferito",
+     "file": "stories/daily/1018_2030_preferito.jpg",
+     "nota": "amplifica scura con la copertina del carosello e l'invito «Mandaci quella di tua nonna» per le risposte (batch_1018.py)"
+    }
+   ],
+   "preparato": "2026-10-17 (un giorno di scorta, direttiva 41)"
   }
  ]
 }
