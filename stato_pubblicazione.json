@@ -1,7 +1,7 @@
 {
- "ultimo_giro": "2026-10-17T17:54:28Z",
- "evento": "schedule",
- "slot": "post",
+ "ultimo_giro": "2026-10-17T18:31:33Z",
+ "evento": "push",
+ "slot": "storia",
  "dry_run": false,
  "token_ok": true,
  "account": {
@@ -10,10 +10,11 @@
   "media_count": 74
  },
  "azioni": [
-  "84: gia' pubblicato, salto"
+  "84: storia pubblicata (17934136059142494)"
  ],
  "errori": [],
  "allineato": true,
+ "richiesta": "2026-10-17-figli",
  "media": [
   {
    "id": "17953443702295247",
@@ -682,5 +683,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-10-17T17:54:28Z"
+ "media_letti": "2026-10-17T18:31:33Z"
 }
