@@ -2082,6 +2082,33 @@
     }
    ],
    "preparato": "2026-10-17 (un giorno di scorta, direttiva 41)"
+  },
+  {
+   "id": 86,
+   "data": "2026-10-19",
+   "giorno": "Lunedì",
+   "ora": "17:30",
+   "tipo": "reel",
+   "trial_reel": false,
+   "share_to_feed": true,
+   "serie": "Il vocale della nonna",
+   "episodio": 7,
+   "tema": "direttiva 32 - riconoscimento: il vocale di mattina «per non disturbare», la moka sul fuoco; chiusura «ti voglio bene»",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "video": "posts/daily/reel_1019_86.mp4",
+   "durata_s": 11.8,
+   "audio": "originale (audio_1019.py): tema della serie + la moka che borbotta, bolle sempre più fitte e il vapore finale, pad abbassato",
+   "caption": "Tua nonna ti manda vocali da sei minuti «per non disturbare»?\n\nComincia proprio così: «ti faccio un vocale, così non ti disturbo». Poi mette su il caffè, e per più di un minuto si sente solo la moka che borbotta. Torna e ha perso il filo: «cosa dicevo?». Ti dice che, se eri lì, te ne versava una tazza. E chiude con un bacio. Anzi, due.\n\nSei minuti e due secondi per dire «ti voglio bene».\n\nQuei vocali tienili: dentro c'è anche la sua voce del mattino, con il caffè sul fuoco. NXTY parte da lì.\n\n🌍 EN\n\nDoes your grandma send you six-minute voice notes \"so as not to bother you\"?\n\nThat's exactly how it starts: \"I'll send you a voice note, so I don't disturb you\". Then she puts the coffee on, and for over a minute all you hear is the moka pot bubbling. She comes back and has lost her thread: \"what was I saying?\". She tells you that if you were there, she'd pour you a cup. And she signs off with a kiss. Make that two.\n\nSix minutes and two seconds to say \"I love you\".\n\nKeep those voice notes: her morning voice is in there too, with the coffee on the stove. That's where NXTY starts.\n\n#NXTY #NextToYou #PersoneCare #nonna #vocali",
+   "pubblica_auto": true,
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "moka",
+     "file": "stories/daily/1019_2030_moka.jpg",
+     "nota": "amplifica scura con il fotogramma a 8,6 s, la trascrizione completa (batch_1019.py)"
+    }
+   ],
+   "preparato": "2026-10-18 (un giorno di scorta, direttiva 41)"
   }
  ]
 }
