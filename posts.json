@@ -2117,6 +2117,33 @@
     }
    ],
    "preparato": "2026-10-18 (un giorno di scorta, direttiva 41)"
+  },
+  {
+   "id": 87,
+   "data": "2026-10-20",
+   "giorno": "Martedì",
+   "ora": "17:30",
+   "tipo": "reel",
+   "trial_reel": false,
+   "share_to_feed": true,
+   "serie": "Dal mammese all'italiano",
+   "episodio": 8,
+   "tema": "direttiva 32 - riconoscimento: le frasi della madre che vogliono dire ti voglio bene; battuta: «non devi chiamarmi tutti i giorni» = chiamami tutti i giorni",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "video": "posts/daily/reel_1020_87.mp4",
+   "durata_s": 11.6,
+   "audio": "originale della serie (audio_0929.wav, stessi tempi degli ep. 1-7)",
+   "caption": "Anche tua madre dice «non devi chiamarmi tutti i giorni»?\n\n«Asciugati i capelli.» «Hai messo le gomme da neve?» «Ti ho girato un articolo.» «Prenditi un giorno di ferie.»\nTradotte, vogliono dire sempre la stessa cosa.\n\nTranne «non devi chiamarmi tutti i giorni». Quella vuol dire: chiamami tutti i giorni.\n\nCerte lingue le parla una persona sola. NXTY è fatta per non perderne l'accento.\n\n🌍 EN\n\nDoes your mum say \"you don't have to call me every day\" too?\n\n\"Dry your hair.\" \"Have you put the winter tyres on?\" \"I've forwarded you an article.\" \"Take a day off.\"\nTranslated, they always mean the same thing.\n\nExcept \"you don't have to call me every day\". That one means: call me every day.\n\nSome languages are spoken by one person only. NXTY is made so you never lose the accent.\n\n#NXTY #NextToYou #PersoneCare #mammaitaliana #famiglia",
+   "pubblica_auto": true,
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "capelli",
+     "file": "stories/daily/1020_2030_capelli.jpg",
+     "nota": "amplifica scura con il fotogramma a 6,8 s, la battuta (batch_1020.py)"
+    }
+   ],
+   "preparato": "2026-10-19 (un giorno di scorta, direttiva 41)"
   }
  ]
 }
