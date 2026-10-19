@@ -144,6 +144,11 @@
    "eseguita": "2026-10-19T15:32:36Z",
    "id": 86,
    "slot": "post"
+  },
+  "2026-10-19-moka": {
+   "eseguita": "2026-10-19T18:31:51Z",
+   "id": 86,
+   "slot": "storia"
   }
  },
  "72": {
@@ -287,6 +292,9 @@
   "media_id": "18125449027903283",
   "permalink": "https://www.instagram.com/reel/DerloyniPN4/",
   "pubblicato": "2026-10-19T15:33:17+0000",
-  "pubblicato_da": "GitHub Actions"
+  "pubblicato_da": "GitHub Actions",
+  "storie": {
+   "0": "18135875884658904"
+  }
  }
 }

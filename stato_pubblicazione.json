@@ -1,21 +1,30 @@
 {
- "ultimo_giro": "2026-10-19T15:32:36Z",
+ "ultimo_giro": "2026-10-19T18:31:51Z",
  "evento": "push",
- "slot": "post",
+ "slot": "storia",
  "dry_run": false,
  "token_ok": true,
  "account": {
   "username": "nxty_app",
   "followers_count": 51,
-  "media_count": 75
+  "media_count": 76
  },
  "azioni": [
-  "86: pubblicato https://www.instagram.com/reel/DerloyniPN4/"
+  "86: storia pubblicata (18135875884658904)"
  ],
  "errori": [],
  "allineato": true,
- "richiesta": "2026-10-19-reel86",
+ "richiesta": "2026-10-19-moka",
  "media": [
+  {
+   "id": "18125449027903283",
+   "timestamp": "2026-10-19T15:33:17+0000",
+   "media_product_type": "REELS",
+   "media_type": "VIDEO",
+   "like_count": 1,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/reel/DerloyniPN4/"
+  },
   {
    "id": "18139732915723670",
    "timestamp": "2026-10-18T18:16:08+0000",
@@ -692,5 +701,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-10-19T15:32:36Z"
+ "media_letti": "2026-10-19T18:31:51Z"
 }
