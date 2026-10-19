@@ -2113,10 +2113,18 @@
      "ora": "20:30",
      "nome": "moka",
      "file": "stories/daily/1019_2030_moka.jpg",
-     "nota": "amplifica scura con il fotogramma a 8,6 s, la trascrizione completa (batch_1019.py)"
+     "nota": "amplifica scura con il fotogramma a 8,6 s, la trascrizione completa (batch_1019.py)",
+     "story_id": "18135875884658904",
+     "pubblicata": "2026-10-19T18:31:51Z",
+     "pubblicata_da": "GitHub Actions (richiesta.json 2026-10-19-moka)"
     }
    ],
-   "preparato": "2026-10-18 (un giorno di scorta, direttiva 41)"
+   "preparato": "2026-10-18 (un giorno di scorta, direttiva 41)",
+   "permalink": "https://www.instagram.com/reel/DerloyniPN4/",
+   "media_id": "18125449027903283",
+   "pubblicato": "2026-10-19T15:33:17Z",
+   "pubblicato_da": "GitHub Actions (richiesta.json 2026-10-19-reel86)",
+   "stato": "pubblicato"
   },
   {
    "id": 87,
