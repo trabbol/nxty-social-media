@@ -1,7 +1,7 @@
 {
- "ultimo_giro": "2026-10-18T20:55:44Z",
- "evento": "schedule",
- "slot": "storia",
+ "ultimo_giro": "2026-10-19T15:32:36Z",
+ "evento": "push",
+ "slot": "post",
  "dry_run": false,
  "token_ok": true,
  "account": {
@@ -10,10 +10,11 @@
   "media_count": 75
  },
  "azioni": [
-  "85: storia pubblicata (18161370907441825)"
+  "86: pubblicato https://www.instagram.com/reel/DerloyniPN4/"
  ],
  "errori": [],
  "allineato": true,
+ "richiesta": "2026-10-19-reel86",
  "media": [
   {
    "id": "18139732915723670",
@@ -691,5 +692,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-10-18T20:55:44Z"
+ "media_letti": "2026-10-19T15:32:36Z"
 }

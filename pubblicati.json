@@ -139,6 +139,11 @@
    "eseguita": "2026-10-17T18:31:33Z",
    "id": 84,
    "slot": "storia"
+  },
+  "2026-10-19-reel86": {
+   "eseguita": "2026-10-19T15:32:36Z",
+   "id": 86,
+   "slot": "post"
   }
  },
  "72": {
@@ -277,5 +282,11 @@
   "storie": {
    "0": "18161370907441825"
   }
+ },
+ "86": {
+  "media_id": "18125449027903283",
+  "permalink": "https://www.instagram.com/reel/DerloyniPN4/",
+  "pubblicato": "2026-10-19T15:33:17+0000",
+  "pubblicato_da": "GitHub Actions"
  }
 }
