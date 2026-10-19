@@ -2078,10 +2078,18 @@
      "ora": "20:30",
      "nome": "preferito",
      "file": "stories/daily/1018_2030_preferito.jpg",
-     "nota": "amplifica scura con la copertina del carosello e l'invito «Mandaci quella di tua nonna» per le risposte (batch_1018.py)"
+     "nota": "amplifica scura con la copertina del carosello e l'invito «Mandaci quella di tua nonna» per le risposte (batch_1018.py)",
+     "story_id": "18161370907441825",
+     "pubblicata": "2026-10-18T20:55:44Z",
+     "pubblicata_da": "GitHub Actions (cron, giro schedule delle 20:55:44Z; PC non raggiungibile allo slot delle 18:30Z)"
     }
    ],
-   "preparato": "2026-10-17 (un giorno di scorta, direttiva 41)"
+   "preparato": "2026-10-17 (un giorno di scorta, direttiva 41)",
+   "permalink": "https://www.instagram.com/p/DepTg15iZu1/",
+   "media_id": "18139732915723670",
+   "pubblicato": "2026-10-18T18:16:08Z",
+   "pubblicato_da": "GitHub Actions (cron, giro schedule delle 18:15:18Z; PC non raggiungibile allo slot delle 15:30Z)",
+   "stato": "pubblicato"
   },
   {
    "id": 86,
