@@ -154,6 +154,11 @@
    "eseguita": "2026-10-20T15:32:14Z",
    "id": 87,
    "slot": "post"
+  },
+  "2026-10-20-capelli": {
+   "eseguita": "2026-10-20T18:32:08Z",
+   "id": 87,
+   "slot": "storia"
   }
  },
  "72": {
@@ -306,6 +311,9 @@
   "media_id": "17978827268918930",
   "permalink": "https://www.instagram.com/reel/DeuKYwilQTJ/",
   "pubblicato": "2026-10-20T15:32:46+0000",
-  "pubblicato_da": "GitHub Actions"
+  "pubblicato_da": "GitHub Actions",
+  "storie": {
+   "0": "17978419635133752"
+  }
  }
 }
