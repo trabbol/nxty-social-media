@@ -2152,6 +2152,33 @@
     }
    ],
    "preparato": "2026-10-19 (un giorno di scorta, direttiva 41)"
+  },
+  {
+   "id": 88,
+   "data": "2026-10-21",
+   "giorno": "Mercoledì",
+   "ora": "17:30",
+   "tipo": "reel",
+   "trial_reel": false,
+   "share_to_feed": true,
+   "serie": "Il vocale della nonna",
+   "episodio": 8,
+   "tema": "direttiva 32 - riconoscimento: il vocale appena uscita dalla chiesa, il cero per il colloquio, le campane di mezzogiorno; chiusura «andrà tutto bene»",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "video": "posts/daily/reel_1021_88.mp4",
+   "durata_s": 11.8,
+   "audio": "originale (audio_1021.py): tema della serie + tre rintocchi di campana lontana, pad abbassato",
+   "caption": "Anche tua nonna accende un cero quando hai un colloquio?\n\nTi manda il vocale appena uscita dalla chiesa: «ho acceso un cero per il tuo colloquio». Poi, per quasi due minuti, si sentono solo le campane di mezzogiorno. Quando finiscono, ammette che non sentiva più niente. Ti dice che Don Mario si ricorda ancora la tua comunione. E prima di salutare: «poi mi racconti tutto».\n\nSette minuti e otto secondi per dire «andrà tutto bene».\n\nQuei vocali tienili: dentro c'è anche la sua voce di mezzogiorno, con le campane dietro. NXTY parte da lì.\n\n🌍 EN\n\nDoes your grandma light a candle when you have a job interview?\n\nShe sends the voice note right as she leaves church: \"I lit a candle for your interview\". Then, for almost two minutes, all you hear are the midday bells. When they stop, she admits she couldn't hear a thing. She tells you Don Mario still remembers your First Communion. And before signing off: \"then you'll tell me everything\".\n\nSeven minutes and eight seconds to say \"it's all going to be fine\".\n\nKeep those voice notes: her midday voice is in there too, with the bells behind it. That's where NXTY starts.\n\n#NXTY #NextToYou #PersoneCare #nonna #vocali",
+   "pubblica_auto": true,
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "cero",
+     "file": "stories/daily/1021_2030_cero.jpg",
+     "nota": "amplifica scura con il fotogramma a 8,6 s, la trascrizione completa (batch_1021.py)"
+    }
+   ],
+   "preparato": "2026-10-20 (un giorno di scorta, direttiva 41)"
   }
  ]
 }
