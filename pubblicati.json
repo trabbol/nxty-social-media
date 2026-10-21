@@ -159,6 +159,11 @@
    "eseguita": "2026-10-20T18:32:08Z",
    "id": 87,
    "slot": "storia"
+  },
+  "2026-10-21-reel88": {
+   "eseguita": "2026-10-21T15:31:56Z",
+   "id": 88,
+   "slot": "post"
   }
  },
  "72": {
@@ -315,5 +320,11 @@
   "storie": {
    "0": "17978419635133752"
   }
+ },
+ "88": {
+  "media_id": "18124718752921395",
+  "permalink": "https://www.instagram.com/reel/DewvJjOihvp/",
+  "pubblicato": "2026-10-21T15:32:37+0000",
+  "pubblicato_da": "GitHub Actions"
  }
 }

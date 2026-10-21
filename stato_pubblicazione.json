@@ -1,7 +1,7 @@
 {
- "ultimo_giro": "2026-10-20T21:45:59Z",
- "evento": "schedule",
- "slot": "storia",
+ "ultimo_giro": "2026-10-21T15:31:56Z",
+ "evento": "push",
+ "slot": "post",
  "dry_run": false,
  "token_ok": true,
  "account": {
@@ -10,10 +10,11 @@
   "media_count": 77
  },
  "azioni": [
-  "87: storia 0 gia' pubblicata, salto"
+  "88: pubblicato https://www.instagram.com/reel/DewvJjOihvp/"
  ],
  "errori": [],
  "allineato": true,
+ "richiesta": "2026-10-21-reel88",
  "media": [
   {
    "id": "17978827268918930",
@@ -709,5 +710,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-10-20T21:45:59Z"
+ "media_letti": "2026-10-21T15:31:56Z"
 }
