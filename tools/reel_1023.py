@@ -7,7 +7,8 @@ messaggio ci sono gia' tutte come barre grigie della loro forma e si scrivono un
 in oro fra due fili. In basso, gia' dal primo fotogramma, la scheda ASCOLTATO tratteggiata: «Non ancora
 ascoltato». Poi l'anno corre da 2026 a 2071 come un contachilometri, il fondo passa dal crema al notte e la
 scheda in basso si accende: la risposta si scrive e fa eco. Cartello notte «Ci ha messo quarantacinque anni
-ad arrivare. / Per chi verra'.» Personaggi inventati; nessun apostrofo nelle righe; caporale di chiusura con
+ad arrivare. / Per chi verra'.» Personaggi inventati, dichiarati dalla riga «UNA STORIA IMMAGINATA» sotto il titolo
+(versione 2 del 21/10 sera, dopo la revisione: nella risposta il trucco passa alla figlia di Marta); nessun apostrofo nelle righe; caporale di chiusura con
 .gc; punto e virgola avvicinati con k(). Impaginazione tutta in flusso (niente misure in JS)."""
 import re
 BASE = "/home/claude/nxty/demo"
@@ -38,9 +39,9 @@ SALTO, SALTO_DUR = 6000, 1500        # l'anno corre
 NOTTE_DA, NOTTE_DUR = 6100, 900      # il fondo passa al notte
 ACCESA = 7000                        # la scheda in basso si accende
 RISPOSTA = [
-    (7700,  q("Oggi avevo paura, bisnonno.")),
-    (9100,  q("Mani in tasca. Fino a dieci.")),
-    (10500, q("In dialetto. Me lo ha insegnato la&nbsp;tua&nbsp;voce.")),
+    (7700,  q("Oggi mia figlia aveva paura,&nbsp;bisnonno.")),
+    (9100,  q("Le ho fatto sentire il&nbsp;tuo&nbsp;vocale.")),
+    (10500, q("Mani in tasca, fino a dieci. In&nbsp;dialetto. Funziona ancora.")),
 ]
 VIA, FINE = 12300, 12500
 DURATA = FINE + 2400                 # 14900
@@ -75,14 +76,16 @@ html,body {{ width:1080px; height:1920px; font-family:'PJS',sans-serif; -webkit-
 @keyframes pulsa {{ 0%,100% {{ opacity:1; }} 50% {{ opacity:.2; }} }}
 .main {{ position:absolute; inset:0; animation:esci 380ms {VIA}ms forwards; }}
 
-.wmd {{ position:absolute; top:150px; left:0; right:0; display:flex; align-items:center; justify-content:center;
+.wmd {{ position:absolute; top:138px; left:0; right:0; display:flex; align-items:center; justify-content:center;
   gap:16px; font-weight:800; letter-spacing:.32em; font-size:32px; color:{NOTTE};
   animation:chiaro {NOTTE_DUR}ms ease-in-out {NOTTE_DA}ms forwards; }}
 .wmd i {{ color:{GOLD}; font-size:44px; font-style:normal; letter-spacing:0; font-weight:700; transform:translateY(-4px); }}
-.serie {{ position:absolute; top:222px; left:0; right:0; text-align:center; font-size:25px; font-weight:800;
+.serie {{ position:absolute; top:206px; left:0; right:0; text-align:center; font-size:25px; font-weight:800;
   letter-spacing:.20em; color:{GOLD}; }}
 
-.colonna {{ position:absolute; top:296px; left:72px; right:72px; display:flex; flex-direction:column; }}
+.immaginata {{ position:absolute; top:250px; left:0; right:0; text-align:center; font-size:21px; font-weight:800;
+  letter-spacing:.22em; color:rgba(220,166,89,.72); }}
+.colonna {{ position:absolute; top:300px; left:72px; right:72px; display:flex; flex-direction:column; }}
 .scheda {{ border-radius:40px; padding:36px 46px 42px; }}
 .sopra {{ background:#FFFFFF; border:2px solid rgba(11,11,18,.07); box-shadow:0 18px 50px rgba(11,11,18,.07); --testo:{NOTTE}; }}
 .etichetta {{ display:flex; align-items:center; gap:14px; font-size:26px; font-weight:800; letter-spacing:.14em;
@@ -131,6 +134,7 @@ html,body {{ width:1080px; height:1920px; font-family:'PJS',sans-serif; -webkit-
   <div class="main">
     <div class="wmd"><i>&#8734;</i>NXTY</div>
     <div class="serie">PER CHI VERR&Agrave; &middot; EP. {EP}</div>
+    <div class="immaginata">UNA STORIA IMMAGINATA</div>
     <div class="colonna">
       <div class="scheda sopra">
         <div class="etichetta"><span class="rec"></span>{DATA_DA}</div>
@@ -151,6 +155,7 @@ html,body {{ width:1080px; height:1920px; font-family:'PJS',sans-serif; -webkit-
           <div class="vuoto">Non ancora ascoltato</div>
           <div class="barra" style="width:72%;"></div>
           <div class="barra" style="width:48%; margin-top:16px;"></div>
+          <div class="barra" style="width:63%; margin-top:16px;"></div>
         </div>
       </div>
     </div>
