@@ -2187,6 +2187,33 @@
     }
    ],
    "preparato": "2026-10-20 (un giorno di scorta, direttiva 41)"
+  },
+  {
+   "id": 89,
+   "data": "2026-10-22",
+   "giorno": "Giovedì",
+   "ora": "17:30",
+   "tipo": "reel",
+   "trial_reel": false,
+   "share_to_feed": true,
+   "serie": "Dal mammese all'italiano",
+   "episodio": 9,
+   "tema": "direttiva 32 - riconoscimento: le frasi della madre che vogliono dire ti voglio bene; battuta: «non mi fare regali» = il regalo sei tu",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "video": "posts/daily/reel_1022_89.mp4",
+   "durata_s": 11.6,
+   "audio": "originale della serie (audio_0929.wav, stessi tempi degli ep. 1-8)",
+   "caption": "Anche tua madre dice «non mi fare regali»?\n\n«Esci con questo tempo?» «Hai ancora il raffreddore?» «Saluta tanto da parte mia.» «Bevi tanta acqua.»\nTradotte, vogliono dire sempre la stessa cosa.\n\nTranne «non mi fare regali». Quella vuol dire: il regalo sei tu.\n\nCerte lingue le parla una persona sola. NXTY è fatta per non perderne l'accento.\n\n🌍 EN\n\nDoes your mum say \"don't get me anything\" too?\n\n\"You're going out in this weather?\" \"Do you still have that cold?\" \"Say hello from me.\" \"Drink plenty of water.\"\nTranslated, they always mean the same thing.\n\nExcept \"don't get me anything\". That one means: you are the present.\n\nSome languages are spoken by one person only. NXTY is made so you never lose the accent.\n\n#NXTY #NextToYou #PersoneCare #mammaitaliana #famiglia",
+   "pubblica_auto": true,
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "raffreddore",
+     "file": "stories/daily/1022_2030_raffreddore.jpg",
+     "nota": "amplifica scura con il fotogramma a 6,8 s, la battuta (batch_1022.py)"
+    }
+   ],
+   "preparato": "2026-10-21 (un giorno di scorta, direttiva 41)"
   }
  ]
 }
