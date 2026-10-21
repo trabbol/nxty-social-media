@@ -2186,7 +2186,12 @@
      "nota": "amplifica scura con il fotogramma a 8,6 s, la trascrizione completa (batch_1021.py)"
     }
    ],
-   "preparato": "2026-10-20 (un giorno di scorta, direttiva 41)"
+   "preparato": "2026-10-20 (un giorno di scorta, direttiva 41)",
+   "permalink": "https://www.instagram.com/reel/DewvJjOihvp/",
+   "media_id": "18124718752921395",
+   "pubblicato": "2026-10-21T15:32:37Z",
+   "pubblicato_da": "GitHub Actions (richiesta.json 2026-10-21-reel88)",
+   "stato": "pubblicato"
   },
   {
    "id": 89,
@@ -2214,6 +2219,33 @@
     }
    ],
    "preparato": "2026-10-21 (un giorno di scorta, direttiva 41)"
+  },
+  {
+   "id": 90,
+   "data": "2026-10-23",
+   "giorno": "Venerdì",
+   "ora": "17:30",
+   "tipo": "reel",
+   "trial_reel": false,
+   "share_to_feed": true,
+   "serie": "Per chi verrà",
+   "episodio": 1,
+   "tema": "direttiva 43 - campagna «Per chi verrà» (l'eredità dei ricordi, chi lascia e chi riceve in dialogo): messaggio registrato nel 2026, risposta che fa eco nel 2071; «mani in tasca e conta fino a dieci, in dialetto»",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "video": "posts/daily/reel_1023_90.mp4",
+   "durata_s": 14.9,
+   "audio": "originale della serie (audio_1023.wav: pad in Re che passa a Sol, un tic di contatore per ognuno dei 45 anni, eco sulle righe della risposta, arpeggio del cartello)",
+   "caption": "Registrato nel 2026. Ascoltato nel 2071.\n\nEttore ha 74 anni e un trucco imparato da suo padre. Lo registra per un pronipote che ancora non c'è.\n\nQuarantacinque anni dopo, Marta ha paura. E si ricorda della sua voce.\n\nCerte cose si tramandano solo a voce. NXTY è fatta per tenerla, per chi verrà.\n\n🌍 EN\n\nRecorded in 2026. Heard in 2071.\n\nEttore is 74 and has a trick he learned from his father. He records it for a great-grandchild who isn't born yet.\n\nForty-five years later, Marta is scared. And she remembers his voice.\n\nSome things are only passed down by voice. NXTY is made to keep it, for those who will come.\n\n#NXTY #NextToYou #PersoneCare #nonni #famiglia",
+   "pubblica_auto": true,
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "trucco",
+     "file": "stories/daily/1023_2030_trucco.jpg",
+     "nota": "amplifica scura con il fotogramma a 11,8 s (messaggio e risposta), domanda della campagna «Tu cosa lasceresti a chi non è ancora nato?» con «Rispondi a questa storia», niente adesivi (batch_1023.py)"
+    }
+   ],
+   "preparato": "2026-10-21 (due giorni di scorta; primo episodio della campagna, mostrato ad Alessandro prima dell'uscita)"
   }
  ]
 }
