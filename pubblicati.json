@@ -164,6 +164,11 @@
    "eseguita": "2026-10-21T15:31:56Z",
    "id": 88,
    "slot": "post"
+  },
+  "2026-10-21-cero": {
+   "eseguita": "2026-10-21T18:32:08Z",
+   "id": 88,
+   "slot": "storia"
   }
  },
  "72": {
@@ -325,6 +330,9 @@
   "media_id": "18124718752921395",
   "permalink": "https://www.instagram.com/reel/DewvJjOihvp/",
   "pubblicato": "2026-10-21T15:32:37+0000",
-  "pubblicato_da": "GitHub Actions"
+  "pubblicato_da": "GitHub Actions",
+  "storie": {
+   "0": "18235467790320624"
+  }
  }
 }
