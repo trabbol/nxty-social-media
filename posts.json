@@ -2249,6 +2249,40 @@
     }
    ],
    "preparato": "2026-10-21 (due giorni di scorta; primo episodio della campagna, mostrato ad Alessandro prima dell'uscita)"
+  },
+  {
+   "id": 91,
+   "data": "2026-10-24",
+   "giorno": "Sabato",
+   "ora": "17:30",
+   "tipo": "carosello",
+   "serie": "Le frasi che giuravi di non dire",
+   "episodio": 4,
+   "tema": "direttive 32 e 43 - campagna «Per chi verrà»: le frasi dei genitori come prima eredità (ep. 4, chiude con il proverbio «L'erba voglio non cresce nemmeno nel giardino del re» firmato da tre generazioni); chiusura fissa della serie sulla voce da tenere",
+   "slide": [
+    "posts/daily/caro_1024_91_s1.jpg",
+    "posts/daily/caro_1024_91_s2.jpg",
+    "posts/daily/caro_1024_91_s3.jpg",
+    "posts/daily/caro_1024_91_s4.jpg",
+    "posts/daily/caro_1024_91_s5.jpg",
+    "posts/daily/caro_1024_91_s6.jpg",
+    "posts/daily/caro_1024_91_s7.jpg",
+    "posts/daily/caro_1024_91_s8.jpg"
+   ],
+   "formato": "8 slide 1080x1350 (copertina notte con occhiello EPISODIO 4, 6 frasi su crema, chiusura notte con logo)",
+   "modello": "tools/caro_1024.py",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "caption": "Le frasi dei tuoi le hai ereditate senza volerlo.\n\nPoi un giorno tuo figlio ha detto «voglio» e ti è uscito: «L'erba voglio non cresce nemmeno nel giardino del re». Era di tua nonna. Prima ancora, chissà.\n\nCerte eredità arrivano da sole. La voce con cui te le dicevano, invece, va tenuta da parte, per chi verrà. NXTY parte da lì.\n\n🌍 EN\n\nYou inherited your parents' phrases without meaning to.\n\nThen one day your child said \"I want\" and out it came: \"'I want' doesn't grow even in the king's garden\". It was your grandmother's. Before her, who knows.\n\nSome things are inherited on their own. The voice they were said in is worth keeping, for those who will come. That's where NXTY starts.\n\n#NXTY #NextToYou #PersoneCare #genitori #famiglia",
+   "pubblica_auto": true,
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "erba",
+     "file": "stories/daily/1024_2030_erba.jpg",
+     "nota": "amplifica scura con la copertina del carosello, «Sei frasi ereditate. Quale ti è già uscita?» e «Rispondi a questa storia», niente adesivi (batch_1024.py)"
+    }
+   ],
+   "preparato": "2026-10-22 (due giorni di scorta, campagna «Per chi verrà»)"
   }
  ]
 }
