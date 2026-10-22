@@ -1,7 +1,7 @@
 {
- "ultimo_giro": "2026-10-22T18:31:18Z",
- "evento": "push",
- "slot": "storia",
+ "ultimo_giro": "2026-10-22T19:22:22Z",
+ "evento": "schedule",
+ "slot": "post",
  "dry_run": false,
  "token_ok": true,
  "account": {
@@ -10,11 +10,10 @@
   "media_count": 79
  },
  "azioni": [
-  "89: storia pubblicata (18182798011382740)"
+  "89: gia' pubblicato, salto"
  ],
  "errori": [],
  "allineato": true,
- "richiesta": "2026-10-22-raffreddore",
  "media": [
   {
    "id": "18112679204162800",
@@ -728,5 +727,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-10-22T18:31:18Z"
+ "media_letti": "2026-10-22T19:22:22Z"
 }
