@@ -1,21 +1,30 @@
 {
- "ultimo_giro": "2026-10-22T15:31:57Z",
+ "ultimo_giro": "2026-10-22T18:31:18Z",
  "evento": "push",
- "slot": "post",
+ "slot": "storia",
  "dry_run": false,
  "token_ok": true,
  "account": {
   "username": "nxty_app",
   "followers_count": 51,
-  "media_count": 78
+  "media_count": 79
  },
  "azioni": [
-  "89: pubblicato https://www.instagram.com/reel/DezT9Qzkniu/"
+  "89: storia pubblicata (18182798011382740)"
  ],
  "errori": [],
  "allineato": true,
- "richiesta": "2026-10-22-reel89",
+ "richiesta": "2026-10-22-raffreddore",
  "media": [
+  {
+   "id": "18112679204162800",
+   "timestamp": "2026-10-22T15:32:49+0000",
+   "media_product_type": "REELS",
+   "media_type": "VIDEO",
+   "like_count": 1,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/reel/DezT9Qzkniu/"
+  },
   {
    "id": "18124718752921395",
    "timestamp": "2026-10-21T15:32:37+0000",
@@ -719,5 +728,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-10-22T15:31:57Z"
+ "media_letti": "2026-10-22T18:31:18Z"
 }

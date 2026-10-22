@@ -174,6 +174,11 @@
    "eseguita": "2026-10-22T15:31:57Z",
    "id": 89,
    "slot": "post"
+  },
+  "2026-10-22-raffreddore": {
+   "eseguita": "2026-10-22T18:31:18Z",
+   "id": 89,
+   "slot": "storia"
   }
  },
  "72": {
@@ -344,6 +349,9 @@
   "media_id": "18112679204162800",
   "permalink": "https://www.instagram.com/reel/DezT9Qzkniu/",
   "pubblicato": "2026-10-22T15:32:49+0000",
-  "pubblicato_da": "GitHub Actions"
+  "pubblicato_da": "GitHub Actions",
+  "storie": {
+   "0": "18182798011382740"
+  }
  }
 }
