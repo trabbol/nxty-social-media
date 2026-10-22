@@ -2218,10 +2218,18 @@
      "ora": "20:30",
      "nome": "raffreddore",
      "file": "stories/daily/1022_2030_raffreddore.jpg",
-     "nota": "amplifica scura con il fotogramma a 6,8 s, la battuta (batch_1022.py)"
+     "nota": "amplifica scura con il fotogramma a 6,8 s, la battuta (batch_1022.py)",
+     "story_id": "18182798011382740",
+     "pubblicata": "2026-10-22T18:31:18Z",
+     "pubblicata_da": "GitHub Actions (richiesta.json 2026-10-22-raffreddore)"
     }
    ],
-   "preparato": "2026-10-21 (un giorno di scorta, direttiva 41)"
+   "preparato": "2026-10-21 (un giorno di scorta, direttiva 41)",
+   "permalink": "https://www.instagram.com/reel/DezT9Qzkniu/",
+   "media_id": "18112679204162800",
+   "pubblicato": "2026-10-22T15:32:49Z",
+   "pubblicato_da": "GitHub Actions (richiesta.json 2026-10-22-reel89)",
+   "stato": "pubblicato"
   },
   {
    "id": 90,
