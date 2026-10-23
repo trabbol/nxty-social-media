@@ -1,7 +1,7 @@
 {
- "rid": "2026-10-23-reel90",
+ "rid": "2026-10-23-trucco",
  "id": 90,
- "slot": "post",
- "entro": "2026-10-23T18:00:00Z",
- "ordine": "slot post 15:30Z del 23/10 (riserva principale, direttiva 40)"
+ "slot": "storia",
+ "entro": "2026-10-23T21:00:00Z",
+ "ordine": "slot storia 18:30Z del 23/10 (riserva principale, direttiva 40)"
 }
