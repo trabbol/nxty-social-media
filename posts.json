@@ -2291,6 +2291,40 @@
     }
    ],
    "preparato": "2026-10-22 (due giorni di scorta, campagna «Per chi verrà»)"
+  },
+  {
+   "id": 92,
+   "data": "2026-10-25",
+   "giorno": "Domenica",
+   "ora": "17:30",
+   "tipo": "carosello",
+   "serie": "Il vocabolario della nonna",
+   "episodio": 3,
+   "tema": "direttive 32 e 43 - campagna «Per chi verrà»: le parole che usa solo lei come eredità (ep. 3, copertina «eredità — Le sue parole, che adesso dici tu»); chiusura fissa sulla voce da tenere",
+   "slide": [
+    "posts/daily/caro_1025_92_s1.jpg",
+    "posts/daily/caro_1025_92_s2.jpg",
+    "posts/daily/caro_1025_92_s3.jpg",
+    "posts/daily/caro_1025_92_s4.jpg",
+    "posts/daily/caro_1025_92_s5.jpg",
+    "posts/daily/caro_1025_92_s6.jpg",
+    "posts/daily/caro_1025_92_s7.jpg",
+    "posts/daily/caro_1025_92_s8.jpg"
+   ],
+   "formato": "8 slide 1080x1350 (copertina notte con occhiello EPISODIO 3 e la voce «eredità», 6 voci su crema, chiusura notte con logo)",
+   "modello": "tools/caro_1025.py",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "caption": "Altre sei parole del vocabolario della nonna. Quante ne hai prese anche tu?\n\nPer lei è «un ragazzo» chiunque abbia meno di sessant'anni, e «dottore» chiunque abbia una laurea. «Un attimo» dura una telefonata con la cugina. E in «salotto», la stanza più bella della casa, non entra nessuno.\n\nSono parole che nel dizionario non ci sono: ci sono nella sua voce, e adesso nella tua. Tienila, per chi verrà. NXTY parte da lì.\n\n🌍 EN\n\nSix more words from grandma's dictionary. How many have you picked up too?\n\nTo her, anyone under sixty is \"a young man\", and anyone with a degree is \"doctor\". \"Just a moment\" lasts one phone call with her cousin. And nobody ever goes into the \"living room\", the nicest room in the house.\n\nThese words aren't in any dictionary: they're in her voice, and now in yours. Keep it, for those who will come. That's where NXTY starts.\n\n#NXTY #NextToYou #PersoneCare #nonna #famiglia",
+   "pubblica_auto": true,
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "salotto",
+     "file": "stories/daily/1025_2030_salotto.jpg",
+     "nota": "amplifica scura con la copertina del carosello, «Altre sei parole. Qual è la parola di tua nonna?» e «Rispondi a questa storia», niente adesivi (batch_1025.py); primo giorno di ora solare: riserva alle 19:30Z"
+    }
+   ],
+   "preparato": "2026-10-23 (due giorni di scorta, campagna «Per chi verrà»)"
   }
  ]
 }
