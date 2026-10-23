@@ -2253,10 +2253,18 @@
      "ora": "20:30",
      "nome": "trucco",
      "file": "stories/daily/1023_2030_trucco.jpg",
-     "nota": "amplifica scura con il fotogramma a 11,8 s (messaggio e risposta), domanda della campagna «Tu cosa lasceresti a chi non è ancora nato?» con «Rispondi a questa storia», niente adesivi (batch_1023.py)"
+     "nota": "amplifica scura con il fotogramma a 11,8 s (messaggio e risposta), domanda della campagna «Tu cosa lasceresti a chi non è ancora nato?» con «Rispondi a questa storia», niente adesivi (batch_1023.py)",
+     "story_id": "17909600028589095",
+     "pubblicata": "2026-10-23T18:31:54Z",
+     "pubblicata_da": "GitHub Actions (richiesta.json 2026-10-23-trucco)"
     }
    ],
-   "preparato": "2026-10-21 (due giorni di scorta; primo episodio della campagna, mostrato ad Alessandro prima dell'uscita)"
+   "preparato": "2026-10-21 (due giorni di scorta; primo episodio della campagna, mostrato ad Alessandro prima dell'uscita)",
+   "permalink": "https://www.instagram.com/reel/De14udsCldj/",
+   "media_id": "18015751679961098",
+   "pubblicato": "2026-10-23T15:32:29Z",
+   "pubblicato_da": "GitHub Actions (richiesta.json 2026-10-23-reel90)",
+   "stato": "pubblicato"
   },
   {
    "id": 91,
