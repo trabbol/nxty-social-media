@@ -184,6 +184,11 @@
    "eseguita": "2026-10-23T15:31:47Z",
    "id": 90,
    "slot": "post"
+  },
+  "2026-10-23-trucco": {
+   "eseguita": "2026-10-23T18:31:54Z",
+   "id": 90,
+   "slot": "storia"
   }
  },
  "72": {
@@ -363,6 +368,9 @@
   "media_id": "18015751679961098",
   "permalink": "https://www.instagram.com/reel/De14udsCldj/",
   "pubblicato": "2026-10-23T15:32:29+0000",
-  "pubblicato_da": "GitHub Actions"
+  "pubblicato_da": "GitHub Actions",
+  "storie": {
+   "0": "17909600028589095"
+  }
  }
 }
