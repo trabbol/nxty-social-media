@@ -2333,6 +2333,33 @@
     }
    ],
    "preparato": "2026-10-23 (due giorni di scorta, campagna «Per chi verrà»)"
+  },
+  {
+   "id": 93,
+   "data": "2026-10-26",
+   "giorno": "Lunedì",
+   "ora": "17:30",
+   "tipo": "reel",
+   "trial_reel": false,
+   "share_to_feed": true,
+   "serie": "Il vocale della nonna",
+   "episodio": 9,
+   "tema": "direttive 32 e 43 - campagna «Per chi verrà»: la canzoncina che la nonna fischiava, insegnata al canarino, la stessa di sua madre; «tocca a te impararla, e poi la insegni ai tuoi»; chiusura «adesso è tua»",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "video": "posts/daily/reel_1026_93.mp4",
+   "durata_s": 11.8,
+   "audio": "originale (audio_1026.py): tema della serie + tre trilli di canarino lontano (tre note che salgono e una pausa), pad abbassato",
+   "caption": "Anche tua nonna ti fischiava una canzoncina?\n\nTi manda un vocale per dirti che l'ha insegnata a Pippo, il canarino. Poi, per più di due minuti, si sente solo lui che la fischia tutta. Quando finisce, ti dice che è la stessa che fischiava sua madre. E prima di salutare: «tocca a te impararla, e poi la insegni ai tuoi».\n\nOtto minuti e quindici secondi per dire «adesso è tua».\n\nQuei vocali tienili: dentro c'è la canzoncina, e la voce che te l'ha lasciata. Per chi verrà. NXTY parte da lì.\n\n🌍 EN\n\nDid your grandma whistle you a little tune too?\n\nShe sends you a voice note to say she's taught it to Pippo, the canary. Then, for more than two minutes, all you hear is him whistling the whole thing. When he's done, she tells you it's the same tune her mother used to whistle. And before signing off: \"now it's your turn to learn it, and then teach it to yours\".\n\nEight minutes and fifteen seconds to say \"now it's yours\".\n\nKeep those voice notes: the tune is in there, and the voice that left it to you. For those who will come. That's where NXTY starts.\n\n#NXTY #NextToYou #PersoneCare #nonna #vocali",
+   "pubblica_auto": true,
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "canarino",
+     "file": "stories/daily/1026_2030_canarino.jpg",
+     "nota": "amplifica scura con il fotogramma a 8,6 s (trascrizione completa), «E tu cosa le rispondi?» e «Rispondi a questa storia», niente adesivi (batch_1026.py); ora solare: riserva alle 19:30Z"
+    }
+   ],
+   "preparato": "2026-10-24 (due giorni di scorta, campagna «Per chi verrà»)"
   }
  ]
 }
