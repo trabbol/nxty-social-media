@@ -194,6 +194,11 @@
    "eseguita": "2026-10-24T15:32:28Z",
    "id": 91,
    "slot": "post"
+  },
+  "2026-10-24-erba": {
+   "eseguita": "2026-10-24T18:32:25Z",
+   "id": 91,
+   "slot": "storia"
   }
  },
  "72": {
@@ -382,6 +387,9 @@
   "media_id": "18116300843022902",
   "permalink": "https://www.instagram.com/p/De4dpbvF9X_/",
   "pubblicato": "2026-10-24T15:33:06+0000",
-  "pubblicato_da": "GitHub Actions"
+  "pubblicato_da": "GitHub Actions",
+  "storie": {
+   "0": "18108344138353427"
+  }
  }
 }

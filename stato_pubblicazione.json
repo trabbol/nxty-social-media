@@ -1,7 +1,7 @@
 {
- "ultimo_giro": "2026-10-24T18:18:26Z",
- "evento": "schedule",
- "slot": "post",
+ "ultimo_giro": "2026-10-24T18:32:25Z",
+ "evento": "push",
+ "slot": "storia",
  "dry_run": false,
  "token_ok": true,
  "account": {
@@ -10,10 +10,11 @@
   "media_count": 81
  },
  "azioni": [
-  "91: gia' pubblicato, salto"
+  "91: storia pubblicata (18108344138353427)"
  ],
  "errori": [],
  "allineato": true,
+ "richiesta": "2026-10-24-erba",
  "media": [
   {
    "id": "18116300843022902",
@@ -745,5 +746,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-10-24T18:18:26Z"
+ "media_letti": "2026-10-24T18:32:25Z"
 }
