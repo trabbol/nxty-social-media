@@ -1,6 +1,6 @@
 {
- "ultimo_giro": "2026-10-24T18:32:25Z",
- "evento": "push",
+ "ultimo_giro": "2026-10-24T21:00:59Z",
+ "evento": "schedule",
  "slot": "storia",
  "dry_run": false,
  "token_ok": true,
@@ -10,18 +10,17 @@
   "media_count": 81
  },
  "azioni": [
-  "91: storia pubblicata (18108344138353427)"
+  "91: storia 0 gia' pubblicata, salto"
  ],
  "errori": [],
  "allineato": true,
- "richiesta": "2026-10-24-erba",
  "media": [
   {
    "id": "18116300843022902",
    "timestamp": "2026-10-24T15:33:06+0000",
    "media_product_type": "FEED",
    "media_type": "CAROUSEL_ALBUM",
-   "like_count": 1,
+   "like_count": 2,
    "comments_count": 0,
    "permalink": "https://www.instagram.com/p/De4dpbvF9X_/"
   },
@@ -746,5 +745,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-10-24T18:32:25Z"
+ "media_letti": "2026-10-24T21:00:59Z"
 }
