@@ -2295,10 +2295,18 @@
      "ora": "20:30",
      "nome": "erba",
      "file": "stories/daily/1024_2030_erba.jpg",
-     "nota": "amplifica scura con la copertina del carosello, «Sei frasi ereditate. Quale ti è già uscita?» e «Rispondi a questa storia», niente adesivi (batch_1024.py)"
+     "nota": "amplifica scura con la copertina del carosello, «Sei frasi ereditate. Quale ti è già uscita?» e «Rispondi a questa storia», niente adesivi (batch_1024.py)",
+     "story_id": "18108344138353427",
+     "pubblicata": "2026-10-24T18:32:25Z",
+     "pubblicata_da": "GitHub Actions (richiesta.json 2026-10-24-erba)"
     }
    ],
-   "preparato": "2026-10-22 (due giorni di scorta, campagna «Per chi verrà»)"
+   "preparato": "2026-10-22 (due giorni di scorta, campagna «Per chi verrà»)",
+   "permalink": "https://www.instagram.com/p/De4dpbvF9X_/",
+   "media_id": "18116300843022902",
+   "pubblicato": "2026-10-24T15:33:06Z",
+   "pubblicato_da": "GitHub Actions (richiesta.json 2026-10-24-caro91)",
+   "stato": "pubblicato"
   },
   {
    "id": 92,
