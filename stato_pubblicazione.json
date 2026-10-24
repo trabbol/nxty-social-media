@@ -1,19 +1,20 @@
 {
- "ultimo_giro": "2026-10-23T21:33:18Z",
- "evento": "schedule",
- "slot": "storia",
+ "ultimo_giro": "2026-10-24T15:32:28Z",
+ "evento": "push",
+ "slot": "post",
  "dry_run": false,
  "token_ok": true,
  "account": {
   "username": "nxty_app",
-  "followers_count": 51,
+  "followers_count": 52,
   "media_count": 80
  },
  "azioni": [
-  "90: storia 0 gia' pubblicata, salto"
+  "91: pubblicato https://www.instagram.com/p/De4dpbvF9X_/"
  ],
  "errori": [],
  "allineato": true,
+ "richiesta": "2026-10-24-caro91",
  "media": [
   {
    "id": "18015751679961098",
@@ -47,7 +48,7 @@
    "timestamp": "2026-10-20T15:32:46+0000",
    "media_product_type": "REELS",
    "media_type": "VIDEO",
-   "like_count": 2,
+   "like_count": 3,
    "comments_count": 0,
    "permalink": "https://www.instagram.com/reel/DeuKYwilQTJ/"
   },
@@ -736,5 +737,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-10-23T21:33:18Z"
+ "media_letti": "2026-10-24T15:32:28Z"
 }
