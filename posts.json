@@ -2368,6 +2368,40 @@
     }
    ],
    "preparato": "2026-10-24 (due giorni di scorta, campagna «Per chi verrà»)"
+  },
+  {
+   "id": 94,
+   "data": "2026-10-27",
+   "giorno": "Martedì",
+   "ora": "17:30",
+   "tipo": "carosello",
+   "serie": "Le domande da fare ai nonni",
+   "episodio": 1,
+   "tema": "direttiva 43 - campagna «Per chi verrà», serie nuova: chi riceve chiede, chi lascia racconta; sei domande con la domanda che viene dopo; le prime tre sono quelle del video 3",
+   "slide": [
+    "posts/daily/caro_1027_94_s1.jpg",
+    "posts/daily/caro_1027_94_s2.jpg",
+    "posts/daily/caro_1027_94_s3.jpg",
+    "posts/daily/caro_1027_94_s4.jpg",
+    "posts/daily/caro_1027_94_s5.jpg",
+    "posts/daily/caro_1027_94_s6.jpg",
+    "posts/daily/caro_1027_94_s7.jpg",
+    "posts/daily/caro_1027_94_s8.jpg"
+   ],
+   "formato": "8 slide 1080x1350 (copertina su crema con la fila dei sei numeri, 6 domande su crema con il numero e «E poi:», chiusura su fondo scuro con logo)",
+   "modello": "tools/caro_1027.py",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "caption": "Sei domande da fare ai nonni. Ognuna apre una storia.\n\nCome vi siete conosciuti. Il primo stipendio. La canzone dei vent'anni. Non serve un'intervista: basta una domanda, e poi quella che viene dopo.\n\nLascia il telefono sul tavolo, se sono d'accordo: la storia resta, con la loro voce. Per chi verrà. NXTY parte da lì.\n\n🌍 EN\n\nSix questions to ask your grandparents. Each one opens a story.\n\nHow you met. Your first pay packet. The song you loved at twenty. You don't need an interview: just one question, then the one that comes after.\n\nLeave your phone on the table, if they're happy with it: the story stays, in their own voice. For those who will come. That's where NXTY starts.\n\n#NXTY #NextToYou #PersoneCare #nonni #famiglia",
+   "pubblica_auto": true,
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "conosciuti",
+     "file": "stories/daily/1027_2030_conosciuti.jpg",
+     "nota": "amplifica scura con la copertina del carosello, «Sei domande per i nonni. Quale fai per prima?» e «Rispondi a questa storia con il numero», niente adesivi (batch_1027.py); ora solare: riserva alle 19:30Z"
+    }
+   ],
+   "preparato": "2026-10-25 (due giorni di scorta, campagna «Per chi verrà»)"
   }
  ]
 }
