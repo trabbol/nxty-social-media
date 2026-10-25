@@ -199,6 +199,11 @@
    "eseguita": "2026-10-24T18:32:25Z",
    "id": 91,
    "slot": "storia"
+  },
+  "2026-10-25-caro92": {
+   "eseguita": "2026-10-25T16:31:47Z",
+   "id": 92,
+   "slot": "post"
   }
  },
  "72": {
@@ -391,5 +396,11 @@
   "storie": {
    "0": "18108344138353427"
   }
+ },
+ "92": {
+  "media_id": "17999401883829002",
+  "permalink": "https://www.instagram.com/p/De7JOR6F7db/",
+  "pubblicato": "2026-10-25T16:32:31+0000",
+  "pubblicato_da": "GitHub Actions"
  }
 }
