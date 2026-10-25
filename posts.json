@@ -2337,10 +2337,18 @@
      "ora": "20:30",
      "nome": "salotto",
      "file": "stories/daily/1025_2030_salotto.jpg",
-     "nota": "amplifica scura con la copertina del carosello, «Altre sei parole. Qual è la parola di tua nonna?» e «Rispondi a questa storia», niente adesivi (batch_1025.py); primo giorno di ora solare: riserva alle 19:30Z"
+     "nota": "amplifica scura con la copertina del carosello, «Altre sei parole. Qual è la parola di tua nonna?» e «Rispondi a questa storia», niente adesivi (batch_1025.py); primo giorno di ora solare: riserva alle 19:30Z",
+     "story_id": "18131157512499195",
+     "pubblicata": "2026-10-25T19:31:50Z",
+     "pubblicata_da": "GitHub Actions (richiesta.json 2026-10-25-salotto)"
     }
    ],
-   "preparato": "2026-10-23 (due giorni di scorta, campagna «Per chi verrà»)"
+   "preparato": "2026-10-23 (due giorni di scorta, campagna «Per chi verrà»)",
+   "permalink": "https://www.instagram.com/p/De7JOR6F7db/",
+   "media_id": "17999401883829002",
+   "pubblicato": "2026-10-25T16:32:31Z",
+   "pubblicato_da": "GitHub Actions (richiesta.json 2026-10-25-caro92)",
+   "stato": "pubblicato"
   },
   {
    "id": 93,
