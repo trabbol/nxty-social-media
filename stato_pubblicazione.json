@@ -1,6 +1,6 @@
 {
- "ultimo_giro": "2026-10-25T19:31:50Z",
- "evento": "push",
+ "ultimo_giro": "2026-10-25T21:01:02Z",
+ "evento": "schedule",
  "slot": "storia",
  "dry_run": false,
  "token_ok": true,
@@ -10,11 +10,10 @@
   "media_count": 82
  },
  "azioni": [
-  "92: storia pubblicata (18131157512499195)"
+  "92: storia 0 gia' pubblicata, salto"
  ],
  "errori": [],
  "allineato": true,
- "richiesta": "2026-10-25-salotto",
  "media": [
   {
    "id": "17999401883829002",
@@ -755,5 +754,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-10-25T19:31:50Z"
+ "media_letti": "2026-10-25T21:01:02Z"
 }
