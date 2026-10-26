@@ -209,6 +209,11 @@
    "eseguita": "2026-10-25T19:31:50Z",
    "id": 92,
    "slot": "storia"
+  },
+  "2026-10-26-reel93": {
+   "eseguita": "2026-10-26T16:31:50Z",
+   "id": 93,
+   "slot": "post"
   }
  },
  "72": {
@@ -410,5 +415,11 @@
   "storie": {
    "0": "18131157512499195"
   }
+ },
+ "93": {
+  "media_id": "18131545738702625",
+  "permalink": "https://www.instagram.com/reel/De9t-TcgIKA/",
+  "pubblicato": "2026-10-26T16:32:22+0000",
+  "pubblicato_da": "GitHub Actions"
  }
 }

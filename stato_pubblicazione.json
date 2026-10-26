@@ -1,7 +1,7 @@
 {
- "ultimo_giro": "2026-10-25T21:01:02Z",
- "evento": "schedule",
- "slot": "storia",
+ "ultimo_giro": "2026-10-26T16:31:50Z",
+ "evento": "push",
+ "slot": "post",
  "dry_run": false,
  "token_ok": true,
  "account": {
@@ -10,17 +10,18 @@
   "media_count": 82
  },
  "azioni": [
-  "92: storia 0 gia' pubblicata, salto"
+  "93: pubblicato https://www.instagram.com/reel/De9t-TcgIKA/"
  ],
  "errori": [],
  "allineato": true,
+ "richiesta": "2026-10-26-reel93",
  "media": [
   {
    "id": "17999401883829002",
    "timestamp": "2026-10-25T16:32:31+0000",
    "media_product_type": "FEED",
    "media_type": "CAROUSEL_ALBUM",
-   "like_count": 1,
+   "like_count": 3,
    "comments_count": 0,
    "permalink": "https://www.instagram.com/p/De7JOR6F7db/"
   },
@@ -754,5 +755,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-10-25T21:01:02Z"
+ "media_letti": "2026-10-26T16:31:50Z"
 }
