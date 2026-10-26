@@ -2410,6 +2410,33 @@
     }
    ],
    "preparato": "2026-10-25 (due giorni di scorta, campagna «Per chi verrà»)"
+  },
+  {
+   "id": 95,
+   "data": "2026-10-28",
+   "giorno": "Mercoledì",
+   "ora": "17:30",
+   "tipo": "reel",
+   "trial_reel": false,
+   "share_to_feed": true,
+   "serie": "Il vocale della nonna",
+   "episodio": 10,
+   "tema": "direttive 32 e 43 - campagna «Per chi verrà»: la nonna stira la camicia a quadretti che hai lasciato da lei e ti spiega come si fa (prima il colletto, poi i polsini, il davanti sempre per ultimo); «la prossima volta la stiri tu»: ti lascia un suo modo di fare; chiusura «abbi cura di te»",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "video": "posts/daily/reel_1028_95.mp4",
+   "durata_s": 11.8,
+   "audio": "originale (audio_1028.py): tema della serie + tre sbuffi di ferro a vapore (clic del pulsante, tonfo della pompa, getto che si spegne) con il ferro che scorre avanti e indietro, pad abbassato",
+   "caption": "Chi ti ha insegnato a stirare una camicia?\n\nLa nonna ti manda un vocale con in mano la tua camicia a quadretti: «ascolta, che ti spiego come si stira». Poi, per quasi tre minuti, si sente solo il ferro che sbuffa. Prima il colletto, poi i polsini, il davanti sempre per ultimo. E prima di salutare: «la prossima volta la stiri tu».\n\nNove minuti e ventidue secondi per dire «abbi cura di te».\n\nQuei vocali tienili: dentro c'è il suo modo di fare le cose, con la sua voce. Per chi verrà. NXTY parte da lì.\n\n🌍 EN\n\nWho taught you to iron a shirt?\n\nGrandma sends you a voice note with your checked shirt in her hands: \"listen, I'll tell you how to iron it\". Then, for almost three minutes, all you hear is the iron puffing steam. Collar first, then the cuffs, the front always last. And before signing off: \"next time, you iron it\".\n\nNine minutes and twenty-two seconds to say \"take care of yourself\".\n\nKeep those voice notes: her way of doing things is in there, in her own voice. For those who will come. That's where NXTY starts.\n\n#NXTY #NextToYou #PersoneCare #nonna #vocali",
+   "pubblica_auto": true,
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "colletto",
+     "file": "stories/daily/1028_2030_colletto.jpg",
+     "nota": "amplifica scura con il fotogramma a 8,6 s (trascrizione completa), «E tu cosa le rispondi?» e «Rispondi a questa storia», niente adesivi (batch_1028.py); ora solare: riserva alle 19:30Z"
+    }
+   ],
+   "preparato": "2026-10-26 (due giorni di scorta, campagna «Per chi verrà»)"
   }
  ]
 }
