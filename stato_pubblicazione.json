@@ -1,21 +1,30 @@
 {
- "ultimo_giro": "2026-10-26T16:31:50Z",
+ "ultimo_giro": "2026-10-26T19:32:06Z",
  "evento": "push",
- "slot": "post",
+ "slot": "storia",
  "dry_run": false,
  "token_ok": true,
  "account": {
   "username": "nxty_app",
   "followers_count": 52,
-  "media_count": 82
+  "media_count": 83
  },
  "azioni": [
-  "93: pubblicato https://www.instagram.com/reel/De9t-TcgIKA/"
+  "93: storia pubblicata (18130172389788886)"
  ],
  "errori": [],
  "allineato": true,
- "richiesta": "2026-10-26-reel93",
+ "richiesta": "2026-10-26-canarino",
  "media": [
+  {
+   "id": "18131545738702625",
+   "timestamp": "2026-10-26T16:32:22+0000",
+   "media_product_type": "REELS",
+   "media_type": "VIDEO",
+   "like_count": 2,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/reel/De9t-TcgIKA/"
+  },
   {
    "id": "17999401883829002",
    "timestamp": "2026-10-25T16:32:31+0000",
@@ -755,5 +764,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-10-26T16:31:50Z"
+ "media_letti": "2026-10-26T19:32:06Z"
 }

@@ -214,6 +214,11 @@
    "eseguita": "2026-10-26T16:31:50Z",
    "id": 93,
    "slot": "post"
+  },
+  "2026-10-26-canarino": {
+   "eseguita": "2026-10-26T19:32:06Z",
+   "id": 93,
+   "slot": "storia"
   }
  },
  "72": {
@@ -420,6 +425,9 @@
   "media_id": "18131545738702625",
   "permalink": "https://www.instagram.com/reel/De9t-TcgIKA/",
   "pubblicato": "2026-10-26T16:32:22+0000",
-  "pubblicato_da": "GitHub Actions"
+  "pubblicato_da": "GitHub Actions",
+  "storie": {
+   "0": "18130172389788886"
+  }
  }
 }
