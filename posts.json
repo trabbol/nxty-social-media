@@ -2445,6 +2445,33 @@
     }
    ],
    "preparato": "2026-10-26 (due giorni di scorta, campagna «Per chi verrà»)"
+  },
+  {
+   "id": 96,
+   "data": "2026-10-29",
+   "giorno": "Giovedì",
+   "ora": "17:30",
+   "tipo": "reel",
+   "trial_reel": false,
+   "share_to_feed": true,
+   "serie": "Per chi verrà",
+   "episodio": 2,
+   "tema": "direttiva 43 - campagna «Per chi verrà»: Paolo registra per il figlio Tommaso il giorno della sua prima parolaccia (a tavola, davanti alla nonna; la faccia seria, poi in bagno a ridere); trent'anni dopo Tommaso risponde con le stesse parole, per la prima parolaccia di sua figlia: la risposta fa eco; riga «Una storia immaginata»",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "video": "posts/daily/reel_1029_96.mp4",
+   "durata_s": 15.9,
+   "audio": "originale della serie (audio_1029.py: pad in Re che passa a Sol, un tic di contatore per ognuno dei 30 anni, eco sulle quattro righe della risposta, arpeggio del cartello)",
+   "caption": "Registrato nel 2026. Ascoltato nel 2056.\n\nPaolo ha 38 anni e un figlio di 3. Oggi, a tavola, davanti alla nonna, Tommaso ha detto la sua prima parolaccia: lui ha fatto la faccia seria, poi è andato in bagno a ridere. E l'ha registrato per lui.\n\nTrent'anni dopo, Tommaso gli risponde con le stesse parole: adesso la prima parolaccia l'ha detta sua figlia.\n\nCerte cose si tramandano solo a voce. NXTY è fatta per tenerla, per chi verrà.\n\nUna storia immaginata.\n\n🌍 EN\n\nRecorded in 2026. Heard in 2056.\n\nPaolo is 38 and has a three-year-old son. Today, at the table, in front of grandma, Tommaso said his first swear word: Paolo kept a straight face, then went to the bathroom to laugh. And he recorded it for him.\n\nThirty years later, Tommaso answers with the very same words: now it's his daughter who said her first swear word.\n\nSome things are only passed down by voice. NXTY is made to keep it, for those who will come.\n\nAn imagined story.\n\n#NXTY #NextToYou #PersoneCare #genitori #famiglia",
+   "pubblica_auto": true,
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "parolaccia",
+     "file": "stories/daily/1029_2030_parolaccia.jpg",
+     "nota": "amplifica scura con il fotogramma a 12,8 s (le due schede complete), domanda della campagna «Tu cosa lasceresti a chi non è ancora nato?» con «Rispondi a questa storia», niente adesivi (batch_1029.py); ora solare: riserva alle 19:30Z"
+    }
+   ],
+   "preparato": "2026-10-27 (due giorni di scorta, campagna «Per chi verrà»)"
   }
  ]
 }
