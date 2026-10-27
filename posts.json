@@ -2414,10 +2414,18 @@
      "ora": "20:30",
      "nome": "conosciuti",
      "file": "stories/daily/1027_2030_conosciuti.jpg",
-     "nota": "amplifica scura con la copertina del carosello, «Sei domande per i nonni. Quale fai per prima?» e «Rispondi a questa storia con il numero», niente adesivi (batch_1027.py); ora solare: riserva alle 19:30Z"
+     "nota": "amplifica scura con la copertina del carosello, «Sei domande per i nonni. Quale fai per prima?» e «Rispondi a questa storia con il numero», niente adesivi (batch_1027.py); ora solare: riserva alle 19:30Z",
+     "story_id": "17914092648554214",
+     "pubblicata": "2026-10-27T19:31:44Z",
+     "pubblicata_da": "GitHub Actions (richiesta.json 2026-10-27-conosciuti)"
     }
    ],
-   "preparato": "2026-10-25 (due giorni di scorta, campagna «Per chi verrà»)"
+   "preparato": "2026-10-25 (due giorni di scorta, campagna «Per chi verrà»)",
+   "permalink": "https://www.instagram.com/p/DfATvqvj4OD/",
+   "media_id": "18154670257551799",
+   "pubblicato": "2026-10-27T16:40:32Z",
+   "pubblicato_da": "GitHub Actions (richiesta.json 2026-10-27-caro94)",
+   "stato": "pubblicato"
   },
   {
    "id": 95,
