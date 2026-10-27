@@ -1,7 +1,7 @@
 {
- "ultimo_giro": "2026-10-26T22:47:53Z",
- "evento": "schedule",
- "slot": "storia",
+ "ultimo_giro": "2026-10-27T16:39:40Z",
+ "evento": "push",
+ "slot": "post",
  "dry_run": false,
  "token_ok": true,
  "account": {
@@ -10,10 +10,11 @@
   "media_count": 83
  },
  "azioni": [
-  "giro fuori finestra (22:47Z): non pubblico niente"
+  "94: pubblicato https://www.instagram.com/p/DfATvqvj4OD/"
  ],
  "errori": [],
  "allineato": true,
+ "richiesta": "2026-10-27-caro94",
  "media": [
   {
    "id": "18131545738702625",
@@ -763,5 +764,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-10-26T22:47:53Z"
+ "media_letti": "2026-10-27T16:39:40Z"
 }
