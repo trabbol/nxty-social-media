@@ -224,6 +224,11 @@
    "eseguita": "2026-10-27T16:39:40Z",
    "id": 94,
    "slot": "post"
+  },
+  "2026-10-27-conosciuti": {
+   "eseguita": "2026-10-27T19:31:44Z",
+   "id": 94,
+   "slot": "storia"
   }
  },
  "72": {
@@ -439,6 +444,9 @@
   "media_id": "18154670257551799",
   "permalink": "https://www.instagram.com/p/DfATvqvj4OD/",
   "pubblicato": "2026-10-27T16:40:32+0000",
-  "pubblicato_da": "GitHub Actions"
+  "pubblicato_da": "GitHub Actions",
+  "storie": {
+   "0": "17914092648554214"
+  }
  }
 }
