@@ -2480,6 +2480,33 @@
     }
    ],
    "preparato": "2026-10-27 (due giorni di scorta, campagna «Per chi verrà»)"
+  },
+  {
+   "id": 97,
+   "data": "2026-10-30",
+   "giorno": "Venerdì",
+   "ora": "17:30",
+   "tipo": "reel",
+   "trial_reel": false,
+   "share_to_feed": true,
+   "serie": "Per chi verrà",
+   "episodio": 3,
+   "tema": "direttiva 43 - campagna «Per chi verrà»: Ada, 69 anni, registra per la nipote Giulia la sua prima lezione di nuoto (mezza piscina bevuta, ma domani ci torna); sessantuno anni dopo Giulia, 69 anni anche lei, risponde dalla sua prima lezione di pianoforte con le stesse parole: la risposta fa eco; riga «Una storia immaginata»",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "video": "posts/daily/reel_1030_97.mp4",
+   "durata_s": 15.9,
+   "audio": "originale della serie (audio_1030.py: pad in Re che passa a Sol, i tic del contatore per i 61 anni diradati a 44 per non fare ronzio, eco sulle quattro righe della risposta, arpeggio del cartello)",
+   "caption": "Registrato nel 2026. Ascoltato nel 2087.\n\nAda ha 69 anni e oggi ha fatto la sua prima lezione di nuoto. Ha bevuto mezza piscina, ma domani ci torna. Lo registra per la nipote Giulia, che ne ha 8.\n\nSessantuno anni dopo Giulia ha 69 anni anche lei, e le risponde dalla sua prima lezione di pianoforte: ha sbagliato mezza tastiera, ma domani ci torna.\n\nCerte cose si tramandano solo a voce. NXTY è fatta per tenerla, per chi verrà.\n\nUna storia immaginata.\n\n🌍 EN\n\nRecorded in 2026. Heard in 2087.\n\nAda is 69 and today she had her first swimming lesson. She swallowed half the pool, but she's going back tomorrow. She records it for her granddaughter Giulia, who is 8.\n\nSixty-one years later Giulia is 69 too, and she answers from her first piano lesson: she got half the keys wrong, but she's going back tomorrow.\n\nSome things are only passed down by voice. NXTY is made to keep it, for those who will come.\n\nAn imagined story.\n\n#NXTY #NextToYou #PersoneCare #nonni #famiglia",
+   "pubblica_auto": true,
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "nuoto",
+     "file": "stories/daily/1030_2030_nuoto.jpg",
+     "nota": "amplifica scura con il fotogramma a 12,8 s (le due schede complete), domanda della campagna «Tu cosa lasceresti a chi non è ancora nato?» con «Rispondi a questa storia», niente adesivi (batch_1030.py); ora solare: riserva alle 19:30Z"
+    }
+   ],
+   "preparato": "2026-10-28 (due giorni di scorta, campagna «Per chi verrà»)"
   }
  ]
 }
