@@ -2449,10 +2449,18 @@
      "ora": "20:30",
      "nome": "colletto",
      "file": "stories/daily/1028_2030_colletto.jpg",
-     "nota": "amplifica scura con il fotogramma a 8,6 s (trascrizione completa), «E tu cosa le rispondi?» e «Rispondi a questa storia», niente adesivi (batch_1028.py); ora solare: riserva alle 19:30Z"
+     "nota": "amplifica scura con il fotogramma a 8,6 s (trascrizione completa), «E tu cosa le rispondi?» e «Rispondi a questa storia», niente adesivi (batch_1028.py); ora solare: riserva alle 19:30Z",
+     "story_id": "18206329813374527",
+     "pubblicata": "2026-10-28T19:31:56Z",
+     "pubblicata_da": "GitHub Actions (richiesta.json 2026-10-28-colletto)"
     }
    ],
-   "preparato": "2026-10-26 (due giorni di scorta, campagna «Per chi verrà»)"
+   "preparato": "2026-10-26 (due giorni di scorta, campagna «Per chi verrà»)",
+   "permalink": "https://www.instagram.com/reel/DfC3nTkCi9I/",
+   "media_id": "18153427567543103",
+   "pubblicato": "2026-10-28T16:33:03Z",
+   "pubblicato_da": "GitHub Actions (richiesta.json 2026-10-28-reel95)",
+   "stato": "pubblicato"
   },
   {
    "id": 96,
