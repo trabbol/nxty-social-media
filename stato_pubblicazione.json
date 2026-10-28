@@ -1,7 +1,7 @@
 {
- "ultimo_giro": "2026-10-27T22:27:18Z",
- "evento": "schedule",
- "slot": "storia",
+ "ultimo_giro": "2026-10-28T16:32:14Z",
+ "evento": "push",
+ "slot": "post",
  "dry_run": false,
  "token_ok": true,
  "account": {
@@ -10,17 +10,18 @@
   "media_count": 84
  },
  "azioni": [
-  "giro fuori finestra (22:27Z): non pubblico niente"
+  "95: pubblicato https://www.instagram.com/reel/DfC3nTkCi9I/"
  ],
  "errori": [],
  "allineato": true,
+ "richiesta": "2026-10-28-reel95",
  "media": [
   {
    "id": "18154670257551799",
    "timestamp": "2026-10-27T16:40:32+0000",
    "media_product_type": "FEED",
    "media_type": "CAROUSEL_ALBUM",
-   "like_count": 2,
+   "like_count": 3,
    "comments_count": 0,
    "permalink": "https://www.instagram.com/p/DfATvqvj4OD/"
   },
@@ -38,7 +39,7 @@
    "timestamp": "2026-10-25T16:32:31+0000",
    "media_product_type": "FEED",
    "media_type": "CAROUSEL_ALBUM",
-   "like_count": 3,
+   "like_count": 4,
    "comments_count": 0,
    "permalink": "https://www.instagram.com/p/De7JOR6F7db/"
   },
@@ -772,5 +773,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-10-27T22:27:18Z"
+ "media_letti": "2026-10-28T16:32:14Z"
 }
