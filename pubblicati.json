@@ -234,6 +234,11 @@
    "eseguita": "2026-10-28T16:32:14Z",
    "id": 95,
    "slot": "post"
+  },
+  "2026-10-28-colletto": {
+   "eseguita": "2026-10-28T19:31:56Z",
+   "id": 95,
+   "slot": "storia"
   }
  },
  "72": {
@@ -458,6 +463,9 @@
   "media_id": "18153427567543103",
   "permalink": "https://www.instagram.com/reel/DfC3nTkCi9I/",
   "pubblicato": "2026-10-28T16:33:03+0000",
-  "pubblicato_da": "GitHub Actions"
+  "pubblicato_da": "GitHub Actions",
+  "storie": {
+   "0": "18206329813374527"
+  }
  }
 }
