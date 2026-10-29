@@ -244,6 +244,11 @@
    "eseguita": "2026-10-29T16:37:37Z",
    "id": 96,
    "slot": "post"
+  },
+  "2026-10-29-parolaccia": {
+   "eseguita": "2026-10-29T19:32:20Z",
+   "id": 96,
+   "slot": "storia"
   }
  },
  "72": {
@@ -477,6 +482,9 @@
   "media_id": "18345585601277635",
   "permalink": "https://www.instagram.com/reel/DfFdBbUlPw6/",
   "pubblicato": "2026-10-29T16:38:10+0000",
-  "pubblicato_da": "GitHub Actions"
+  "pubblicato_da": "GitHub Actions",
+  "storie": {
+   "0": "18226609216337451"
+  }
  }
 }
