@@ -2515,6 +2515,40 @@
     }
    ],
    "preparato": "2026-10-28 (due giorni di scorta, campagna «Per chi verrà»)"
+  },
+  {
+   "id": 98,
+   "data": "2026-10-31",
+   "giorno": "Sabato",
+   "ora": "17:30",
+   "tipo": "carosello",
+   "serie": "Le frasi che giuravi di non dire",
+   "episodio": 5,
+   "tema": "direttive 32 e 43 - campagna «Per chi verrà»: le frasi dei genitori come prima eredità, che ti escono con la loro voce (ep. 5, sottotitolo «Altre sei. Ti escono con la sua voce.», chiude con «Non correre, che poi sudi» firmato da tre generazioni); chiusura fissa della serie sulla voce da tenere",
+   "slide": [
+    "posts/daily/caro_1031_98_s1.jpg",
+    "posts/daily/caro_1031_98_s2.jpg",
+    "posts/daily/caro_1031_98_s3.jpg",
+    "posts/daily/caro_1031_98_s4.jpg",
+    "posts/daily/caro_1031_98_s5.jpg",
+    "posts/daily/caro_1031_98_s6.jpg",
+    "posts/daily/caro_1031_98_s7.jpg",
+    "posts/daily/caro_1031_98_s8.jpg"
+   ],
+   "formato": "8 slide 1080x1350 (copertina notte con occhiello EPISODIO 5, 6 frasi su crema, chiusura notte con logo)",
+   "modello": "tools/caro_1031.py",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "caption": "C'è una frase che avevi giurato di non dire mai. Poi ti è uscita, con la voce di tua madre.\n\nTuo figlio corre in corridoio e parte da sola: «non correre, che poi sudi». La diceva lei, e prima ancora tua nonna. Il tono, identico.\n\nCerte eredità arrivano da sole. La voce con cui te le dicevano, invece, va tenuta da parte, per chi verrà. NXTY parte da lì.\n\n🌍 EN\n\nThere's a phrase you swore you'd never say. Then out it came, in your mother's voice.\n\nYour child runs down the hallway and it just comes out: \"don't run, you'll get all sweaty\". She used to say it, and your grandmother before her. Same tone, exactly.\n\nSome things are inherited on their own. The voice they were said in is worth keeping, for those who will come. That's where NXTY starts.\n\n#NXTY #NextToYou #PersoneCare #genitori #famiglia",
+   "pubblica_auto": true,
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "correre",
+     "file": "stories/daily/1031_2030_correre.jpg",
+     "nota": "amplifica scura con la copertina del carosello, «Altre sei frasi. Quale ti è già uscita?» e «Rispondi a questa storia», niente adesivi (batch_1031.py); ora solare: riserva alle 19:30Z"
+    }
+   ],
+   "preparato": "2026-10-29 (due giorni di scorta, campagna «Per chi verrà»)"
   }
  ]
 }
