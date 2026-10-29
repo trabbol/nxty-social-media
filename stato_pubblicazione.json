@@ -1,7 +1,7 @@
 {
- "ultimo_giro": "2026-10-28T22:44:10Z",
- "evento": "schedule",
- "slot": "storia",
+ "ultimo_giro": "2026-10-29T16:37:37Z",
+ "evento": "push",
+ "slot": "post",
  "dry_run": false,
  "token_ok": true,
  "account": {
@@ -10,10 +10,11 @@
   "media_count": 85
  },
  "azioni": [
-  "giro fuori finestra (22:44Z): non pubblico niente"
+  "96: pubblicato https://www.instagram.com/reel/DfFdBbUlPw6/"
  ],
  "errori": [],
  "allineato": true,
+ "richiesta": "2026-10-29-reel96",
  "media": [
   {
    "id": "18153427567543103",
@@ -781,5 +782,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-10-28T22:44:10Z"
+ "media_letti": "2026-10-29T16:37:37Z"
 }
