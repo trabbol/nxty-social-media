@@ -2484,10 +2484,18 @@
      "ora": "20:30",
      "nome": "parolaccia",
      "file": "stories/daily/1029_2030_parolaccia.jpg",
-     "nota": "amplifica scura con il fotogramma a 12,8 s (le due schede complete), domanda della campagna «Tu cosa lasceresti a chi non è ancora nato?» con «Rispondi a questa storia», niente adesivi (batch_1029.py); ora solare: riserva alle 19:30Z"
+     "nota": "amplifica scura con il fotogramma a 12,8 s (le due schede complete), domanda della campagna «Tu cosa lasceresti a chi non è ancora nato?» con «Rispondi a questa storia», niente adesivi (batch_1029.py); ora solare: riserva alle 19:30Z",
+     "story_id": "18226609216337451",
+     "pubblicata": "2026-10-29T19:32:20Z",
+     "pubblicata_da": "GitHub Actions (richiesta.json 2026-10-29-parolaccia)"
     }
    ],
-   "preparato": "2026-10-27 (due giorni di scorta, campagna «Per chi verrà»)"
+   "preparato": "2026-10-27 (due giorni di scorta, campagna «Per chi verrà»)",
+   "permalink": "https://www.instagram.com/reel/DfFdBbUlPw6/",
+   "media_id": "18345585601277635",
+   "pubblicato": "2026-10-29T16:38:10Z",
+   "pubblicato_da": "GitHub Actions (richiesta.json 2026-10-29-reel96)",
+   "stato": "pubblicato"
   },
   {
    "id": 97,
