@@ -1,7 +1,7 @@
 {
- "rid": "2026-10-29-parolaccia",
- "id": 96,
- "slot": "storia",
- "entro": "2026-10-29T22:00:00Z",
- "ordine": "slot storia 19:30Z del 29/10 (riserva principale, direttiva 40)"
+ "rid": "2026-10-30-reel97",
+ "id": 97,
+ "slot": "post",
+ "entro": "2026-10-30T19:00:00Z",
+ "ordine": "slot post 16:30Z del 30/10 (riserva principale, direttiva 40)"
 }
