@@ -1,7 +1,7 @@
 {
- "ultimo_giro": "2026-10-30T19:31:10Z",
- "evento": "push",
- "slot": "storia",
+ "ultimo_giro": "2026-10-30T20:01:55Z",
+ "evento": "schedule",
+ "slot": "post",
  "dry_run": false,
  "token_ok": true,
  "account": {
@@ -10,11 +10,10 @@
   "media_count": 87
  },
  "azioni": [
-  "97: storia pubblicata (18238917151317376)"
+  "giro fuori finestra (20:01Z): non pubblico niente"
  ],
  "errori": [],
  "allineato": true,
- "richiesta": "2026-10-30-nuoto",
  "media": [
   {
    "id": "17960491440232071",
@@ -800,5 +799,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-10-30T19:31:10Z"
+ "media_letti": "2026-10-30T20:01:55Z"
 }
