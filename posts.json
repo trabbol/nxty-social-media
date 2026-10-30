@@ -2557,6 +2557,40 @@
     }
    ],
    "preparato": "2026-10-29 (due giorni di scorta, campagna «Per chi verrà»)"
+  },
+  {
+   "id": 99,
+   "data": "2026-11-01",
+   "giorno": "Domenica",
+   "ora": "17:30",
+   "tipo": "carosello",
+   "serie": "Il vocabolario della nonna",
+   "episodio": 4,
+   "tema": "direttive 32 e 43 - campagna «Per chi verrà»: le parole che usa solo lei come eredità (ep. 4, copertina «domenica — Il pranzo da lei. Dalle dodici alle cinque», sottotitolo «Altre sei parole. Un giorno le dirai tu.»); chiusura fissa sulla voce da tenere; Ognissanti senza riferimenti",
+   "slide": [
+    "posts/daily/caro_1101_99_s1.jpg",
+    "posts/daily/caro_1101_99_s2.jpg",
+    "posts/daily/caro_1101_99_s3.jpg",
+    "posts/daily/caro_1101_99_s4.jpg",
+    "posts/daily/caro_1101_99_s5.jpg",
+    "posts/daily/caro_1101_99_s6.jpg",
+    "posts/daily/caro_1101_99_s7.jpg",
+    "posts/daily/caro_1101_99_s8.jpg"
+   ],
+   "formato": "8 slide 1080x1350 (copertina notte con occhiello EPISODIO 4 e la voce «domenica», 6 voci su crema, chiusura notte con logo)",
+   "modello": "tools/caro_1101.py",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "caption": "Anche per tua nonna ogni malanno viene da un «colpo d'aria»?\n\nAltre sei parole del suo vocabolario. Qualsiasi posto dove si arriva in aereo è «l'America». Il «meteo» lo guarda tre volte al giorno, senza crederci mai. E quando ti saluta, anche adesso che sei grande, ti dice ancora «fai il bravo».\n\nSono parole che nel dizionario non ci sono: ci sono nella sua voce, e un giorno le dirai tu. Tienila, per chi verrà. NXTY parte da lì.\n\n🌍 EN\n\nDoes your grandma also blame every ache on a \"draught\"?\n\nSix more words from her dictionary. Anywhere you fly to is \"America\". She checks the \"weather forecast\" three times a day and never believes it. And when she says goodbye, even now that you're grown up, she still tells you \"be good\".\n\nThese words aren't in any dictionary: they're in her voice, and one day you'll say them too. Keep it, for those who will come. That's where NXTY starts.\n\n#NXTY #NextToYou #PersoneCare #nonna #famiglia",
+   "pubblica_auto": true,
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "meteo",
+     "file": "stories/daily/1101_2030_meteo.jpg",
+     "nota": "amplifica scura con la copertina del carosello, «Altre sei parole. Qual è la parola di tua nonna?» e «Rispondi a questa storia», niente adesivi (batch_1101.py); ora solare: riserva alle 19:30Z"
+    }
+   ],
+   "preparato": "2026-10-30 (due giorni di scorta, campagna «Per chi verrà»; rifatto dopo l'azzeramento del container del 30/10)"
   }
  ]
 }
