@@ -2519,10 +2519,18 @@
      "ora": "20:30",
      "nome": "nuoto",
      "file": "stories/daily/1030_2030_nuoto.jpg",
-     "nota": "amplifica scura con il fotogramma a 12,8 s (le due schede complete), domanda della campagna «Tu cosa lasceresti a chi non è ancora nato?» con «Rispondi a questa storia», niente adesivi (batch_1030.py); ora solare: riserva alle 19:30Z"
+     "nota": "amplifica scura con il fotogramma a 12,8 s (le due schede complete), domanda della campagna «Tu cosa lasceresti a chi non è ancora nato?» con «Rispondi a questa storia», niente adesivi (batch_1030.py); ora solare: riserva alle 19:30Z",
+     "story_id": "18238917151317376",
+     "pubblicata": "2026-10-30T19:31:10Z",
+     "pubblicata_da": "GitHub Actions (richiesta.json 2026-10-30-nuoto)"
     }
    ],
-   "preparato": "2026-10-28 (due giorni di scorta, campagna «Per chi verrà»)"
+   "preparato": "2026-10-28 (due giorni di scorta, campagna «Per chi verrà»)",
+   "permalink": "https://www.instagram.com/reel/DfICqyejjbP/",
+   "media_id": "17960491440232071",
+   "pubblicato": "2026-10-30T16:45:36Z",
+   "pubblicato_da": "GitHub Actions (richiesta.json 2026-10-30-reel97)",
+   "stato": "pubblicato"
   },
   {
    "id": 98,
