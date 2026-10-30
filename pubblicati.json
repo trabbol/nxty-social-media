@@ -254,6 +254,11 @@
    "eseguita": "2026-10-30T16:45:02Z",
    "id": 97,
    "slot": "post"
+  },
+  "2026-10-30-nuoto": {
+   "eseguita": "2026-10-30T19:31:10Z",
+   "id": 97,
+   "slot": "storia"
   }
  },
  "72": {
@@ -496,6 +501,9 @@
   "media_id": "17960491440232071",
   "permalink": "https://www.instagram.com/reel/DfICqyejjbP/",
   "pubblicato": "2026-10-30T16:45:36+0000",
-  "pubblicato_da": "GitHub Actions"
+  "pubblicato_da": "GitHub Actions",
+  "storie": {
+   "0": "18238917151317376"
+  }
  }
 }

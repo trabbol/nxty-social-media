@@ -1,21 +1,30 @@
 {
- "ultimo_giro": "2026-10-30T16:45:02Z",
+ "ultimo_giro": "2026-10-30T19:31:10Z",
  "evento": "push",
- "slot": "post",
+ "slot": "storia",
  "dry_run": false,
  "token_ok": true,
  "account": {
   "username": "nxty_app",
   "followers_count": 52,
-  "media_count": 86
+  "media_count": 87
  },
  "azioni": [
-  "97: pubblicato https://www.instagram.com/reel/DfICqyejjbP/"
+  "97: storia pubblicata (18238917151317376)"
  ],
  "errori": [],
  "allineato": true,
- "richiesta": "2026-10-30-reel97",
+ "richiesta": "2026-10-30-nuoto",
  "media": [
+  {
+   "id": "17960491440232071",
+   "timestamp": "2026-10-30T16:45:36+0000",
+   "media_product_type": "REELS",
+   "media_type": "VIDEO",
+   "like_count": 2,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/reel/DfICqyejjbP/"
+  },
   {
    "id": "18345585601277635",
    "timestamp": "2026-10-29T16:38:10+0000",
@@ -791,5 +800,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-10-30T16:45:02Z"
+ "media_letti": "2026-10-30T19:31:10Z"
 }
