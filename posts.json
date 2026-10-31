@@ -2599,6 +2599,33 @@
     }
    ],
    "preparato": "2026-10-30 (due giorni di scorta, campagna «Per chi verrà»; rifatto dopo l'azzeramento del container del 30/10)"
+  },
+  {
+   "id": 100,
+   "data": "2026-11-02",
+   "giorno": "Lunedì",
+   "ora": "17:30",
+   "tipo": "reel",
+   "trial_reel": false,
+   "share_to_feed": true,
+   "serie": "Il vocale della nonna",
+   "episodio": 11,
+   "tema": "direttive 32 e 43 - campagna «Per chi verrà»: la nonna ti ha visto partire dal balcone ed è rimasta fuori fino in fondo alla via; si sente la strada, poi due colpi di clacson: lo faceva lei, poi tuo padre, adesso lo fai tu («due, non una»): ti lascia un'abitudine di famiglia; chiusura «buon viaggio»; il 2/11 il post resta leggero e non parla della ricorrenza",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "video": "posts/daily/reel_1102_100.mp4",
+   "durata_s": 11.8,
+   "audio": "originale (audio_1102.py): tema della serie + la strada sotto il balcone (fruscio basso di traffico lontano) e due colpi brevi di clacson dietro la curva, pad abbassato",
+   "caption": "Anche a casa tua si suona il clacson due volte, quando si parte?\n\nLa nonna ti manda un vocale dal balcone: è rimasta fuori fino in fondo alla via. Poi, per quasi tre minuti, si sente solo la strada, finché arrivano i due colpi di clacson. «Lo facevo anche io. Poi tuo padre. Adesso lo fai tu: due, non una.»\n\nDieci minuti e trentuno secondi per dire «buon viaggio».\n\nQuei vocali tienili: dentro ci sono le vostre abitudini, con la sua voce. Per chi verrà. NXTY parte da lì.\n\n🌍 EN\n\nDoes your family honk twice when leaving, too?\n\nGrandma sends you a voice note from the balcony: she stayed out until you reached the end of the street. Then, for almost three minutes, all you hear is the street, until the two honks come. \"I used to do it too. Then your dad. Now you do it: twice, not once.\"\n\nTen minutes and thirty-one seconds to say \"safe trip\".\n\nKeep those voice notes: your family habits are in there, in her voice. For those who will come. That's where NXTY starts.\n\n#NXTY #NextToYou #PersoneCare #nonna #vocali",
+   "pubblica_auto": true,
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "clacson",
+     "file": "stories/daily/1102_2030_clacson.jpg",
+     "nota": "amplifica scura con il fotogramma a 8,6 s (trascrizione completa), «E tu cosa le rispondi?» e «Rispondi a questa storia», niente adesivi (batch_1102.py); la storia sobria del 2/11 prevista dalla direttiva 43 non esce perché i soci non hanno detto sì; ora solare: riserva alle 19:30Z"
+    }
+   ],
+   "preparato": "2026-10-31 (due giorni di scorta, campagna «Per chi verrà»)"
   }
  ]
 }
