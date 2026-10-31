@@ -2561,10 +2561,18 @@
      "ora": "20:30",
      "nome": "correre",
      "file": "stories/daily/1031_2030_correre.jpg",
-     "nota": "amplifica scura con la copertina del carosello, «Altre sei frasi. Quale ti è già uscita?» e «Rispondi a questa storia», niente adesivi (batch_1031.py); ora solare: riserva alle 19:30Z"
+     "nota": "amplifica scura con la copertina del carosello, «Altre sei frasi. Quale ti è già uscita?» e «Rispondi a questa storia», niente adesivi (batch_1031.py); ora solare: riserva alle 19:30Z",
+     "story_id": "18110639267094660",
+     "pubblicata": "2026-10-31T19:33:33Z",
+     "pubblicata_da": "GitHub Actions (richiesta.json 2026-10-31-correre)"
     }
    ],
-   "preparato": "2026-10-29 (due giorni di scorta, campagna «Per chi verrà»)"
+   "preparato": "2026-10-29 (due giorni di scorta, campagna «Per chi verrà»)",
+   "permalink": "https://www.instagram.com/p/DfKl-HxGJdE/",
+   "media_id": "18099374024650357",
+   "pubblicato": "2026-10-31T16:32:19Z",
+   "pubblicato_da": "GitHub Actions (richiesta.json 2026-10-31-caro98)",
+   "stato": "pubblicato"
   },
   {
    "id": 99,
