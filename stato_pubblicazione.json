@@ -1,19 +1,20 @@
 {
- "ultimo_giro": "2026-10-30T22:32:19Z",
- "evento": "schedule",
- "slot": "storia",
+ "ultimo_giro": "2026-10-31T16:31:28Z",
+ "evento": "push",
+ "slot": "post",
  "dry_run": false,
  "token_ok": true,
  "account": {
   "username": "nxty_app",
-  "followers_count": 52,
+  "followers_count": 53,
   "media_count": 87
  },
  "azioni": [
-  "giro fuori finestra (22:32Z): non pubblico niente"
+  "98: pubblicato https://www.instagram.com/p/DfKl-HxGJdE/"
  ],
  "errori": [],
  "allineato": true,
+ "richiesta": "2026-10-31-caro98",
  "media": [
   {
    "id": "17960491440232071",
@@ -799,5 +800,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-10-30T22:32:19Z"
+ "media_letti": "2026-10-31T16:31:28Z"
 }
