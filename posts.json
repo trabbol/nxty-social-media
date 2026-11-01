@@ -2634,6 +2634,40 @@
     }
    ],
    "preparato": "2026-10-31 (due giorni di scorta, campagna «Per chi verrà»)"
+  },
+  {
+   "id": 101,
+   "data": "2026-11-03",
+   "giorno": "Martedì",
+   "ora": "17:30",
+   "tipo": "carosello",
+   "serie": "Le domande da fare ai nonni",
+   "episodio": 2,
+   "tema": "direttiva 43 - campagna «Per chi verrà»: chi riceve chiede, chi lascia racconta; altre sei domande (il primo ricordo, i giochi in cortile, la marachella mai confessata, il mestiere sognato, il primo viaggio, la cosa più coraggiosa), ognuna con la domanda che viene dopo, tutte senza genere e senza lutto; sottotitolo «Altre sei domande. Ognuna dura un pomeriggio.»",
+   "slide": [
+    "posts/daily/caro_1103_101_s1.jpg",
+    "posts/daily/caro_1103_101_s2.jpg",
+    "posts/daily/caro_1103_101_s3.jpg",
+    "posts/daily/caro_1103_101_s4.jpg",
+    "posts/daily/caro_1103_101_s5.jpg",
+    "posts/daily/caro_1103_101_s6.jpg",
+    "posts/daily/caro_1103_101_s7.jpg",
+    "posts/daily/caro_1103_101_s8.jpg"
+   ],
+   "formato": "8 slide 1080x1350 (copertina su crema con occhiello EPISODIO 2 e la fila dei sei numeri, 6 domande su crema con il numero e «E poi:», chiusura su fondo scuro con logo)",
+   "modello": "tools/caro_1103.py",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "caption": "Altre sei domande da fare ai nonni. Ognuna può durare un pomeriggio.\n\nIl primo ricordo. I giochi in cortile. La marachella mai confessata. Non serve un'intervista: basta una domanda, e poi quella che viene dopo.\n\nMetti il telefono sul tavolo, se sono d'accordo, e lascia che raccontino: la loro voce resta, per chi verrà. NXTY parte da lì.\n\n🌍 EN\n\nSix more questions to ask your grandparents. Each one can take an afternoon.\n\nTheir first memory. The games in the courtyard. The mischief they never owned up to. You don't need an interview: just one question, then the one that comes after.\n\nPut your phone on the table, if they're happy with it, and let them tell it: their voice stays, for those who will come. That's where NXTY starts.\n\n#NXTY #NextToYou #PersoneCare #nonni #famiglia",
+   "pubblica_auto": true,
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "ricordo",
+     "file": "stories/daily/1103_2030_ricordo.jpg",
+     "nota": "amplifica scura con la copertina del carosello, «Altre sei domande per i nonni. Quale fai per prima?» e «Rispondi a questa storia con il numero», niente adesivi (batch_1103.py); ora solare: riserva alle 19:30Z"
+    }
+   ],
+   "preparato": "2026-11-01 (due giorni di scorta, campagna «Per chi verrà»)"
   }
  ]
 }
