@@ -1,7 +1,7 @@
 {
- "ultimo_giro": "2026-11-01T19:31:29Z",
- "evento": "push",
- "slot": "storia",
+ "ultimo_giro": "2026-11-01T19:51:54Z",
+ "evento": "schedule",
+ "slot": "post",
  "dry_run": false,
  "token_ok": true,
  "account": {
@@ -10,11 +10,10 @@
   "media_count": 89
  },
  "azioni": [
-  "99: storia pubblicata (18110300351580189)"
+  "giro fuori finestra (19:51Z): non pubblico niente"
  ],
  "errori": [],
  "allineato": true,
- "richiesta": "2026-11-01-meteo",
  "media": [
   {
    "id": "18130596296485716",
@@ -818,5 +817,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-11-01T19:31:29Z"
+ "media_letti": "2026-11-01T19:51:54Z"
 }
