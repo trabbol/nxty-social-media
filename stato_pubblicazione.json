@@ -1,7 +1,7 @@
 {
- "ultimo_giro": "2026-10-31T21:46:28Z",
- "evento": "schedule",
- "slot": "storia",
+ "ultimo_giro": "2026-11-01T16:31:14Z",
+ "evento": "push",
+ "slot": "post",
  "dry_run": false,
  "token_ok": true,
  "account": {
@@ -10,10 +10,11 @@
   "media_count": 88
  },
  "azioni": [
-  "98: storia 0 gia' pubblicata, salto"
+  "99: pubblicato https://www.instagram.com/p/DfNKvTrGNRV/"
  ],
  "errori": [],
  "allineato": true,
+ "richiesta": "2026-11-01-caro99",
  "media": [
   {
    "id": "18099374024650357",
@@ -808,5 +809,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-10-31T21:46:28Z"
+ "media_letti": "2026-11-01T16:31:14Z"
 }
