@@ -274,6 +274,11 @@
    "eseguita": "2026-11-01T16:31:14Z",
    "id": 99,
    "slot": "post"
+  },
+  "2026-11-01-meteo": {
+   "eseguita": "2026-11-01T19:31:29Z",
+   "id": 99,
+   "slot": "storia"
   }
  },
  "72": {
@@ -534,6 +539,9 @@
   "media_id": "18130596296485716",
   "permalink": "https://www.instagram.com/p/DfNKvTrGNRV/",
   "pubblicato": "2026-11-01T16:32:05+0000",
-  "pubblicato_da": "GitHub Actions"
+  "pubblicato_da": "GitHub Actions",
+  "storie": {
+   "0": "18110300351580189"
+  }
  }
 }

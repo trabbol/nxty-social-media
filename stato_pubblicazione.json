@@ -1,21 +1,30 @@
 {
- "ultimo_giro": "2026-11-01T16:31:14Z",
+ "ultimo_giro": "2026-11-01T19:31:29Z",
  "evento": "push",
- "slot": "post",
+ "slot": "storia",
  "dry_run": false,
  "token_ok": true,
  "account": {
   "username": "nxty_app",
   "followers_count": 53,
-  "media_count": 88
+  "media_count": 89
  },
  "azioni": [
-  "99: pubblicato https://www.instagram.com/p/DfNKvTrGNRV/"
+  "99: storia pubblicata (18110300351580189)"
  ],
  "errori": [],
  "allineato": true,
- "richiesta": "2026-11-01-caro99",
+ "richiesta": "2026-11-01-meteo",
  "media": [
+  {
+   "id": "18130596296485716",
+   "timestamp": "2026-11-01T16:32:05+0000",
+   "media_product_type": "FEED",
+   "media_type": "CAROUSEL_ALBUM",
+   "like_count": 2,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/p/DfNKvTrGNRV/"
+  },
   {
    "id": "18099374024650357",
    "timestamp": "2026-10-31T16:32:19+0000",
@@ -809,5 +818,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-11-01T16:31:14Z"
+ "media_letti": "2026-11-01T19:31:29Z"
 }
