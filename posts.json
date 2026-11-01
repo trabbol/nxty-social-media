@@ -2603,10 +2603,18 @@
      "ora": "20:30",
      "nome": "meteo",
      "file": "stories/daily/1101_2030_meteo.jpg",
-     "nota": "amplifica scura con la copertina del carosello, «Altre sei parole. Qual è la parola di tua nonna?» e «Rispondi a questa storia», niente adesivi (batch_1101.py); ora solare: riserva alle 19:30Z"
+     "nota": "amplifica scura con la copertina del carosello, «Altre sei parole. Qual è la parola di tua nonna?» e «Rispondi a questa storia», niente adesivi (batch_1101.py); ora solare: riserva alle 19:30Z",
+     "story_id": "18110300351580189",
+     "pubblicata": "2026-11-01T19:31:29Z",
+     "pubblicata_da": "GitHub Actions (richiesta.json 2026-11-01-meteo)"
     }
    ],
-   "preparato": "2026-10-30 (due giorni di scorta, campagna «Per chi verrà»; rifatto dopo l'azzeramento del container del 30/10)"
+   "preparato": "2026-10-30 (due giorni di scorta, campagna «Per chi verrà»; rifatto dopo l'azzeramento del container del 30/10)",
+   "permalink": "https://www.instagram.com/p/DfNKvTrGNRV/",
+   "media_id": "18130596296485716",
+   "pubblicato": "2026-11-01T16:32:05Z",
+   "pubblicato_da": "GitHub Actions (richiesta.json 2026-11-01-caro99)",
+   "stato": "pubblicato"
   },
   {
    "id": 100,
