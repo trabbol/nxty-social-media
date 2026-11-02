@@ -2676,6 +2676,33 @@
     }
    ],
    "preparato": "2026-11-01 (due giorni di scorta, campagna «Per chi verrà»)"
+  },
+  {
+   "id": 102,
+   "data": "2026-11-04",
+   "giorno": "Mercoledì",
+   "ora": "17:30",
+   "tipo": "reel",
+   "trial_reel": false,
+   "share_to_feed": true,
+   "serie": "Il vocale della nonna",
+   "episodio": 12,
+   "tema": "direttive 32 e 43 - campagna «Per chi verrà»: la nonna ti manda un vocale dal circolo mentre gioca a briscola (tre assi in mano, fa finta di niente); si sente il mazzo mischiato e battuto sul tavolo; il mazzo si alza sempre con la sinistra, la Nives lo alza con la destra e perde; domenica giochi in coppia con lei: ti lascia un suo modo di fare e il suo posto al tavolo; chiusura «ti tengo il posto»",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "video": "posts/daily/reel_1104_102.mp4",
+   "durata_s": 11.8,
+   "audio": "originale (audio_1104.py): tema della serie + il mazzo di carte mischiato (raffica di carte che scattano, fitta al centro come il ventaglio della forma d'onda, con un fruscio di carta) e il colpo del mazzo battuto sul tavolo, pad abbassato",
+   "caption": "Anche tua nonna alza il mazzo con la sinistra?\n\nLa nonna ti manda un vocale dal circolo, a metà di una briscola con la Nives. Poi, per più di tre minuti, si sentono solo le carte. «Il mazzo si alza sempre con la sinistra. La Nives lo alza con la destra, e perde. Domenica vieni tu: giochi in coppia con me.»\n\nUndici minuti e trentasei secondi per dire «ti tengo il posto».\n\nQuei vocali tienili: dentro ci sono i vostri modi di fare, con la sua voce. Per chi verrà. NXTY parte da lì.\n\n🌍 EN\n\nDoes your grandma cut the deck with her left hand too?\n\nGrandma sends you a voice note from the club, halfway through a game of briscola with Nives. Then, for more than three minutes, all you hear is the cards. \"You always cut the deck with your left hand. Nives cuts it with her right, and she loses. Come on Sunday: you'll be my partner.\"\n\nEleven minutes and thirty-six seconds to say \"I'll save you a seat\".\n\nKeep those voice notes: your family's ways of doing things are in there, in her voice. For those who will come. That's where NXTY starts.\n\n#NXTY #NextToYou #PersoneCare #nonna #vocali",
+   "pubblica_auto": true,
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "briscola",
+     "file": "stories/daily/1104_2030_briscola.jpg",
+     "nota": "amplifica scura con il fotogramma a 8,6 s (trascrizione completa), «E tu cosa le rispondi?» e «Rispondi a questa storia», niente adesivi (batch_1104.py); ora solare: riserva alle 19:30Z"
+    }
+   ],
+   "preparato": "2026-11-02 (due giorni di scorta, campagna «Per chi verrà»)"
   }
  ]
 }
