@@ -284,6 +284,11 @@
    "eseguita": "2026-11-02T17:00:20Z",
    "id": 100,
    "slot": "post"
+  },
+  "2026-11-02-clacson": {
+   "eseguita": "2026-11-02T19:31:36Z",
+   "id": 100,
+   "slot": "storia"
   }
  },
  "72": {
@@ -553,6 +558,9 @@
   "media_id": "18144148831526311",
   "permalink": "https://www.instagram.com/reel/DfPy3iVgVm9/",
   "pubblicato": "2026-11-02T17:01:26+0000",
-  "pubblicato_da": "GitHub Actions"
+  "pubblicato_da": "GitHub Actions",
+  "storie": {
+   "0": "18105492839565947"
+  }
  }
 }
