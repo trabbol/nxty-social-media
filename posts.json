@@ -2711,6 +2711,33 @@
     }
    ],
    "preparato": "2026-11-02 (due giorni di scorta, campagna «Per chi verrà»)"
+  },
+  {
+   "id": 103,
+   "data": "2026-11-05",
+   "giorno": "Giovedì",
+   "ora": "17:30",
+   "tipo": "reel",
+   "trial_reel": false,
+   "share_to_feed": true,
+   "serie": "Per chi verrà",
+   "episodio": 4,
+   "tema": "direttiva 43 - campagna «Per chi verrà»: Sergio, 41 anni, registra per la figlia Irene, 6 anni, il giorno in cui lei ha tolto le rotelle (le teneva il sellino, a metà del viale ha mollato, lei ha continuato a pedalare); trentatré anni dopo Irene, 39 anni, risponde con le stesse parole dal giorno in cui suo figlio ha tolto le rotelle: la risposta fa eco; testi scritti prima nel documento della campagna (rev 56 del 3/11); riga «Una storia immaginata»",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "video": "posts/daily/reel_1105_103.mp4",
+   "durata_s": 15.9,
+   "audio": "originale della serie (audio_1105.py: pad in Re che passa a Sol, i 33 tic del contatore per i 33 anni, tutti sopra i 14 ms, eco sulle quattro righe della risposta, arpeggio del cartello)",
+   "caption": "Registrato nel 2026. Ascoltato nel 2059.\n\nSergio ha 41 anni e oggi sua figlia Irene, 6 anni, ha tolto le rotelle. Lui le teneva il sellino, a metà del viale ha mollato, e lei ha continuato a pedalare. Lo registra per lei.\n\nTrentatré anni dopo Irene gli risponde con le stesse parole: oggi è suo figlio ad aver tolto le rotelle, e tocca a lei mollare il sellino.\n\nCerte cose si tramandano solo a voce. NXTY è fatta per tenerla, per chi verrà.\n\nUna storia immaginata.\n\n🌍 EN\n\nRecorded in 2026. Heard in 2059.\n\nSergio is 41, and today his daughter Irene, who is 6, took off her training wheels. He held the saddle, let go halfway down the avenue, and she kept pedalling. He records it for her.\n\nThirty-three years later Irene answers him with the same words: today it's her son who took off his training wheels, and her turn to let go of the saddle.\n\nSome things are only passed down by voice. NXTY is made to keep it, for those who will come.\n\nAn imagined story.\n\n#NXTY #NextToYou #PersoneCare #genitori #famiglia",
+   "pubblica_auto": true,
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "sellino",
+     "file": "stories/daily/1105_2030_sellino.jpg",
+     "nota": "amplifica scura con il fotogramma a 12,8 s (le due schede complete), domanda nuova della campagna «E a te, chi ha tenuto il sellino?» con «Rispondi a questa storia», niente adesivi (batch_1105.py); ora solare: riserva alle 19:30Z"
+    }
+   ],
+   "preparato": "2026-11-03 (due giorni di scorta, campagna «Per chi verrà»; testi scritti prima nel documento)"
   }
  ]
 }
