@@ -2680,7 +2680,10 @@
      "ora": "20:30",
      "nome": "ricordo",
      "file": "stories/daily/1103_2030_ricordo.jpg",
-     "nota": "amplifica scura con la copertina del carosello, «Altre sei domande per i nonni. Quale fai per prima?» e «Rispondi a questa storia con il numero», niente adesivi (batch_1103.py); ora solare: riserva alle 19:30Z"
+     "nota": "amplifica scura con la copertina del carosello, «Altre sei domande per i nonni. Quale fai per prima?» e «Rispondi a questa storia con il numero», niente adesivi (batch_1103.py); ora solare: riserva alle 19:30Z",
+     "story_id": "18035308019675116",
+     "pubblicata": "2026-11-03T19:31:21Z",
+     "pubblicata_da": "GitHub Actions (richiesta.json 2026-11-03-ricordo)"
     }
    ],
    "preparato": "2026-11-01 (due giorni di scorta, campagna «Per chi verrà»)",
