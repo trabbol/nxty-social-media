@@ -304,6 +304,11 @@
    "eseguita": "2026-11-04T16:31:46Z",
    "id": 102,
    "slot": "post"
+  },
+  "2026-11-04-briscola": {
+   "eseguita": "2026-11-04T19:32:26Z",
+   "id": 102,
+   "slot": "storia"
   }
  },
  "72": {
@@ -591,6 +596,9 @@
   "media_id": "18144337729719240",
   "permalink": "https://www.instagram.com/reel/DfU5H8gGZcv/",
   "pubblicato": "2026-11-04T16:32:18+0000",
-  "pubblicato_da": "GitHub Actions"
+  "pubblicato_da": "GitHub Actions",
+  "storie": {
+   "0": "17909985522329651"
+  }
  }
 }
