@@ -2746,6 +2746,33 @@
     }
    ],
    "preparato": "2026-11-03 (due giorni di scorta, campagna «Per chi verrà»; testi scritti prima nel documento)"
+  },
+  {
+   "id": 104,
+   "data": "2026-11-06",
+   "giorno": "Venerdì",
+   "ora": "17:30",
+   "tipo": "reel",
+   "trial_reel": false,
+   "share_to_feed": true,
+   "serie": "Per chi verrà",
+   "episodio": 5,
+   "tema": "direttiva 43 - campagna «Per chi verrà» (il video 1 del 31/10 non è arrivato, quindi esce un «Per chi verrà» come dice il documento): Lucia, 52 anni, registra per il figlio Matteo, 24 anni, tre consigli per il suo primo giorno di lavoro (arriva dieci minuti prima, se non sai una cosa chiedila, il primo caffè lo offri tu); trentacinque anni dopo Matteo, 59 anni, le risponde che lunedì comincia a lavorare sua figlia e le ripete le stesse parole: la risposta fa eco; testi scritti prima nel documento della campagna (rev 58 del 4/11); riga «Una storia immaginata»",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "video": "posts/daily/reel_1106_104.mp4",
+   "durata_s": 15.9,
+   "audio": "originale della serie (audio_1106.py: pad in Re che passa a Sol, i 35 tic del contatore per i 35 anni, tutti sopra i 14 ms, eco sulle quattro righe della risposta, arpeggio del cartello)",
+   "caption": "Registrato nel 2026. Ascoltato nel 2061.\n\nLucia ha 52 anni e lunedì suo figlio Matteo, 24 anni, comincia il suo primo lavoro. Gli registra tre consigli: arriva dieci minuti prima, se non sai una cosa chiedila, e il primo caffè lo offri tu.\n\nTrentacinque anni dopo Matteo le risponde: lunedì comincia a lavorare sua figlia, e lui le ha ripetuto le stesse parole.\n\nCerte cose si tramandano solo a voce. NXTY è fatta per tenerla, per chi verrà.\n\nUna storia immaginata.\n\n🌍 EN\n\nRecorded in 2026. Heard in 2061.\n\nLucia is 52, and on Monday her son Matteo, who is 24, starts his first job. She records three pieces of advice for him: get there ten minutes early, if you don't know something ask, and the first coffee is on you.\n\nThirty-five years later Matteo answers her: on Monday his daughter starts work, and he told her the very same words.\n\nSome things are only passed down by voice. NXTY is made to keep it, for those who will come.\n\nAn imagined story.\n\n#NXTY #NextToYou #PersoneCare #genitori #famiglia",
+   "pubblica_auto": true,
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "lavoro",
+     "file": "stories/daily/1106_2030_lavoro.jpg",
+     "nota": "amplifica scura con il fotogramma a 12,8 s (le due schede complete), domanda nuova della campagna «Chi ti ha dato il consiglio per il primo giorno di lavoro?» con «Rispondi a questa storia», niente adesivi (batch_1106.py); ora solare: riserva alle 19:30Z"
+    }
+   ],
+   "preparato": "2026-11-04 (due giorni di scorta, campagna «Per chi verrà»; testi scritti prima nel documento)"
   }
  ]
 }
