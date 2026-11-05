@@ -2781,6 +2781,40 @@
     }
    ],
    "preparato": "2026-11-04 (due giorni di scorta, campagna «Per chi verrà»; testi scritti prima nel documento)"
+  },
+  {
+   "id": 105,
+   "data": "2026-11-07",
+   "giorno": "Sabato",
+   "ora": "17:30",
+   "tipo": "carosello",
+   "serie": "Le frasi che giuravi di non dire",
+   "episodio": 6,
+   "tema": "direttive 32 e 43 - campagna «Per chi verrà»: le frasi dei genitori come prima eredità, che adesso dici tu (ep. 6, sottotitolo «Altre sei. Prima le sentivi, adesso le dici.», chiude con «Non fare quella faccia, che poi ti resta così» firmato da tre generazioni); chiusura fissa della serie sulla voce da tenere",
+   "slide": [
+    "posts/daily/caro_1107_105_s1.jpg",
+    "posts/daily/caro_1107_105_s2.jpg",
+    "posts/daily/caro_1107_105_s3.jpg",
+    "posts/daily/caro_1107_105_s4.jpg",
+    "posts/daily/caro_1107_105_s5.jpg",
+    "posts/daily/caro_1107_105_s6.jpg",
+    "posts/daily/caro_1107_105_s7.jpg",
+    "posts/daily/caro_1107_105_s8.jpg"
+   ],
+   "formato": "8 slide 1080x1350 (copertina notte con occhiello EPISODIO 6, 6 frasi su crema, chiusura notte con logo)",
+   "modello": "tools/caro_1107.py",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "caption": "Le hai sentite mille volte e avevi giurato di non dirle mai. Poi un giorno, in cucina, le dici tu. Con lo stesso tono.\n\nTua figlia fa una smorfia e parte da sola: «non fare quella faccia, che poi ti resta così». La diceva tua madre, e prima ancora tua nonna. Nessuno ci ha mai creduto, eppure la diciamo tutti.\n\nLe frasi si ereditano senza chiedere il permesso. La voce di chi te le diceva no: quella va tenuta da parte, per chi verrà. NXTY parte da lì.\n\n🌍 EN\n\nYou heard them a thousand times and swore you'd never say them. Then one day, in the kitchen, there you are saying them. Same tone.\n\nYour daughter pulls a face and out it comes: \"don't make that face, or it'll stay like that\". Your mother used to say it, and your grandmother before her. Nobody ever believed it, and yet we all say it.\n\nPhrases get passed down without asking permission. The voice that said them doesn't: that one has to be kept, for those who will come. That's where NXTY starts.\n\n#NXTY #NextToYou #PersoneCare #genitori #famiglia",
+   "pubblica_auto": true,
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "faccia",
+     "file": "stories/daily/1107_2030_faccia.jpg",
+     "nota": "amplifica scura con la copertina del carosello, «Altre sei frasi. Qual è quella di casa tua?» e «Rispondi a questa storia», niente adesivi (batch_1107.py); ora solare: riserva alle 19:30Z"
+    }
+   ],
+   "preparato": "2026-11-05 (due giorni di scorta, campagna «Per chi verrà»)"
   }
  ]
 }
