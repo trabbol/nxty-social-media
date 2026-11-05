@@ -314,6 +314,11 @@
    "eseguita": "2026-11-05T16:31:31Z",
    "id": 103,
    "slot": "post"
+  },
+  "2026-11-05-sellino": {
+   "eseguita": "2026-11-05T19:31:18Z",
+   "id": 103,
+   "slot": "storia"
   }
  },
  "72": {
@@ -610,6 +615,9 @@
   "media_id": "18043353032638842",
   "permalink": "https://www.instagram.com/reel/DfXd5YdgERR/",
   "pubblicato": "2026-11-05T16:32:07+0000",
-  "pubblicato_da": "GitHub Actions"
+  "pubblicato_da": "GitHub Actions",
+  "storie": {
+   "0": "17940753390401032"
+  }
  }
 }
