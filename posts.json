@@ -2750,7 +2750,10 @@
      "ora": "20:30",
      "nome": "sellino",
      "file": "stories/daily/1105_2030_sellino.jpg",
-     "nota": "amplifica scura con il fotogramma a 12,8 s (le due schede complete), domanda nuova della campagna «E a te, chi ha tenuto il sellino?» con «Rispondi a questa storia», niente adesivi (batch_1105.py); ora solare: riserva alle 19:30Z"
+     "nota": "amplifica scura con il fotogramma a 12,8 s (le due schede complete), domanda nuova della campagna «E a te, chi ha tenuto il sellino?» con «Rispondi a questa storia», niente adesivi (batch_1105.py); ora solare: riserva alle 19:30Z",
+     "story_id": "17940753390401032",
+     "pubblicata": "2026-11-05T19:31:18Z",
+     "pubblicata_da": "GitHub Actions (richiesta.json 2026-11-05-sellino)"
     }
    ],
    "preparato": "2026-11-03 (due giorni di scorta, campagna «Per chi verrà»; testi scritti prima nel documento)",
