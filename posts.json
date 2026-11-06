@@ -2785,7 +2785,10 @@
      "ora": "20:30",
      "nome": "lavoro",
      "file": "stories/daily/1106_2030_lavoro.jpg",
-     "nota": "amplifica scura con il fotogramma a 12,8 s (le due schede complete), domanda nuova della campagna «Chi ti ha dato il consiglio per il primo giorno di lavoro?» con «Rispondi a questa storia», niente adesivi (batch_1106.py); ora solare: riserva alle 19:30Z"
+     "nota": "amplifica scura con il fotogramma a 12,8 s (le due schede complete), domanda nuova della campagna «Chi ti ha dato il consiglio per il primo giorno di lavoro?» con «Rispondi a questa storia», niente adesivi (batch_1106.py); ora solare: riserva alle 19:30Z",
+     "story_id": "18117844292469828",
+     "pubblicata": "2026-11-06T19:31:16Z",
+     "pubblicata_da": "GitHub Actions (richiesta.json 2026-11-06-lavoro)"
     }
    ],
    "preparato": "2026-11-04 (due giorni di scorta, campagna «Per chi verrà»; testi scritti prima nel documento)",
