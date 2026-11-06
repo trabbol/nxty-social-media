@@ -2823,6 +2823,40 @@
     }
    ],
    "preparato": "2026-11-05 (due giorni di scorta, campagna «Per chi verrà»)"
+  },
+  {
+   "id": 106,
+   "data": "2026-11-08",
+   "giorno": "Domenica",
+   "ora": "17:30",
+   "tipo": "carosello",
+   "serie": "L'eredità che non si divide",
+   "episodio": 1,
+   "tema": "direttive 32 e 43 - campagna «Per chi verrà», serie nuova della domenica decisa dal report W13 (verdetto del 2/11, prende il posto del vocabolario): sei cose che i figli prendono intere dalla madre, al presente e con i genitori vivi, niente notaio; testi dal documento della campagna (rev 59: ricetta e canzone fischiata sostituite dalla voce al telefono e dallo sguardo, perché già uscite nel vocale della nonna, ep. 5 e 9)",
+   "slide": [
+    "posts/daily/caro_1108_106_s1.jpg",
+    "posts/daily/caro_1108_106_s2.jpg",
+    "posts/daily/caro_1108_106_s3.jpg",
+    "posts/daily/caro_1108_106_s4.jpg",
+    "posts/daily/caro_1108_106_s5.jpg",
+    "posts/daily/caro_1108_106_s6.jpg",
+    "posts/daily/caro_1108_106_s7.jpg",
+    "posts/daily/caro_1108_106_s8.jpg"
+   ],
+   "formato": "8 slide 1080x1350 (copertina scura con occhiello NUOVA SERIE e la riga della quota, 6 cose su crema con «QUOTA ··· a ciascuno dei figli, per intero.», chiusura notte con logo)",
+   "modello": "tools/caro_1108.py",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "caption": "Ci sono cose che tra fratelli si dividono, e altre che ognuno prende intere. Tutti, senza litigare.\n\nTre fratelli ridono alla stessa battuta e, per un attimo, in cucina si sente la sua risata, tre volte. Lei è lì, e se ne accorge.\n\nQuesta eredità non si divide e non aspetta: si prende adesso, intera. La sua voce, intanto, tenetela da parte, per chi verrà. NXTY parte da lì.\n\n🌍 EN\n\nSome things siblings split. Others each of them takes whole. All of them, no arguing.\n\nThree siblings laugh at the same joke and, for a moment, the kitchen hears her laugh three times over. She's right there, and she notices.\n\nThis inheritance isn't divided and doesn't wait: you take it now, whole. Her voice, meanwhile, is worth keeping, for those who will come. That's where NXTY starts.\n\n#NXTY #NextToYou #PersoneCare #fratelli #famiglia",
+   "pubblica_auto": true,
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "intera",
+     "file": "stories/daily/1108_2030_intera.jpg",
+     "nota": "amplifica scura con la copertina del carosello, la domanda del documento «Qual è la cosa che avete preso tutti, intera?» e «Rispondi a questa storia», niente adesivi (batch_1108.py); ora solare: riserva alle 19:30Z"
+    }
+   ],
+   "preparato": "2026-11-06 (due giorni di scorta, campagna «Per chi verrà»)"
   }
  ]
 }
