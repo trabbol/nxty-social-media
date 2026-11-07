@@ -2865,6 +2865,33 @@
     }
    ],
    "preparato": "2026-11-06 (due giorni di scorta, campagna «Per chi verrà»)"
+  },
+  {
+   "id": 107,
+   "data": "2026-11-09",
+   "giorno": "Lunedì",
+   "ora": "17:30",
+   "tipo": "reel",
+   "trial_reel": false,
+   "share_to_feed": true,
+   "serie": "Il vocale della nonna",
+   "episodio": 13,
+   "tema": "direttive 32 e 43 - campagna «Per chi verrà»: la nonna ti manda un vocale dal balcone mentre ti fa una talea del suo geranio rosso, più vecchio di tuo padre; si sentono due tagli di forbici e l'annaffiatoio; si annaffia la sera, mai con il sole; il primo fiore lo tieni, il secondo lo regali: ti lascia una pianta di famiglia e la sua regola; chiusura «mi fido di te»",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "video": "posts/daily/reel_1109_107.mp4",
+   "durata_s": 11.8,
+   "audio": "originale (audio_1109.py): tema della serie + due tagli di forbici da giardino (il secondo taglia il gambo) e l'acqua dell'annaffiatoio sulla terra, a campana con un gorgoglio di bollicine come la collina della forma d'onda, pad abbassato",
+   "caption": "Anche tua nonna ha un geranio più vecchio di tuo padre?\n\nLa nonna ti manda un vocale dal balcone: ha appena fatto una talea del suo geranio rosso, per te. Poi, per quasi quattro minuti, si sentono solo le forbici e l'acqua. «È più vecchio di tuo padre. Si annaffia la sera, mai con il sole. Il primo fiore lo tieni, il secondo lo regali.»\n\nDodici minuti e quarantuno secondi per dire «mi fido di te».\n\nQuei vocali tienili: dentro ci sono le vostre piccole regole di casa, con la sua voce. Per chi verrà. NXTY parte da lì.\n\n🌍 EN\n\nDoes your grandma have a geranium older than your dad?\n\nGrandma sends you a voice note from her balcony: she has just taken a cutting from her red geranium, for you. Then, for almost four minutes, all you hear is the scissors and the water. \"It's older than your father. Water it in the evening, never in the sun. The first flower you keep, the second you give away.\"\n\nTwelve minutes and forty-one seconds to say \"I trust you\".\n\nKeep those voice notes: your family's little house rules are in there, in her voice. For those who will come. That's where NXTY starts.\n\n#NXTY #NextToYou #PersoneCare #nonna #vocali",
+   "pubblica_auto": true,
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "geranio",
+     "file": "stories/daily/1109_2030_geranio.jpg",
+     "nota": "amplifica scura con il fotogramma a 8,6 s (trascrizione completa), «E tu cosa le rispondi?» e «Rispondi a questa storia», niente adesivi (batch_1109.py); ora solare: riserva alle 19:30Z"
+    }
+   ],
+   "preparato": "2026-11-07 (due giorni di scorta, campagna «Per chi verrà»)"
   }
  ]
 }
