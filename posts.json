@@ -2827,7 +2827,10 @@
      "ora": "20:30",
      "nome": "faccia",
      "file": "stories/daily/1107_2030_faccia.jpg",
-     "nota": "amplifica scura con la copertina del carosello, «Altre sei frasi. Qual è quella di casa tua?» e «Rispondi a questa storia», niente adesivi (batch_1107.py); ora solare: riserva alle 19:30Z"
+     "nota": "amplifica scura con la copertina del carosello, «Altre sei frasi. Qual è quella di casa tua?» e «Rispondi a questa storia», niente adesivi (batch_1107.py); ora solare: riserva alle 19:30Z",
+     "story_id": "17922190911245006",
+     "pubblicata": "2026-11-07T19:31:43Z",
+     "pubblicata_da": "GitHub Actions (richiesta.json 2026-11-07-faccia)"
     }
    ],
    "preparato": "2026-11-05 (due giorni di scorta, campagna «Per chi verrà»)",
