@@ -2900,6 +2900,40 @@
     }
    ],
    "preparato": "2026-11-07 (due giorni di scorta, campagna «Per chi verrà»)"
+  },
+  {
+   "id": 108,
+   "data": "2026-11-10",
+   "giorno": "Martedì",
+   "ora": "17:30",
+   "tipo": "carosello",
+   "serie": "Le domande da fare ai nonni",
+   "episodio": 3,
+   "tema": "direttiva 43 - campagna «Per chi verrà»: chi riceve chiede, chi lascia racconta; altre sei domande (le sere senza televisione, la via di sessant'anni fa, il regalo più bello, la prima volta al mare, la cosa più strana mangiata, la cosa che sa fare meglio di tutti), ognuna con la domanda che viene dopo, tutte senza genere e senza lutto; sottotitolo «Altre sei domande. Le risposte, registrale.»",
+   "slide": [
+    "posts/daily/caro_1110_108_s1.jpg",
+    "posts/daily/caro_1110_108_s2.jpg",
+    "posts/daily/caro_1110_108_s3.jpg",
+    "posts/daily/caro_1110_108_s4.jpg",
+    "posts/daily/caro_1110_108_s5.jpg",
+    "posts/daily/caro_1110_108_s6.jpg",
+    "posts/daily/caro_1110_108_s7.jpg",
+    "posts/daily/caro_1110_108_s8.jpg"
+   ],
+   "formato": "8 slide 1080x1350 (copertina su crema con occhiello EPISODIO 3 e la fila dei sei numeri, 6 domande su crema con il numero e «E poi:», chiusura su fondo scuro con logo)",
+   "modello": "tools/caro_1110.py",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "caption": "Altre sei domande da fare ai nonni. Le risposte, registrale.\n\nLe sere senza televisione. La via di sessant'anni fa. La prima volta davanti al mare. E l'ultima, la più bella: «Che cosa sai fare meglio di tutti?». Di solito la risposta arriva con un invito: me la insegni?\n\nFanne una a cena, con il telefono sul tavolo, se sono d'accordo. Le storie arrivano da sole; la loro voce resta, per chi verrà. NXTY parte da lì.\n\n🌍 EN\n\nSix more questions to ask your grandparents. Record the answers.\n\nEvenings without television. Their street sixty years ago. The first time they saw the sea. And the last one, the best: \"What are you better at than anyone?\". The answer usually comes with an invitation: will you teach me?\n\nAsk one at dinner, with your phone on the table, if they're happy with it. The stories come on their own; their voice stays, for those who will come. That's where NXTY starts.\n\n#NXTY #NextToYou #PersoneCare #nonni #famiglia",
+   "pubblica_auto": true,
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "sera",
+     "file": "stories/daily/1110_2030_sera.jpg",
+     "nota": "amplifica scura con la copertina del carosello, «Sei domande nuove per i nonni. Quale fai stasera?» e «Rispondi a questa storia con il numero», niente adesivi (batch_1110.py); ora solare: riserva alle 19:30Z"
+    }
+   ],
+   "preparato": "2026-11-08 (due giorni di scorta, campagna «Per chi verrà»)"
   }
  ]
 }
