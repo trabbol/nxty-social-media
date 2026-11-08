@@ -2869,7 +2869,10 @@
      "ora": "20:30",
      "nome": "intera",
      "file": "stories/daily/1108_2030_intera.jpg",
-     "nota": "amplifica scura con la copertina del carosello, la domanda del documento «Qual è la cosa che avete preso tutti, intera?» e «Rispondi a questa storia», niente adesivi (batch_1108.py); ora solare: riserva alle 19:30Z"
+     "nota": "amplifica scura con la copertina del carosello, la domanda del documento «Qual è la cosa che avete preso tutti, intera?» e «Rispondi a questa storia», niente adesivi (batch_1108.py); ora solare: riserva alle 19:30Z",
+     "story_id": "18077082389772252",
+     "pubblicata": "2026-11-08T19:31:59Z",
+     "pubblicata_da": "GitHub Actions (richiesta.json 2026-11-08-intera)"
     }
    ],
    "preparato": "2026-11-06 (due giorni di scorta, campagna «Per chi verrà»)",
