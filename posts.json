@@ -2942,6 +2942,33 @@
     }
    ],
    "preparato": "2026-11-08 (due giorni di scorta, campagna «Per chi verrà»)"
+  },
+  {
+   "id": 109,
+   "data": "2026-11-11",
+   "giorno": "Mercoledì",
+   "ora": "17:30",
+   "tipo": "reel",
+   "trial_reel": false,
+   "share_to_feed": true,
+   "serie": "Il vocale della nonna",
+   "episodio": 14,
+   "tema": "direttive 32 e 43 - campagna «Per chi verrà»: la nonna ti manda un vocale mentre ti prepara un pacco, per una volta niente barattoli; si sentono due giri di scotch sulla scatola; dentro ci sono tutte le tue letterine di Natale, quelle in cui ogni anno prometti di non dire più bugie; tienile, un giorno ne scriveranno a te: ti restituisce quello che hai scritto da bambino e lo passa avanti; chiusura «resta come sei»",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "video": "posts/daily/reel_1111_109.mp4",
+   "durata_s": 11.8,
+   "audio": "originale (audio_1111.py): tema della serie + due giri di scotch da pacchi (il nastro che si srotola, battuto dallo scatto della colla, e lo strappo con la mano che lo preme sul cartone), come i due nastri e i due strappi della forma d'onda, pad abbassato",
+   "caption": "Le tue letterine di Natale ce le ha ancora lei?\n\nLa nonna ti manda un vocale mentre ti prepara un pacco: per una volta, niente barattoli. Poi quasi quattro minuti di scotch. «Ci sono tutte le tue letterine di Natale. Ogni anno prometti di non dire più bugie. Tienile. Un giorno ne scriveranno a te.»\n\nTredici minuti e quarantasei secondi per dire «resta come sei».\n\nQuei vocali tienili: dentro ci sono le cose che ha conservato per te, con la sua voce. Per chi verrà. NXTY parte da lì.\n\n🌍 EN\n\nDoes your grandma still have the Christmas letters you wrote as a kid?\n\nGrandma sends you a voice note while she packs you a box: for once, no jars. Then almost four minutes of packing tape. \"All your Christmas letters are in here. Every year you promise to stop telling lies. Keep them. One day someone will write you one.\"\n\nThirteen minutes and forty-six seconds to say \"stay just as you are\".\n\nKeep those voice notes: the things she saved for you are in there, in her voice. For those who will come. That's where NXTY starts.\n\n#NXTY #NextToYou #PersoneCare #nonna #vocali",
+   "pubblica_auto": true,
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "letterine",
+     "file": "stories/daily/1111_2030_letterine.jpg",
+     "nota": "amplifica scura con il fotogramma a 8,6 s (trascrizione completa), «E tu cosa le rispondi?» e «Rispondi a questa storia», niente adesivi (batch_1111.py, riscritto e controllato prima del lancio); ora solare: riserva alle 19:30Z"
+    }
+   ],
+   "preparato": "2026-11-09 (due giorni di scorta, campagna «Per chi verrà»)"
   }
  ]
 }
