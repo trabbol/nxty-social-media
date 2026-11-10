@@ -364,6 +364,11 @@
    "eseguita": "2026-11-10T16:31:33Z",
    "id": 108,
    "slot": "post"
+  },
+  "2026-11-10-sera": {
+   "eseguita": "2026-11-10T19:31:27Z",
+   "id": 108,
+   "slot": "storia"
   }
  },
  "72": {
@@ -705,6 +710,9 @@
   "media_id": "18495570208106295",
   "permalink": "https://www.instagram.com/p/DfkV6mul3-A/",
   "pubblicato": "2026-11-10T16:32:15+0000",
-  "pubblicato_da": "GitHub Actions"
+  "pubblicato_da": "GitHub Actions",
+  "storie": {
+   "0": "18145668616593536"
+  }
  }
 }
