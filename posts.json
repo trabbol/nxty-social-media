@@ -2977,6 +2977,33 @@
     }
    ],
    "preparato": "2026-11-09 (due giorni di scorta, campagna «Per chi verrà»)"
+  },
+  {
+   "id": 110,
+   "data": "2026-11-12",
+   "giorno": "Giovedì",
+   "ora": "17:30",
+   "tipo": "reel",
+   "trial_reel": false,
+   "share_to_feed": true,
+   "serie": "Per chi verrà",
+   "episodio": 6,
+   "tema": "direttiva 43 - campagna «Per chi verrà»: Carla, 45 anni, registra per la figlia Bianca, 9 anni, il giorno in cui Bianca l'ha battuta a scacchi per la prima volta (non ho perso apposta, te lo giuro; domani voglio la rivincita); trentasette anni dopo Bianca, 46 anni, le risponde che sua figlia l'ha battuta a scacchi per la prima volta e le ripete le stesse parole: la risposta fa eco; testi scritti prima nel documento della campagna (rev 63 del 10/11); riga «Una storia immaginata»",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "video": "posts/daily/reel_1112_110.mp4",
+   "durata_s": 15.9,
+   "audio": "originale della serie (audio_1112.py: pad in Re che passa a Sol, i 37 tic del contatore per i 37 anni, tutti sopra i 14 ms, eco sulle quattro righe della risposta, arpeggio del cartello)",
+   "caption": "Registrato nel 2026. Ascoltato nel 2063.\n\nCarla ha 45 anni e oggi sua figlia Bianca, 9 anni, l'ha battuta a scacchi per la prima volta. Le registra un messaggio: non ha perso apposta, lo giura, e domani vuole la rivincita.\n\nTrentasette anni dopo Bianca le risponde: oggi sua figlia l'ha battuta a scacchi per la prima volta. Le ha detto le stesse parole, giuramento compreso.\n\nCerte cose si tramandano solo a voce. NXTY è fatta per tenerla, per chi verrà.\n\nUna storia immaginata.\n\n🌍 EN\n\nRecorded in 2026. Heard in 2063.\n\nCarla is 45, and today her daughter Bianca, who is 9, beat her at chess for the first time. She records a message for her: she didn't lose on purpose, she swears, and tomorrow she wants a rematch.\n\nThirty-seven years later Bianca answers her: today her own daughter beat her at chess for the first time. She told her the very same words, the swearing included.\n\nSome things are only passed down by voice. NXTY is made to keep it, for those who will come.\n\nAn imagined story.\n\n#NXTY #NextToYou #PersoneCare #genitori #famiglia",
+   "pubblica_auto": true,
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "scacchi",
+     "file": "stories/daily/1112_2030_scacchi.jpg",
+     "nota": "amplifica scura con il fotogramma a 12,8 s (le due schede complete), domanda nuova della campagna, senza genere, «Chi ti lasciava vincere, quando giocavate insieme?» con «Rispondi a questa storia», niente adesivi (batch_1112.py, riscritto e controllato prima del lancio); ora solare: riserva alle 19:30Z"
+    }
+   ],
+   "preparato": "2026-11-10 (due giorni di scorta, campagna «Per chi verrà»; testi scritti prima nel documento)"
   }
  ]
 }
