@@ -359,6 +359,11 @@
    "eseguita": "2026-11-09T19:31:47Z",
    "id": 107,
    "slot": "storia"
+  },
+  "2026-11-10-caro108": {
+   "eseguita": "2026-11-10T16:31:33Z",
+   "id": 108,
+   "slot": "post"
   }
  },
  "72": {
@@ -695,5 +700,11 @@
   "storie": {
    "0": "18122443508281735"
   }
+ },
+ "108": {
+  "media_id": "18495570208106295",
+  "permalink": "https://www.instagram.com/p/DfkV6mul3-A/",
+  "pubblicato": "2026-11-10T16:32:15+0000",
+  "pubblicato_da": "GitHub Actions"
  }
 }
