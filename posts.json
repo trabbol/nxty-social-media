@@ -2946,7 +2946,10 @@
      "ora": "20:30",
      "nome": "sera",
      "file": "stories/daily/1110_2030_sera.jpg",
-     "nota": "amplifica scura con la copertina del carosello, «Sei domande nuove per i nonni. Quale fai stasera?» e «Rispondi a questa storia con il numero», niente adesivi (batch_1110.py); ora solare: riserva alle 19:30Z"
+     "nota": "amplifica scura con la copertina del carosello, «Sei domande nuove per i nonni. Quale fai stasera?» e «Rispondi a questa storia con il numero», niente adesivi (batch_1110.py); ora solare: riserva alle 19:30Z",
+     "story_id": "18145668616593536",
+     "pubblicata": "2026-11-10T19:31:27Z",
+     "pubblicata_da": "GitHub Actions (richiesta.json 2026-11-10-sera)"
     }
    ],
    "preparato": "2026-11-08 (due giorni di scorta, campagna «Per chi verrà»)",
