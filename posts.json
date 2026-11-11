@@ -3012,6 +3012,33 @@
     }
    ],
    "preparato": "2026-11-10 (due giorni di scorta, campagna «Per chi verrà»; testi scritti prima nel documento)"
+  },
+  {
+   "id": 111,
+   "data": "2026-11-13",
+   "giorno": "Venerdì",
+   "ora": "17:30",
+   "tipo": "reel",
+   "trial_reel": false,
+   "share_to_feed": true,
+   "serie": "Per chi verrà",
+   "episodio": 7,
+   "tema": "direttiva 43 - campagna «Per chi verrà» (il video A girato il 7/11 non è arrivato, quindi il venerdì esce un «Per chi verrà» come dice il documento): Aldo, 71 anni, registra per il nipote Leo, 10 anni, che lunedì parte per la sua prima gita (due notti fuori casa, un biglietto nello zaino da aprire solo la prima sera); cinquantacinque anni dopo Leo, 65 anni, gli risponde che lunedì parte suo nipote e gli ripete le stesse parole: la risposta fa eco; testi scritti prima nel documento della campagna (rev 64 dell'11/11); riga «Una storia immaginata»",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "video": "posts/daily/reel_1113_111.mp4",
+   "durata_s": 15.9,
+   "audio": "originale della serie (audio_1113.py: pad in Re che passa a Sol, i tic del contatore per i 55 anni, diradati a non meno di 14 ms (42 su 55), eco sulle quattro righe della risposta, arpeggio del cartello)",
+   "caption": "Registrato nel 2026. Ascoltato nel 2081.\n\nAldo ha 71 anni e lunedì suo nipote Leo, 10 anni, parte per la sua prima gita: due notti fuori casa. Gli registra un messaggio: nello zaino c'è un biglietto, da aprire solo la prima sera.\n\nCinquantacinque anni dopo Leo gli risponde: lunedì parte suo nipote, e il biglietto nello zaino glielo ha messo lui. Cosa c'era scritto non lo sappiamo.\n\nCerte cose si tramandano solo a voce. NXTY è fatta per tenerla, per chi verrà.\n\nUna storia immaginata.\n\n🌍 EN\n\nRecorded in 2026. Heard in 2081.\n\nAldo is 71, and on Monday his grandson Leo, who is 10, leaves for his first school trip: two nights away from home. He records a message for him: there's a note in his backpack, to be opened only on the first night.\n\nFifty-five years later Leo answers him: on Monday his own grandson leaves, and he is the one who put the note in the backpack. What it said, we don't know.\n\nSome things are only passed down by voice. NXTY is made to keep it, for those who will come.\n\nAn imagined story.\n\n#NXTY #NextToYou #PersoneCare #nonni #famiglia",
+   "pubblica_auto": true,
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "zaino",
+     "file": "stories/daily/1113_2030_zaino.jpg",
+     "nota": "amplifica scura con il fotogramma a 12,8 s (le due schede complete), domanda nuova della campagna, senza genere, «Tu cosa scriveresti nel biglietto?» con «Rispondi a questa storia», niente adesivi (batch_1113.py, riscritto e controllato prima del lancio); ora solare: riserva alle 19:30Z"
+    }
+   ],
+   "preparato": "2026-11-11 (due giorni di scorta, campagna «Per chi verrà»; testi scritti prima nel documento; il video A non è arrivato)"
   }
  ]
 }
