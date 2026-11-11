@@ -1,27 +1,36 @@
 {
- "ultimo_giro": "2026-11-11T16:31:07Z",
+ "ultimo_giro": "2026-11-11T19:31:08Z",
  "evento": "push",
- "slot": "post",
+ "slot": "storia",
  "dry_run": false,
  "token_ok": true,
  "account": {
   "username": "nxty_app",
-  "followers_count": 53,
-  "media_count": 98
+  "followers_count": 54,
+  "media_count": 99
  },
  "azioni": [
-  "109: pubblicato https://www.instagram.com/reel/Dfm6tWLhvKn/"
+  "109: storia pubblicata (18232415407335885)"
  ],
  "errori": [],
  "allineato": true,
- "richiesta": "2026-11-11-reel109",
+ "richiesta": "2026-11-11-letterine",
  "media": [
+  {
+   "id": "18050689895820202",
+   "timestamp": "2026-11-11T16:32:28+0000",
+   "media_product_type": "REELS",
+   "media_type": "VIDEO",
+   "like_count": 4,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/reel/Dfm6tWLhvKn/"
+  },
   {
    "id": "18495570208106295",
    "timestamp": "2026-11-10T16:32:15+0000",
    "media_product_type": "FEED",
    "media_type": "CAROUSEL_ALBUM",
-   "like_count": 2,
+   "like_count": 3,
    "comments_count": 0,
    "permalink": "https://www.instagram.com/p/DfkV6mul3-A/"
   },
@@ -30,7 +39,7 @@
    "timestamp": "2026-11-09T16:32:30+0000",
    "media_product_type": "REELS",
    "media_type": "VIDEO",
-   "like_count": 3,
+   "like_count": 4,
    "comments_count": 0,
    "permalink": "https://www.instagram.com/reel/DfhxH3-Dsu-/"
   },
@@ -39,7 +48,7 @@
    "timestamp": "2026-11-08T16:33:24+0000",
    "media_product_type": "FEED",
    "media_type": "CAROUSEL_ALBUM",
-   "like_count": 2,
+   "like_count": 3,
    "comments_count": 0,
    "permalink": "https://www.instagram.com/p/DffMdH5jfpC/"
   },
@@ -48,7 +57,7 @@
    "timestamp": "2026-11-07T16:32:44+0000",
    "media_product_type": "FEED",
    "media_type": "CAROUSEL_ALBUM",
-   "like_count": 2,
+   "like_count": 3,
    "comments_count": 0,
    "permalink": "https://www.instagram.com/p/DfcnlRJIKbB/"
   },
@@ -57,7 +66,7 @@
    "timestamp": "2026-11-06T16:32:09+0000",
    "media_product_type": "REELS",
    "media_type": "VIDEO",
-   "like_count": 2,
+   "like_count": 3,
    "comments_count": 0,
    "permalink": "https://www.instagram.com/reel/DfaCsXpgakq/"
   },
@@ -66,7 +75,7 @@
    "timestamp": "2026-11-05T16:32:07+0000",
    "media_product_type": "REELS",
    "media_type": "VIDEO",
-   "like_count": 3,
+   "like_count": 4,
    "comments_count": 0,
    "permalink": "https://www.instagram.com/reel/DfXd5YdgERR/"
   },
@@ -899,5 +908,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-11-11T16:31:07Z"
+ "media_letti": "2026-11-11T19:31:08Z"
 }
