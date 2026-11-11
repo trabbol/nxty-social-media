@@ -2981,7 +2981,10 @@
      "ora": "20:30",
      "nome": "letterine",
      "file": "stories/daily/1111_2030_letterine.jpg",
-     "nota": "amplifica scura con il fotogramma a 8,6 s (trascrizione completa), «E tu cosa le rispondi?» e «Rispondi a questa storia», niente adesivi (batch_1111.py, riscritto e controllato prima del lancio); ora solare: riserva alle 19:30Z"
+     "nota": "amplifica scura con il fotogramma a 8,6 s (trascrizione completa), «E tu cosa le rispondi?» e «Rispondi a questa storia», niente adesivi (batch_1111.py, riscritto e controllato prima del lancio); ora solare: riserva alle 19:30Z",
+     "story_id": "18232415407335885",
+     "pubblicata": "2026-11-11T19:31:08Z",
+     "pubblicata_da": "GitHub Actions (richiesta.json 2026-11-11-letterine)"
     }
    ],
    "preparato": "2026-11-09 (due giorni di scorta, campagna «Per chi verrà»)",
