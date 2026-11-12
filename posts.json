@@ -3016,7 +3016,10 @@
      "ora": "20:30",
      "nome": "scacchi",
      "file": "stories/daily/1112_2030_scacchi.jpg",
-     "nota": "amplifica scura con il fotogramma a 12,8 s (le due schede complete), domanda nuova della campagna, senza genere, «Chi ti lasciava vincere, quando giocavate insieme?» con «Rispondi a questa storia», niente adesivi (batch_1112.py, riscritto e controllato prima del lancio); ora solare: riserva alle 19:30Z"
+     "nota": "amplifica scura con il fotogramma a 12,8 s (le due schede complete), domanda nuova della campagna, senza genere, «Chi ti lasciava vincere, quando giocavate insieme?» con «Rispondi a questa storia», niente adesivi (batch_1112.py, riscritto e controllato prima del lancio); ora solare: riserva alle 19:30Z",
+     "story_id": "18162480592539744",
+     "pubblicata": "2026-11-12T19:31:49Z",
+     "pubblicata_da": "GitHub Actions (richiesta.json 2026-11-12-scacchi)"
     }
    ],
    "preparato": "2026-11-10 (due giorni di scorta, campagna «Per chi verrà»; testi scritti prima nel documento)",
