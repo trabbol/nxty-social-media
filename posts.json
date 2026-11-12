@@ -3019,7 +3019,12 @@
      "nota": "amplifica scura con il fotogramma a 12,8 s (le due schede complete), domanda nuova della campagna, senza genere, «Chi ti lasciava vincere, quando giocavate insieme?» con «Rispondi a questa storia», niente adesivi (batch_1112.py, riscritto e controllato prima del lancio); ora solare: riserva alle 19:30Z"
     }
    ],
-   "preparato": "2026-11-10 (due giorni di scorta, campagna «Per chi verrà»; testi scritti prima nel documento)"
+   "preparato": "2026-11-10 (due giorni di scorta, campagna «Per chi verrà»; testi scritti prima nel documento)",
+   "permalink": "https://www.instagram.com/reel/DfpfgaQhA0W/",
+   "media_id": "18153674410544942",
+   "pubblicato": "2026-11-12T16:32:31Z",
+   "pubblicato_da": "GitHub Actions (richiesta.json 2026-11-12-reel110)",
+   "stato": "pubblicato"
   },
   {
    "id": 111,
@@ -3047,6 +3052,40 @@
     }
    ],
    "preparato": "2026-11-11 (due giorni di scorta, campagna «Per chi verrà»; testi scritti prima nel documento; il video A non è arrivato)"
+  },
+  {
+   "id": 112,
+   "data": "2026-11-14",
+   "giorno": "Sabato",
+   "ora": "17:30",
+   "tipo": "carosello",
+   "serie": "Le frasi che giuravi di non dire",
+   "episodio": 7,
+   "tema": "direttive 32 e 43 - campagna «Per chi verrà»: le frasi dei genitori come prima eredità, che adesso dici tu (ep. 7, sottotitolo «Altre sei. Una l'hai detta anche oggi.», chiude con «Niente bagno, devi digerire.» firmato da tre generazioni); chiusura fissa della serie sulla voce da tenere",
+   "slide": [
+    "posts/daily/caro_1114_112_s1.jpg",
+    "posts/daily/caro_1114_112_s2.jpg",
+    "posts/daily/caro_1114_112_s3.jpg",
+    "posts/daily/caro_1114_112_s4.jpg",
+    "posts/daily/caro_1114_112_s5.jpg",
+    "posts/daily/caro_1114_112_s6.jpg",
+    "posts/daily/caro_1114_112_s7.jpg",
+    "posts/daily/caro_1114_112_s8.jpg"
+   ],
+   "formato": "8 slide 1080x1350 (copertina notte con occhiello EPISODIO 7, 6 frasi su crema, chiusura notte con logo)",
+   "modello": "tools/caro_1114.py",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "caption": "Una di queste sei l'hai detta anche oggi, magari senza accorgertene.\n\nD'estate, al mare: i bambini finiscono il panino e guardano già l'acqua. Ti esce da sola: «niente bagno, devi digerire». La diceva tua nonna a tua madre, tua madre a te. Tre generazioni sotto lo stesso ombrellone.\n\nCerte frasi fanno il giro e tornano. La voce con cui te le dicevano, invece, va tenuta da parte, per chi verrà. NXTY parte da lì.\n\n🌍 EN\n\nYou've said one of these six today too, maybe without noticing.\n\nSummer, at the beach: the kids finish their sandwiches and they're already eyeing the water. Out it comes on its own: \"no swimming, you have to digest\". Your grandmother said it to your mother, your mother said it to you. Three generations under the same beach umbrella.\n\nSome phrases come full circle. The voice they were said in is worth keeping, for those who will come. That's where NXTY starts.\n\n#NXTY #NextToYou #PersoneCare #genitori #famiglia",
+   "pubblica_auto": true,
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "uragano",
+     "file": "stories/daily/1114_2030_uragano.jpg",
+     "nota": "amplifica scura con la copertina del carosello, «Altre sei frasi. Quale hai detto oggi?» e «Rispondi a questa storia», niente adesivi (batch_1114.py); ora solare: riserva alle 19:30Z"
+    }
+   ],
+   "preparato": "2026-11-12 (due giorni di scorta, campagna «Per chi verrà»; preparato con il PC non raggiungibile)"
   }
  ]
 }
