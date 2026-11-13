@@ -3051,7 +3051,10 @@
      "ora": "20:30",
      "nome": "zaino",
      "file": "stories/daily/1113_2030_zaino.jpg",
-     "nota": "amplifica scura con il fotogramma a 12,8 s (le due schede complete), domanda nuova della campagna, senza genere, «Tu cosa scriveresti nel biglietto?» con «Rispondi a questa storia», niente adesivi (batch_1113.py, riscritto e controllato prima del lancio); ora solare: riserva alle 19:30Z"
+     "nota": "amplifica scura con il fotogramma a 12,8 s (le due schede complete), domanda nuova della campagna, senza genere, «Tu cosa scriveresti nel biglietto?» con «Rispondi a questa storia», niente adesivi (batch_1113.py, riscritto e controllato prima del lancio); ora solare: riserva alle 19:30Z",
+     "story_id": "18026873348934393",
+     "pubblicata": "2026-11-13T19:31:28Z",
+     "pubblicata_da": "GitHub Actions (richiesta.json 2026-11-13-zaino)"
     }
    ],
    "preparato": "2026-11-11 (due giorni di scorta, campagna «Per chi verrà»; testi scritti prima nel documento; il video A non è arrivato)",
