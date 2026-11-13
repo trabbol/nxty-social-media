@@ -394,6 +394,11 @@
    "eseguita": "2026-11-13T16:40:04Z",
    "id": 111,
    "slot": "post"
+  },
+  "2026-11-13-zaino": {
+   "eseguita": "2026-11-13T19:31:28Z",
+   "id": 111,
+   "slot": "storia"
   }
  },
  "72": {
@@ -762,6 +767,9 @@
   "media_id": "17910272388664668",
   "permalink": "https://www.instagram.com/reel/DfsFOjjhjFo/",
   "pubblicato": "2026-11-13T16:40:37+0000",
-  "pubblicato_da": "GitHub Actions"
+  "pubblicato_da": "GitHub Actions",
+  "storie": {
+   "0": "18026873348934393"
+  }
  }
 }
