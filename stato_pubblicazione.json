@@ -1,19 +1,20 @@
 {
- "ultimo_giro": "2026-11-12T23:43:50Z",
- "evento": "schedule",
- "slot": "storia",
+ "ultimo_giro": "2026-11-13T16:40:04Z",
+ "evento": "push",
+ "slot": "post",
  "dry_run": false,
  "token_ok": true,
  "account": {
   "username": "nxty_app",
-  "followers_count": 54,
+  "followers_count": 55,
   "media_count": 100
  },
  "azioni": [
-  "giro fuori finestra (23:43Z): non pubblico niente"
+  "111: pubblicato https://www.instagram.com/reel/DfsFOjjhjFo/"
  ],
  "errori": [],
  "allineato": true,
+ "richiesta": "2026-11-13-reel111",
  "media": [
   {
    "id": "18153674410544942",
@@ -916,5 +917,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-11-12T23:43:50Z"
+ "media_letti": "2026-11-13T16:40:04Z"
 }
