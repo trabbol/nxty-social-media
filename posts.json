@@ -3089,6 +3089,40 @@
     }
    ],
    "preparato": "2026-11-12 (due giorni di scorta, campagna «Per chi verrà»; preparato con il PC non raggiungibile)"
+  },
+  {
+   "id": 113,
+   "data": "2026-11-15",
+   "giorno": "Domenica",
+   "ora": "17:30",
+   "tipo": "carosello",
+   "serie": "L'eredità che non si divide",
+   "episodio": 2,
+   "tema": "direttive 32 e 43 - campagna «Per chi verrà»: sei cose che i figli prendono intere dalla madre, al presente e con i genitori vivi, niente notaio (ep. 2, sottotitolo «Altre sei. Ognuno di voi le ha prese intere.»; testi dal documento della campagna, rev 66: lo starnuto, la calligrafia, le valigie, la mela, la testa dura, il saluto dalla finestra)",
+   "slide": [
+    "posts/daily/caro_1115_113_s1.jpg",
+    "posts/daily/caro_1115_113_s2.jpg",
+    "posts/daily/caro_1115_113_s3.jpg",
+    "posts/daily/caro_1115_113_s4.jpg",
+    "posts/daily/caro_1115_113_s5.jpg",
+    "posts/daily/caro_1115_113_s6.jpg",
+    "posts/daily/caro_1115_113_s7.jpg",
+    "posts/daily/caro_1115_113_s8.jpg"
+   ],
+   "formato": "8 slide 1080x1350 (copertina scura con occhiello EPISODIO 2 e la riga della quota, 6 cose su crema con «QUOTA ··· a ciascuno dei figli, per intero.», chiusura notte con logo)",
+   "modello": "tools/caro_1115.py",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "caption": "Al pranzo della domenica qualcuno starnutisce e tremano i vetri. Poi un altro, identico. Lei alza gli occhi dal piatto e sorride.\n\nLe valigie pronte tre giorni prima, la mela sbucciata in un solo giro, il saluto dalla finestra fino in fondo alla via. Ognuno di voi li ha presi da lei, per intero, e adesso li fa a casa sua.\n\nQueste cose non aspettano niente: sono già vostre, intere. La sua voce, intanto, tenetela da parte, per chi verrà. NXTY parte da lì.\n\n🌍 EN\n\nSunday lunch: someone sneezes and the windows rattle. Then someone else, exactly the same. She looks up from her plate and smiles.\n\nSuitcases packed three days early, an apple peeled in one long spiral, waving from the window all the way down the street. Each of you took them from her, whole, and now does them at home.\n\nThese things don't wait for anything: they're already yours, whole. Her voice, meanwhile, is worth keeping, for those who will come. That's where NXTY starts.\n\n#NXTY #NextToYou #PersoneCare #fratelli #famiglia",
+   "pubblica_auto": true,
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "starnuto",
+     "file": "stories/daily/1115_2030_starnuto.jpg",
+     "nota": "amplifica scura con la copertina del carosello, la domanda nuova del documento «Cosa fate tutti uguale a lei?» e «Rispondi a questa storia», niente adesivi (batch_1115.py); ora solare: riserva alle 19:30Z"
+    }
+   ],
+   "preparato": "2026-11-13 (due giorni di scorta, campagna «Per chi verrà»; testi scritti prima nel documento, rev 66)"
   }
  ]
 }
