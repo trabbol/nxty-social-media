@@ -1,7 +1,7 @@
 {
- "ultimo_giro": "2026-11-14T19:31:21Z",
- "evento": "push",
- "slot": "storia",
+ "ultimo_giro": "2026-11-14T20:01:59Z",
+ "evento": "schedule",
+ "slot": "post",
  "dry_run": false,
  "token_ok": true,
  "account": {
@@ -10,11 +10,10 @@
   "media_count": 102
  },
  "azioni": [
-  "112: storia pubblicata (18132032134839460)"
+  "giro fuori finestra (20:01Z): non pubblico niente"
  ],
  "errori": [],
  "allineato": true,
- "richiesta": "2026-11-14-uragano",
  "media": [
   {
    "id": "18112976024236463",
@@ -935,5 +934,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-11-14T19:31:21Z"
+ "media_letti": "2026-11-14T20:01:59Z"
 }
