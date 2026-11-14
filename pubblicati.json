@@ -404,6 +404,11 @@
    "eseguita": "2026-11-14T16:31:59Z",
    "id": 112,
    "slot": "post"
+  },
+  "2026-11-14-uragano": {
+   "eseguita": "2026-11-14T19:31:21Z",
+   "id": 112,
+   "slot": "storia"
   }
  },
  "72": {
@@ -781,6 +786,9 @@
   "media_id": "18112976024236463",
   "permalink": "https://www.instagram.com/p/DfupK1ZoB_S/",
   "pubblicato": "2026-11-14T16:32:56+0000",
-  "pubblicato_da": "GitHub Actions"
+  "pubblicato_da": "GitHub Actions",
+  "storie": {
+   "0": "18132032134839460"
+  }
  }
 }

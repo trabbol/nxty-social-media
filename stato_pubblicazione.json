@@ -1,21 +1,30 @@
 {
- "ultimo_giro": "2026-11-14T16:31:59Z",
+ "ultimo_giro": "2026-11-14T19:31:21Z",
  "evento": "push",
- "slot": "post",
+ "slot": "storia",
  "dry_run": false,
  "token_ok": true,
  "account": {
   "username": "nxty_app",
   "followers_count": 56,
-  "media_count": 101
+  "media_count": 102
  },
  "azioni": [
-  "112: pubblicato https://www.instagram.com/p/DfupK1ZoB_S/"
+  "112: storia pubblicata (18132032134839460)"
  ],
  "errori": [],
  "allineato": true,
- "richiesta": "2026-11-14-caro112",
+ "richiesta": "2026-11-14-uragano",
  "media": [
+  {
+   "id": "18112976024236463",
+   "timestamp": "2026-11-14T16:32:56+0000",
+   "media_product_type": "FEED",
+   "media_type": "CAROUSEL_ALBUM",
+   "like_count": 3,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/p/DfupK1ZoB_S/"
+  },
   {
    "id": "17910272388664668",
    "timestamp": "2026-11-13T16:40:37+0000",
@@ -926,5 +935,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-11-14T16:31:59Z"
+ "media_letti": "2026-11-14T19:31:21Z"
 }
