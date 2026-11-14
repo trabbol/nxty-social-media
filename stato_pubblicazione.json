@@ -1,7 +1,7 @@
 {
- "ultimo_giro": "2026-11-14T20:01:59Z",
+ "ultimo_giro": "2026-11-14T22:38:12Z",
  "evento": "schedule",
- "slot": "post",
+ "slot": "storia",
  "dry_run": false,
  "token_ok": true,
  "account": {
@@ -10,7 +10,7 @@
   "media_count": 102
  },
  "azioni": [
-  "giro fuori finestra (20:01Z): non pubblico niente"
+  "giro fuori finestra (22:38Z): non pubblico niente"
  ],
  "errori": [],
  "allineato": true,
@@ -20,7 +20,7 @@
    "timestamp": "2026-11-14T16:32:56+0000",
    "media_product_type": "FEED",
    "media_type": "CAROUSEL_ALBUM",
-   "like_count": 3,
+   "like_count": 4,
    "comments_count": 0,
    "permalink": "https://www.instagram.com/p/DfupK1ZoB_S/"
   },
@@ -934,5 +934,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-11-14T20:01:59Z"
+ "media_letti": "2026-11-14T22:38:12Z"
 }
