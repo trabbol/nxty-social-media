@@ -3093,7 +3093,10 @@
      "ora": "20:30",
      "nome": "uragano",
      "file": "stories/daily/1114_2030_uragano.jpg",
-     "nota": "amplifica scura con la copertina del carosello, «Altre sei frasi. Quale hai detto oggi?» e «Rispondi a questa storia», niente adesivi (batch_1114.py); ora solare: riserva alle 19:30Z"
+     "nota": "amplifica scura con la copertina del carosello, «Altre sei frasi. Quale hai detto oggi?» e «Rispondi a questa storia», niente adesivi (batch_1114.py); ora solare: riserva alle 19:30Z",
+     "story_id": "18132032134839460",
+     "pubblicata": "2026-11-14T19:31:21Z",
+     "pubblicata_da": "GitHub Actions (richiesta.json 2026-11-14-uragano)"
     }
    ],
    "preparato": "2026-11-12 (due giorni di scorta, campagna «Per chi verrà»; preparato con il PC non raggiungibile)",
