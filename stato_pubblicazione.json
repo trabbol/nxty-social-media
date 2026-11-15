@@ -1,21 +1,30 @@
 {
- "ultimo_giro": "2026-11-15T16:31:43Z",
+ "ultimo_giro": "2026-11-15T19:31:12Z",
  "evento": "push",
- "slot": "post",
+ "slot": "storia",
  "dry_run": false,
  "token_ok": true,
  "account": {
   "username": "nxty_app",
   "followers_count": 56,
-  "media_count": 102
+  "media_count": 103
  },
  "azioni": [
-  "113: pubblicato https://www.instagram.com/p/DfxN6nhCVFu/"
+  "113: storia pubblicata (18114100763582824)"
  ],
  "errori": [],
  "allineato": true,
- "richiesta": "2026-11-15-caro113",
+ "richiesta": "2026-11-15-starnuto",
  "media": [
+  {
+   "id": "18149338882603197",
+   "timestamp": "2026-11-15T16:32:30+0000",
+   "media_product_type": "FEED",
+   "media_type": "CAROUSEL_ALBUM",
+   "like_count": 1,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/p/DfxN6nhCVFu/"
+  },
   {
    "id": "18112976024236463",
    "timestamp": "2026-11-14T16:32:56+0000",
@@ -935,5 +944,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-11-15T16:31:43Z"
+ "media_letti": "2026-11-15T19:31:12Z"
 }
