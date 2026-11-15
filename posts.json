@@ -3135,7 +3135,10 @@
      "ora": "20:30",
      "nome": "starnuto",
      "file": "stories/daily/1115_2030_starnuto.jpg",
-     "nota": "amplifica scura con la copertina del carosello, la domanda nuova del documento «Cosa fate tutti uguale a lei?» e «Rispondi a questa storia», niente adesivi (batch_1115.py); ora solare: riserva alle 19:30Z"
+     "nota": "amplifica scura con la copertina del carosello, la domanda nuova del documento «Cosa fate tutti uguale a lei?» e «Rispondi a questa storia», niente adesivi (batch_1115.py); ora solare: riserva alle 19:30Z",
+     "story_id": "18114100763582824",
+     "pubblicata": "2026-11-15T19:31:12Z",
+     "pubblicata_da": "GitHub Actions (richiesta.json 2026-11-15-starnuto)"
     }
    ],
    "preparato": "2026-11-13 (due giorni di scorta, campagna «Per chi verrà»; testi scritti prima nel documento, rev 66)",
