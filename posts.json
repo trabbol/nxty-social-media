@@ -3166,6 +3166,40 @@
     }
    ],
    "preparato": "2026-11-14 (due giorni di scorta, campagna «Per chi verrà»)"
+  },
+  {
+   "id": 115,
+   "data": "2026-11-17",
+   "giorno": "Martedì",
+   "ora": "17:30",
+   "tipo": "carosello",
+   "serie": "Le domande da fare ai nonni",
+   "episodio": 4,
+   "tema": "direttiva 43 - campagna «Per chi verrà»: chi riceve chiede, chi lascia racconta; altre sei domande (la tasca a dieci anni, il telefono da giovani, lo sbarco sulla Luna, i compleanni a casa, quello che hanno imparato dai loro nonni, il giorno più felice), ognuna con la domanda che viene dopo, tutte senza genere e senza lutto; sottotitolo «Altre sei domande. Le risposte ce le hanno solo loro.»; testi dal documento della campagna, rev 67",
+   "slide": [
+    "posts/daily/caro_1117_115_s1.jpg",
+    "posts/daily/caro_1117_115_s2.jpg",
+    "posts/daily/caro_1117_115_s3.jpg",
+    "posts/daily/caro_1117_115_s4.jpg",
+    "posts/daily/caro_1117_115_s5.jpg",
+    "posts/daily/caro_1117_115_s6.jpg",
+    "posts/daily/caro_1117_115_s7.jpg",
+    "posts/daily/caro_1117_115_s8.jpg"
+   ],
+   "formato": "8 slide 1080x1350 (copertina su crema con occhiello EPISODIO 4 e la fila dei sei numeri, 6 domande su crema con il numero e «E poi:», chiusura su fondo scuro con logo)",
+   "modello": "tools/caro_1117.py",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "caption": "Sei domande nuove da fare ai nonni. Le risposte ce le hanno solo loro.\n\nCosa tenevano in tasca a dieci anni. Come si telefonava, prima dei cellulari. Dov'erano il giorno dello sbarco sulla Luna. E l'ultima: «Qual è stato il giorno più felice della tua vita?». Poi, piano: chi c'era con te?\n\nFanne una al prossimo pranzo, con il telefono sul tavolo, se sono d'accordo. Una storia tira l'altra; la loro voce resta, per chi verrà. NXTY parte da lì.\n\n🌍 EN\n\nSix new questions to ask your grandparents. Only they have the answers.\n\nWhat they kept in their pockets at ten. How you made a phone call before mobiles. Where they were the day of the Moon landing. And the last one: \"What was the happiest day of your life?\". Then, gently: who was there with you?\n\nAsk one at your next family lunch, with your phone on the table, if they're happy with it. One story leads to another; their voice stays, for those who will come. That's where NXTY starts.\n\n#NXTY #NextToYou #PersoneCare #nonni #famiglia",
+   "pubblica_auto": true,
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "luna",
+     "file": "stories/daily/1117_2030_luna.jpg",
+     "nota": "amplifica scura con la copertina del carosello, «Altre sei domande per i nonni. Quale fai al prossimo pranzo?» e «Rispondi a questa storia con il numero», niente adesivi (batch_1117.py); ora solare: riserva alle 19:30Z"
+    }
+   ],
+   "preparato": "2026-11-15 (due giorni di scorta, campagna «Per chi verrà»; testi scritti prima nel documento, rev 67)"
   }
  ]
 }
