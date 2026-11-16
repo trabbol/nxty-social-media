@@ -424,6 +424,11 @@
    "eseguita": "2026-11-16T16:31:41Z",
    "id": 114,
    "slot": "post"
+  },
+  "2026-11-16-sciarpa": {
+   "eseguita": "2026-11-16T19:31:39Z",
+   "id": 114,
+   "slot": "storia"
   }
  },
  "72": {
@@ -819,6 +824,9 @@
   "media_id": "18047759348833141",
   "permalink": "https://www.instagram.com/reel/Dfzyp1DB72m/",
   "pubblicato": "2026-11-16T16:32:21+0000",
-  "pubblicato_da": "GitHub Actions"
+  "pubblicato_da": "GitHub Actions",
+  "storie": {
+   "0": "18148495852681325"
+  }
  }
 }
