@@ -3208,6 +3208,33 @@
     }
    ],
    "preparato": "2026-11-15 (due giorni di scorta, campagna «Per chi verrà»; testi scritti prima nel documento, rev 67)"
+  },
+  {
+   "id": 116,
+   "data": "2026-11-18",
+   "giorno": "Mercoledì",
+   "ora": "17:30",
+   "tipo": "reel",
+   "trial_reel": false,
+   "share_to_feed": true,
+   "serie": "Il vocale della nonna",
+   "episodio": 16,
+   "tema": "direttive 32 e 43 - campagna «Per chi verrà»: la nonna ti manda un vocale mentre tira fuori il presepe, in anticipo; il bue ha un corno rotto, lo ha rotto tuo padre; si sente il carillon del presepe, caricato due volte; la stella va messa per ultima, sempre: quella la tiene da parte per te e la mettete insieme la sera della vigilia: ti passa un rito di famiglia perché tu lo porti avanti; chiusura «ci vediamo a Natale»",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "video": "posts/daily/reel_1118_116.mp4",
+   "durata_s": 11.8,
+   "audio": "originale (audio_1118.py): tema della serie + il carillon del presepe (due giri di chiavetta con sei scatti metallici ciascuno, poi una frase originale di otto note da carillon in Re maggiore), pad abbassato",
+   "caption": "Anche tua nonna fa il presepe in anticipo?\n\nLa nonna ti manda un vocale mentre tira fuori le statuine: il bue ha ancora il corno rotto, quello di tuo padre. Poi più di cinque minuti di carillon. «La stella va messa per ultima. Sempre. Quella la tengo da parte per te. La mettiamo insieme, la sera della vigilia.»\n\nQuindici minuti e cinquantotto secondi per dire «ci vediamo a Natale».\n\nQuei vocali tienili: dentro c'è il modo in cui si fanno le cose a casa vostra, con la sua voce. NXTY parte da lì.\n\n🌍 EN\n\nDoes your grandma set up the nativity scene early too?\n\nGrandma sends you a voice note while she unpacks the figurines: the ox still has the broken horn, the one your dad broke. Then over five minutes of music box. \"The star goes on last. Always. I'm keeping that one for you. We'll put it up together on Christmas Eve.\"\n\nFifteen minutes and fifty-eight seconds to say \"see you at Christmas\".\n\nKeep those voice notes: the way your family does things is in there, in her voice. That's where NXTY starts.\n\n#NXTY #NextToYou #PersoneCare #nonna #natale",
+   "pubblica_auto": true,
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "presepe",
+     "file": "stories/daily/1118_2030_presepe.jpg",
+     "nota": "amplifica scura con il fotogramma a 8,6 s (trascrizione completa), «E tu cosa le rispondi?» e «Rispondi a questa storia», niente adesivi (batch_1118.py, riscritto e controllato prima del lancio); ora solare: riserva alle 19:30Z"
+    }
+   ],
+   "preparato": "2026-11-16 (due giorni di scorta, campagna «Per chi verrà»)"
   }
  ]
 }
