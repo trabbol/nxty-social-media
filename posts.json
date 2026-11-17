@@ -3212,7 +3212,10 @@
      "ora": "20:30",
      "nome": "luna",
      "file": "stories/daily/1117_2030_luna.jpg",
-     "nota": "amplifica scura con la copertina del carosello, «Altre sei domande per i nonni. Quale fai al prossimo pranzo?» e «Rispondi a questa storia con il numero», niente adesivi (batch_1117.py); ora solare: riserva alle 19:30Z"
+     "nota": "amplifica scura con la copertina del carosello, «Altre sei domande per i nonni. Quale fai al prossimo pranzo?» e «Rispondi a questa storia con il numero», niente adesivi (batch_1117.py); ora solare: riserva alle 19:30Z",
+     "story_id": "18082253330394784",
+     "pubblicata": "2026-11-17T19:31:04Z",
+     "pubblicata_da": "GitHub Actions (richiesta.json 2026-11-17-luna)"
     }
    ],
    "preparato": "2026-11-15 (due giorni di scorta, campagna «Per chi verrà»; testi scritti prima nel documento, rev 67)",
