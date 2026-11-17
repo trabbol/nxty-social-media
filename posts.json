@@ -3243,6 +3243,33 @@
     }
    ],
    "preparato": "2026-11-16 (due giorni di scorta, campagna «Per chi verrà»)"
+  },
+  {
+   "id": 117,
+   "data": "2026-11-19",
+   "giorno": "Giovedì",
+   "ora": "17:30",
+   "tipo": "reel",
+   "trial_reel": false,
+   "share_to_feed": true,
+   "serie": "Per chi verrà",
+   "episodio": 8,
+   "tema": "direttiva 43 - campagna «Per chi verrà»: Davide, 37 anni, registra per la figlia Sofia, 6 anni, a cui è caduto il primo dente (lo ha messo sotto il cuscino, stanotte passa il topolino, e il topolino è lui: acqua in bocca); trentadue anni dopo Sofia, 38 anni, gli risponde che a suo figlio è caduto il primo dente e gli ripete le stesse parole: la risposta fa eco; testi scritti prima nel documento della campagna (rev 68 del 17/11); riga «Una storia immaginata»",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "video": "posts/daily/reel_1119_117.mp4",
+   "durata_s": 15.9,
+   "audio": "originale della serie (audio_1119.py: pad in Re che passa a Sol, i tic del contatore per i 32 anni, tutti e 32 (distanza minima 16,4 ms), eco sulle quattro righe della risposta, arpeggio del cartello; suono nuovo per la serie: la moneta del topolino sulla quarta riga delle due schede)",
+   "caption": "Registrato nel 2026. Ascoltato nel 2058.\n\nDavide ha 37 anni e a sua figlia Sofia, 6 anni, è caduto il primo dente. Lo ha messo sotto il cuscino. Lui le registra un messaggio: stanotte passa il topolino. Il topolino è lui, ma acqua in bocca.\n\nTrentadue anni dopo Sofia gli risponde: a suo figlio è caduto il primo dente, e adesso il topolino è lei.\n\nCerte cose si tramandano solo a voce. NXTY è fatta per tenerla, per chi verrà.\n\nUna storia immaginata.\n\n🌍 EN\n\nRecorded in 2026. Heard in 2058.\n\nDavide is 37, and his daughter Sofia, who is 6, has just lost her first tooth. She put it under her pillow. He records a message for her: tonight the tooth fairy is coming. The tooth fairy is him, but not a word.\n\nThirty-two years later Sofia answers him: her son has just lost his first tooth, and now she is the tooth fairy.\n\nSome things are only passed down by voice. NXTY is made to keep it, for those who will come.\n\nAn imagined story.\n\n#NXTY #NextToYou #PersoneCare #genitori #famiglia",
+   "pubblica_auto": true,
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "topolino",
+     "file": "stories/daily/1119_2030_topolino.jpg",
+     "nota": "amplifica scura con il fotogramma a 12,8 s (le due schede complete), domanda nuova della campagna, senza genere, «Chi faceva il topolino, a casa tua?» con «Rispondi a questa storia», niente adesivi (batch_1119.py, riscritto e controllato prima del lancio); ora solare: riserva alle 19:30Z"
+    }
+   ],
+   "preparato": "2026-11-17 (due giorni di scorta, campagna «Per chi verrà»; testi scritti prima nel documento, rev 68)"
   }
  ]
 }
