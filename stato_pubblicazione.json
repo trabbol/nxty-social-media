@@ -1,7 +1,7 @@
 {
- "ultimo_giro": "2026-11-17T19:31:04Z",
- "evento": "push",
- "slot": "storia",
+ "ultimo_giro": "2026-11-17T23:04:53Z",
+ "evento": "schedule",
+ "slot": "post",
  "dry_run": false,
  "token_ok": true,
  "account": {
@@ -10,18 +10,17 @@
   "media_count": 105
  },
  "azioni": [
-  "115: storia pubblicata (18082253330394784)"
+  "giro fuori finestra (23:04Z): non pubblico niente"
  ],
  "errori": [],
  "allineato": true,
- "richiesta": "2026-11-17-luna",
  "media": [
   {
    "id": "18135842786493721",
    "timestamp": "2026-11-17T16:32:02+0000",
    "media_product_type": "FEED",
    "media_type": "CAROUSEL_ALBUM",
-   "like_count": 2,
+   "like_count": 4,
    "comments_count": 0,
    "permalink": "https://www.instagram.com/p/Df2Xc2yl3jk/"
   },
@@ -39,7 +38,7 @@
    "timestamp": "2026-11-15T16:32:30+0000",
    "media_product_type": "FEED",
    "media_type": "CAROUSEL_ALBUM",
-   "like_count": 2,
+   "like_count": 3,
    "comments_count": 0,
    "permalink": "https://www.instagram.com/p/DfxN6nhCVFu/"
   },
@@ -48,7 +47,7 @@
    "timestamp": "2026-11-14T16:32:56+0000",
    "media_product_type": "FEED",
    "media_type": "CAROUSEL_ALBUM",
-   "like_count": 4,
+   "like_count": 5,
    "comments_count": 0,
    "permalink": "https://www.instagram.com/p/DfupK1ZoB_S/"
   },
@@ -962,5 +961,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-11-17T19:31:04Z"
+ "media_letti": "2026-11-17T23:04:53Z"
 }
