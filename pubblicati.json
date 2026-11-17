@@ -434,6 +434,11 @@
    "eseguita": "2026-11-17T16:31:16Z",
    "id": 115,
    "slot": "post"
+  },
+  "2026-11-17-luna": {
+   "eseguita": "2026-11-17T19:31:04Z",
+   "id": 115,
+   "slot": "storia"
   }
  },
  "72": {
@@ -838,6 +843,9 @@
   "media_id": "18135842786493721",
   "permalink": "https://www.instagram.com/p/Df2Xc2yl3jk/",
   "pubblicato": "2026-11-17T16:32:02+0000",
-  "pubblicato_da": "GitHub Actions"
+  "pubblicato_da": "GitHub Actions",
+  "storie": {
+   "0": "18082253330394784"
+  }
  }
 }
