@@ -3278,6 +3278,33 @@
     }
    ],
    "preparato": "2026-11-17 (due giorni di scorta, campagna «Per chi verrà»; testi scritti prima nel documento, rev 68)"
+  },
+  {
+   "id": 118,
+   "data": "2026-11-20",
+   "giorno": "Venerdì",
+   "ora": "17:30",
+   "tipo": "reel",
+   "trial_reel": false,
+   "share_to_feed": true,
+   "serie": "Per chi verrà",
+   "episodio": 9,
+   "tema": "direttiva 43 - campagna «Per chi verrà» (nessun video girato è arrivato per il 20/11, quindi il venerdì esce un «Per chi verrà» come dice la direttiva): Rita, 66 anni, registra per il nipote Nico, 5 anni, che oggi ha visto la prima neve (ha provato a mangiarla, si è sdraiato a fare un angelo, e lei ha fatto finta di non avere freddo); cinquantotto anni dopo Nico, 63 anni, le risponde che oggi sua nipote ha visto la prima neve e le ripete le stesse parole: la risposta fa eco; testi scritti prima nel documento della campagna (rev 69 del 18/11); riga «Una storia immaginata»",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "video": "posts/daily/reel_1120_118.mp4",
+   "durata_s": 15.9,
+   "audio": "originale della serie (audio_1120.py: pad in Re che passa a Sol, i tic del contatore per i 58 anni, diradati a non meno di 14 ms (43 su 58), eco sulle quattro righe della risposta, arpeggio del cartello; suono nuovo per la serie: l'angelo nella neve, due fruscii sulla terza riga delle due schede)",
+   "caption": "Registrato nel 2026. Ascoltato nel 2084.\n\nRita ha 66 anni e oggi suo nipote Nico, 5 anni, ha visto la prima neve. Ha provato a mangiarla, si è sdraiato a fare un angelo. Lei gli registra un messaggio, e confessa: ha fatto finta di non avere freddo.\n\nCinquantotto anni dopo Nico le risponde: oggi sua nipote ha visto la prima neve, e adesso è lui a fare finta di non avere freddo.\n\nCerte cose si tramandano solo a voce. NXTY è fatta per tenerla, per chi verrà.\n\nUna storia immaginata.\n\n🌍 EN\n\nRecorded in 2026. Heard in 2084.\n\nRita is 66, and today her grandson Nico, who is 5, saw snow for the first time. He tried to eat it, and lay down to make a snow angel. She records a message for him, and confesses: she pretended not to be cold.\n\nFifty-eight years later Nico answers her: today his granddaughter saw her first snow, and now he is the one pretending not to be cold.\n\nSome things are only passed down by voice. NXTY is made to keep it, for those who will come.\n\nAn imagined story.\n\n#NXTY #NextToYou #PersoneCare #nonni #famiglia",
+   "pubblica_auto": true,
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "neve",
+     "file": "stories/daily/1120_2030_neve.jpg",
+     "nota": "amplifica scura con il fotogramma a 12,8 s (le due schede complete), domanda nuova della campagna, senza genere, «Con chi hai visto la tua prima neve?» con «Rispondi a questa storia», niente adesivi (batch_1120.py, riscritto e controllato prima del lancio); ora solare: riserva alle 19:30Z"
+    }
+   ],
+   "preparato": "2026-11-18 (due giorni di scorta, campagna «Per chi verrà»; testi scritti prima nel documento, rev 69; nessun video girato è arrivato)"
   }
  ]
 }
