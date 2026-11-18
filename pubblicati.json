@@ -439,6 +439,11 @@
    "eseguita": "2026-11-17T19:31:04Z",
    "id": 115,
    "slot": "storia"
+  },
+  "2026-11-18-reel116": {
+   "eseguita": "2026-11-18T16:31:24Z",
+   "id": 116,
+   "slot": "post"
   }
  },
  "72": {
@@ -847,5 +852,11 @@
   "storie": {
    "0": "18082253330394784"
   }
+ },
+ "116": {
+  "media_id": "18241448560316461",
+  "permalink": "https://www.instagram.com/reel/Df48NZtypxC/",
+  "pubblicato": "2026-11-18T16:31:56+0000",
+  "pubblicato_da": "GitHub Actions"
  }
 }
