@@ -1,7 +1,7 @@
 {
- "ultimo_giro": "2026-11-18T19:31:14Z",
- "evento": "push",
- "slot": "storia",
+ "ultimo_giro": "2026-11-18T22:40:04Z",
+ "evento": "schedule",
+ "slot": "post",
  "dry_run": false,
  "token_ok": true,
  "account": {
@@ -10,18 +10,17 @@
   "media_count": 106
  },
  "azioni": [
-  "116: storia pubblicata (18136378501841030)"
+  "giro fuori finestra (22:40Z): non pubblico niente"
  ],
  "errori": [],
  "allineato": true,
- "richiesta": "2026-11-18-presepe",
  "media": [
   {
    "id": "18241448560316461",
    "timestamp": "2026-11-18T16:31:56+0000",
    "media_product_type": "REELS",
    "media_type": "VIDEO",
-   "like_count": 3,
+   "like_count": 6,
    "comments_count": 0,
    "permalink": "https://www.instagram.com/reel/Df48NZtypxC/"
   },
@@ -971,5 +970,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-11-18T19:31:14Z"
+ "media_letti": "2026-11-18T22:40:04Z"
 }
