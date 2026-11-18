@@ -444,6 +444,11 @@
    "eseguita": "2026-11-18T16:31:24Z",
    "id": 116,
    "slot": "post"
+  },
+  "2026-11-18-presepe": {
+   "eseguita": "2026-11-18T19:31:14Z",
+   "id": 116,
+   "slot": "storia"
   }
  },
  "72": {
@@ -857,6 +862,9 @@
   "media_id": "18241448560316461",
   "permalink": "https://www.instagram.com/reel/Df48NZtypxC/",
   "pubblicato": "2026-11-18T16:31:56+0000",
-  "pubblicato_da": "GitHub Actions"
+  "pubblicato_da": "GitHub Actions",
+  "storie": {
+   "0": "18136378501841030"
+  }
  }
 }
