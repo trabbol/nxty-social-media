@@ -3282,7 +3282,10 @@
      "ora": "20:30",
      "nome": "topolino",
      "file": "stories/daily/1119_2030_topolino.jpg",
-     "nota": "amplifica scura con il fotogramma a 12,8 s (le due schede complete), domanda nuova della campagna, senza genere, «Chi faceva il topolino, a casa tua?» con «Rispondi a questa storia», niente adesivi (batch_1119.py, riscritto e controllato prima del lancio); ora solare: riserva alle 19:30Z"
+     "nota": "amplifica scura con il fotogramma a 12,8 s (le due schede complete), domanda nuova della campagna, senza genere, «Chi faceva il topolino, a casa tua?» con «Rispondi a questa storia», niente adesivi (batch_1119.py, riscritto e controllato prima del lancio); ora solare: riserva alle 19:30Z",
+     "story_id": "18139278370561700",
+     "pubblicata": "2026-11-19T19:33:40Z",
+     "pubblicata_da": "GitHub Actions (richiesta.json 2026-11-19-topolino)"
     }
    ],
    "preparato": "2026-11-17 (due giorni di scorta, campagna «Per chi verrà»; testi scritti prima nel documento, rev 68)",
