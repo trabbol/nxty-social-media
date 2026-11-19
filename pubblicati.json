@@ -454,6 +454,11 @@
    "eseguita": "2026-11-19T16:31:35Z",
    "id": 117,
    "slot": "post"
+  },
+  "2026-11-19-topolino": {
+   "eseguita": "2026-11-19T19:33:40Z",
+   "id": 117,
+   "slot": "storia"
   }
  },
  "72": {
@@ -876,6 +881,9 @@
   "media_id": "18110841557216150",
   "permalink": "https://www.instagram.com/reel/Df7hBtwTyka/",
   "pubblicato": "2026-11-19T16:32:05+0000",
-  "pubblicato_da": "GitHub Actions"
+  "pubblicato_da": "GitHub Actions",
+  "storie": {
+   "0": "18139278370561700"
+  }
  }
 }
