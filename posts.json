@@ -3313,6 +3313,40 @@
     }
    ],
    "preparato": "2026-11-18 (due giorni di scorta, campagna «Per chi verrà»; testi scritti prima nel documento, rev 69; nessun video girato è arrivato)"
+  },
+  {
+   "id": 119,
+   "data": "2026-11-21",
+   "giorno": "Sabato",
+   "ora": "17:30",
+   "tipo": "carosello",
+   "serie": "Le frasi che giuravi di non dire",
+   "episodio": 8,
+   "tema": "direttive 32 e 43 - campagna «Per chi verrà»: le frasi dei genitori come prima eredità, che adesso dici tu (ep. 8, sottotitolo «Altre sei. Te ne accorgi solo dopo.», chiude con «Chi dorme non piglia pesci.» firmato da tre generazioni); chiusura fissa della serie sulla voce da tenere",
+   "slide": [
+    "posts/daily/caro_1121_119_s1.jpg",
+    "posts/daily/caro_1121_119_s2.jpg",
+    "posts/daily/caro_1121_119_s3.jpg",
+    "posts/daily/caro_1121_119_s4.jpg",
+    "posts/daily/caro_1121_119_s5.jpg",
+    "posts/daily/caro_1121_119_s6.jpg",
+    "posts/daily/caro_1121_119_s7.jpg",
+    "posts/daily/caro_1121_119_s8.jpg"
+   ],
+   "formato": "8 slide 1080x1350 (copertina notte con occhiello EPISODIO 8, 6 frasi su crema, chiusura notte con logo)",
+   "modello": "tools/caro_1121.py",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "caption": "Te ne accorgi solo dopo: l'hai detta anche tu.\n\nSabato mattina, le otto. Bussi alla porta di tua figlia che dorme ancora e ti esce da sola: «chi dorme non piglia pesci». Te la diceva tuo padre, e a lui la diceva tua nonna. E tu, a quindici anni, giuravi che non l'avresti mai detta.\n\nCerte frasi fanno il giro e tornano. La voce con cui te le dicevano, invece, va tenuta da parte, per chi verrà. NXTY parte da lì.\n\n🌍 EN\n\nYou only notice afterwards: you've said it too.\n\nSaturday morning, eight o'clock. You knock on your daughter's door, she's still asleep, and out it comes on its own: \"the early bird catches the worm\". Your father used to say it to you, and your grandmother said it to him. And at fifteen you swore you'd never say it.\n\nSome phrases come full circle. The voice they were said in is worth keeping, for those who will come. That's where NXTY starts.\n\n#NXTY #NextToYou #PersoneCare #genitori #famiglia",
+   "pubblica_auto": true,
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "pesci",
+     "file": "stories/daily/1121_2030_pesci.jpg",
+     "nota": "amplifica scura con la copertina del carosello, «Altre sei frasi. Quale ti è scappata questa settimana?» e «Rispondi a questa storia», niente adesivi (batch_1121.py, riscritto e controllato prima del lancio); ora solare: riserva alle 19:30Z"
+    }
+   ],
+   "preparato": "2026-11-19 (due giorni di scorta, campagna «Per chi verrà»)"
   }
  ]
 }
