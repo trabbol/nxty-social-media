@@ -3317,7 +3317,10 @@
      "ora": "20:30",
      "nome": "neve",
      "file": "stories/daily/1120_2030_neve.jpg",
-     "nota": "amplifica scura con il fotogramma a 12,8 s (le due schede complete), domanda nuova della campagna, senza genere, «Con chi hai visto la tua prima neve?» con «Rispondi a questa storia», niente adesivi (batch_1120.py, riscritto e controllato prima del lancio); ora solare: riserva alle 19:30Z"
+     "nota": "amplifica scura con il fotogramma a 12,8 s (le due schede complete), domanda nuova della campagna, senza genere, «Con chi hai visto la tua prima neve?» con «Rispondi a questa storia», niente adesivi (batch_1120.py, riscritto e controllato prima del lancio); ora solare: riserva alle 19:30Z",
+     "story_id": "18128606158911378",
+     "pubblicata": "2026-11-20T19:31:44Z",
+     "pubblicata_da": "GitHub Actions (richiesta.json 2026-11-20-neve)"
     }
    ],
    "preparato": "2026-11-18 (due giorni di scorta, campagna «Per chi verrà»; testi scritti prima nel documento, rev 69; nessun video girato è arrivato)",
