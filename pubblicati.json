@@ -464,6 +464,11 @@
    "eseguita": "2026-11-20T16:31:33Z",
    "id": 118,
    "slot": "post"
+  },
+  "2026-11-20-neve": {
+   "eseguita": "2026-11-20T19:31:44Z",
+   "id": 118,
+   "slot": "storia"
   }
  },
  "72": {
@@ -895,6 +900,9 @@
   "media_id": "18358026256168164",
   "permalink": "https://www.instagram.com/reel/Df-F0Y3B7V7/",
   "pubblicato": "2026-11-20T16:32:04+0000",
-  "pubblicato_da": "GitHub Actions"
+  "pubblicato_da": "GitHub Actions",
+  "storie": {
+   "0": "18128606158911378"
+  }
  }
 }
