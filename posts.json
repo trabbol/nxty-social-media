@@ -3355,6 +3355,40 @@
     }
    ],
    "preparato": "2026-11-19 (due giorni di scorta, campagna «Per chi verrà»)"
+  },
+  {
+   "id": 120,
+   "data": "2026-11-22",
+   "giorno": "Domenica",
+   "ora": "17:30",
+   "tipo": "carosello",
+   "serie": "L'eredità che non si divide",
+   "episodio": 3,
+   "tema": "direttive 32 e 43 - campagna «Per chi verrà»: sei cose che i figli prendono intere dalla madre, al presente e con i genitori vivi, niente notaio (ep. 3, sottotitolo «Ancora sei. Nessuno ha dovuto fare a metà.»; testi dal documento della campagna, rev 70: il sacchetto pieno di sacchetti, l'orologio avanti di cinque minuti, le porzioni per dieci, i piedi sempre freddi, la lacrima facile ai matrimoni, il bacio sulla fronte per sentire la febbre)",
+   "slide": [
+    "posts/daily/caro_1122_120_s1.jpg",
+    "posts/daily/caro_1122_120_s2.jpg",
+    "posts/daily/caro_1122_120_s3.jpg",
+    "posts/daily/caro_1122_120_s4.jpg",
+    "posts/daily/caro_1122_120_s5.jpg",
+    "posts/daily/caro_1122_120_s6.jpg",
+    "posts/daily/caro_1122_120_s7.jpg",
+    "posts/daily/caro_1122_120_s8.jpg"
+   ],
+   "formato": "8 slide 1080x1350 (copertina scura con occhiello EPISODIO 3 e la riga della quota, 6 cose su crema con «QUOTA ··· a ciascuno dei figli, per intero.», chiusura notte con logo)",
+   "modello": "tools/caro_1122.py",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "caption": "Aprite il mobile sotto il lavello, a casa di ognuno di voi: c'è lo stesso sacchetto pieno di sacchetti. Nessuno ricorda quando ha cominciato.\n\nL'orologio avanti di cinque minuti, le porzioni per dieci anche in due, il bacio sulla fronte per sentire la febbre. Li avete presi da lei, per intero, e adesso li fate a casa vostra.\n\nNon c'è niente da dividere: sono già vostre, intere. La sua voce, quella, tenetela da parte per chi verrà. NXTY è fatta per questo.\n\n🌍 EN\n\nOpen the cupboard under the sink, in each of your homes: the same bag full of bags. None of you remembers when it started.\n\nThe clock set five minutes fast, portions for ten even when there are two of you, a kiss on the forehead to check for a fever. You took them from her, whole, and now you do them at home.\n\nThere's nothing to split: they're already yours, whole. Her voice, though, is worth keeping for those who will come. That's what NXTY is for.\n\n#NXTY #NextToYou #PersoneCare #fratelli #famiglia",
+   "pubblica_auto": true,
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "sacchetti",
+     "file": "stories/daily/1122_2030_sacchetti.jpg",
+     "nota": "amplifica scura con la copertina del carosello, la domanda nuova del documento «Cosa avete preso da lei senza accorgervene?» e «Rispondi a questa storia», niente adesivi (batch_1122.py, riscritto e controllato prima del lancio); ora solare: riserva alle 19:30Z"
+    }
+   ],
+   "preparato": "2026-11-20 (due giorni di scorta, campagna «Per chi verrà»; testi scritti prima nel documento, rev 70)"
   }
  ]
 }
