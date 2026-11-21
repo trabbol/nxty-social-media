@@ -1,7 +1,7 @@
 {
- "ultimo_giro": "2026-11-21T19:31:18Z",
- "evento": "push",
- "slot": "storia",
+ "ultimo_giro": "2026-11-21T20:59:56Z",
+ "evento": "schedule",
+ "slot": "post",
  "dry_run": false,
  "token_ok": true,
  "account": {
@@ -10,18 +10,17 @@
   "media_count": 110
  },
  "azioni": [
-  "119: storia pubblicata (17920779429522177)"
+  "giro fuori finestra (20:59Z): non pubblico niente"
  ],
  "errori": [],
  "allineato": true,
- "richiesta": "2026-11-21-pesci",
  "media": [
   {
    "id": "17915949066480308",
    "timestamp": "2026-11-21T16:32:23+0000",
    "media_product_type": "FEED",
    "media_type": "CAROUSEL_ALBUM",
-   "like_count": 4,
+   "like_count": 5,
    "comments_count": 0,
    "permalink": "https://www.instagram.com/p/DgAqsCmjb6D/"
   },
@@ -998,5 +997,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-11-21T19:31:18Z"
+ "media_letti": "2026-11-21T20:59:56Z"
 }
