@@ -474,6 +474,11 @@
    "eseguita": "2026-11-21T16:31:38Z",
    "id": 119,
    "slot": "post"
+  },
+  "2026-11-21-pesci": {
+   "eseguita": "2026-11-21T19:31:18Z",
+   "id": 119,
+   "slot": "storia"
   }
  },
  "72": {
@@ -914,6 +919,9 @@
   "media_id": "17915949066480308",
   "permalink": "https://www.instagram.com/p/DgAqsCmjb6D/",
   "pubblicato": "2026-11-21T16:32:23+0000",
-  "pubblicato_da": "GitHub Actions"
+  "pubblicato_da": "GitHub Actions",
+  "storie": {
+   "0": "17920779429522177"
+  }
  }
 }
