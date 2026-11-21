@@ -1,7 +1,7 @@
 {
- "ultimo_giro": "2026-11-21T00:04:20Z",
- "evento": "schedule",
- "slot": "storia",
+ "ultimo_giro": "2026-11-21T16:31:38Z",
+ "evento": "push",
+ "slot": "post",
  "dry_run": false,
  "token_ok": true,
  "account": {
@@ -10,10 +10,11 @@
   "media_count": 108
  },
  "azioni": [
-  "giro fuori finestra (00:04Z): non pubblico niente"
+  "119: pubblicato https://www.instagram.com/p/DgAqsCmjb6D/"
  ],
  "errori": [],
  "allineato": true,
+ "richiesta": "2026-11-21-caro119",
  "media": [
   {
    "id": "18358026256168164",
@@ -988,5 +989,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-11-21T00:04:20Z"
+ "media_letti": "2026-11-21T16:31:38Z"
 }
