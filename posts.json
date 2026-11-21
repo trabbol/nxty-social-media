@@ -3397,6 +3397,33 @@
     }
    ],
    "preparato": "2026-11-20 (due giorni di scorta, campagna «Per chi verrà»; testi scritti prima nel documento, rev 70)"
+  },
+  {
+   "id": 121,
+   "data": "2026-11-23",
+   "giorno": "Lunedì",
+   "ora": "17:30",
+   "tipo": "reel",
+   "trial_reel": false,
+   "share_to_feed": true,
+   "serie": "Il vocale della nonna",
+   "episodio": 17,
+   "tema": "direttive 32 e 43 - campagna «Per chi verrà»: la nonna ti manda un vocale mentre fa le prime castagne; prima il taglio a croce, se no scoppiano; si sente la padella bucata che scoppietta sul fuoco; quando si apre il taglio sono pronte; poi le chiude nel panno, così la buccia viene via; e te le pulisce lei, come a sei anni: ti passa un saper fare di casa; chiusura «per me hai sempre sei anni»",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "video": "posts/daily/reel_1123_121.mp4",
+   "durata_s": 11.8,
+   "audio": "originale (audio_1123.py): tema della serie + la padella delle castagne (crepitio del fuoco, tre scoppi secchi, la padella scossa due volte con le castagne che rotolano sul ferro, altri due scoppi), pad abbassato",
+   "caption": "Anche tua nonna ti pulisce ancora le castagne?\n\nLa nonna ti manda un vocale mentre fa le prime castagne: prima il taglio a croce, se no scoppiano. Poi più di cinque minuti di padella sul fuoco. «Quando si apre il taglio, sono pronte. Poi le chiudo nel panno. Così la buccia viene via. Io te le pulisco, come a sei anni.»\n\nSedici minuti e cinquantasette secondi per dire «per me hai sempre sei anni».\n\nIl taglio a croce te lo ha già insegnato. La sua voce che te lo spiega, quella, tienila. NXTY parte da lì.\n\n🌍 EN\n\nDoes your grandma still peel your chestnuts for you?\n\nGrandma sends you a voice note while she roasts the first chestnuts of the year: first the cross cut, or they burst. Then over five minutes of the pan on the fire. \"When the cut opens, they're ready. Then I wrap them in a cloth. That way the skin comes off. I peel them for you, like when you were six.\"\n\nSixteen minutes and fifty-seven seconds to say \"to me you're still six\".\n\nShe already taught you the cross cut. Her voice explaining it is the part worth keeping. That's where NXTY starts.\n\n#NXTY #NextToYou #PersoneCare #nonna #castagne",
+   "pubblica_auto": true,
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "castagne",
+     "file": "stories/daily/1123_2030_castagne.jpg",
+     "nota": "amplifica scura con il fotogramma a 8,6 s (trascrizione completa), «E tu cosa le rispondi?» e «Rispondi a questa storia», niente adesivi (batch_1123.py, riscritto e controllato prima del lancio); ora solare: riserva alle 19:30Z"
+    }
+   ],
+   "preparato": "2026-11-21 (due giorni di scorta, campagna «Per chi verrà»)"
   }
  ]
 }
