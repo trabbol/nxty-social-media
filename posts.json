@@ -3359,7 +3359,10 @@
      "ora": "20:30",
      "nome": "pesci",
      "file": "stories/daily/1121_2030_pesci.jpg",
-     "nota": "amplifica scura con la copertina del carosello, «Altre sei frasi. Quale ti è scappata questa settimana?» e «Rispondi a questa storia», niente adesivi (batch_1121.py, riscritto e controllato prima del lancio); ora solare: riserva alle 19:30Z"
+     "nota": "amplifica scura con la copertina del carosello, «Altre sei frasi. Quale ti è scappata questa settimana?» e «Rispondi a questa storia», niente adesivi (batch_1121.py, riscritto e controllato prima del lancio); ora solare: riserva alle 19:30Z",
+     "story_id": "17920779429522177",
+     "pubblicata": "2026-11-21T19:31:18Z",
+     "pubblicata_da": "GitHub Actions (richiesta.json 2026-11-21-pesci)"
     }
    ],
    "preparato": "2026-11-19 (due giorni di scorta, campagna «Per chi verrà»)",
