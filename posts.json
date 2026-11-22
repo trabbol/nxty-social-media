@@ -3401,7 +3401,10 @@
      "ora": "20:30",
      "nome": "sacchetti",
      "file": "stories/daily/1122_2030_sacchetti.jpg",
-     "nota": "amplifica scura con la copertina del carosello, la domanda nuova del documento «Cosa avete preso da lei senza accorgervene?» e «Rispondi a questa storia», niente adesivi (batch_1122.py, riscritto e controllato prima del lancio); ora solare: riserva alle 19:30Z"
+     "nota": "amplifica scura con la copertina del carosello, la domanda nuova del documento «Cosa avete preso da lei senza accorgervene?» e «Rispondi a questa storia», niente adesivi (batch_1122.py, riscritto e controllato prima del lancio); ora solare: riserva alle 19:30Z",
+     "story_id": "17957261163291838",
+     "pubblicata": "2026-11-22T19:31:50Z",
+     "pubblicata_da": "GitHub Actions (richiesta.json 2026-11-22-sacchetti)"
     }
    ],
    "preparato": "2026-11-20 (due giorni di scorta, campagna «Per chi verrà»; testi scritti prima nel documento, rev 70)",
