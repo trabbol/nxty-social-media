@@ -3432,6 +3432,40 @@
     }
    ],
    "preparato": "2026-11-21 (due giorni di scorta, campagna «Per chi verrà»)"
+  },
+  {
+   "id": 122,
+   "data": "2026-11-24",
+   "giorno": "Martedì",
+   "ora": "17:30",
+   "tipo": "carosello",
+   "serie": "Le domande da fare ai nonni",
+   "episodio": 5,
+   "tema": "direttiva 43 - campagna «Per chi verrà»: chi riceve chiede, chi lascia racconta; altre sei domande (chi ti ha insegnato a leggere, la strada per la scuola, il nascondiglio, la collezione, cosa ti faceva ridere fino alle lacrime, la prima fotografia), ognuna con la domanda che viene dopo, tutte senza genere e senza lutto; sottotitolo «Altre sei domande. Una per pranzo, fino a Natale.»; testi dal documento della campagna, rev 71",
+   "slide": [
+    "posts/daily/caro_1124_122_s1.jpg",
+    "posts/daily/caro_1124_122_s2.jpg",
+    "posts/daily/caro_1124_122_s3.jpg",
+    "posts/daily/caro_1124_122_s4.jpg",
+    "posts/daily/caro_1124_122_s5.jpg",
+    "posts/daily/caro_1124_122_s6.jpg",
+    "posts/daily/caro_1124_122_s7.jpg",
+    "posts/daily/caro_1124_122_s8.jpg"
+   ],
+   "formato": "8 slide 1080x1350 (copertina su crema con occhiello EPISODIO 5 e la fila dei sei numeri, 6 domande su crema con il numero e «E poi:», chiusura su fondo scuro con logo)",
+   "modello": "tools/caro_1124.py",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "caption": "Sei domande nuove da fare ai nonni. Una per pranzo, fino a Natale.\n\nChi ha insegnato loro a leggere. Com'era la strada per la scuola. Qual era il loro nascondiglio, e se c'è ancora. E l'ultima: «Qual è la prima fotografia che ti hanno fatto?». Poi, piano: chi l'ha scattata?\n\nFanne una a ogni pranzo da qui a Natale, con il telefono sul tavolo, se sono d'accordo. Quelle risposte non stanno scritte da nessuna parte; la loro voce resta, per chi verrà. NXTY parte da lì.\n\n🌍 EN\n\nSix new questions to ask your grandparents. One per family lunch, until Christmas.\n\nWho taught them to read. What the way to school was like. Where their hiding place was, and whether it's still there. And the last one: \"What's the first photo ever taken of you?\". Then, gently: who took it?\n\nAsk one at every lunch from now to Christmas, with your phone on the table, if they're happy with it. Those answers aren't written down anywhere; their voice stays, for those who will come. That's where NXTY starts.\n\n#NXTY #NextToYou #PersoneCare #nonni #famiglia",
+   "pubblica_auto": true,
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "nascondiglio",
+     "file": "stories/daily/1124_2030_nascondiglio.jpg",
+     "nota": "amplifica scura con la copertina del carosello, «Altre sei domande per i nonni. Quale non hai mai fatto?» e «Rispondi a questa storia con il numero», niente adesivi (batch_1124.py, riscritto e controllato prima del lancio); ora solare: riserva alle 19:30Z"
+    }
+   ],
+   "preparato": "2026-11-22 (due giorni di scorta, campagna «Per chi verrà»; testi scritti prima nel documento, rev 71)"
   }
  ]
 }
