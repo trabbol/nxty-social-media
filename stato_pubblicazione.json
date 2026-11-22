@@ -1,26 +1,27 @@
 {
- "ultimo_giro": "2026-11-21T23:30:23Z",
- "evento": "schedule",
- "slot": "storia",
+ "ultimo_giro": "2026-11-22T16:31:14Z",
+ "evento": "push",
+ "slot": "post",
  "dry_run": false,
  "token_ok": true,
  "account": {
   "username": "nxty_app",
-  "followers_count": 56,
+  "followers_count": 55,
   "media_count": 110
  },
  "azioni": [
-  "giro fuori finestra (23:30Z): non pubblico niente"
+  "120: pubblicato https://www.instagram.com/p/DgDPb0OF947/"
  ],
  "errori": [],
  "allineato": true,
+ "richiesta": "2026-11-22-caro120",
  "media": [
   {
    "id": "17915949066480308",
    "timestamp": "2026-11-21T16:32:23+0000",
    "media_product_type": "FEED",
    "media_type": "CAROUSEL_ALBUM",
-   "like_count": 5,
+   "like_count": 6,
    "comments_count": 0,
    "permalink": "https://www.instagram.com/p/DgAqsCmjb6D/"
   },
@@ -997,5 +998,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-11-21T23:30:23Z"
+ "media_letti": "2026-11-22T16:31:14Z"
 }
