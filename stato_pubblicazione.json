@@ -1,21 +1,30 @@
 {
- "ultimo_giro": "2026-11-22T16:31:14Z",
+ "ultimo_giro": "2026-11-22T19:31:50Z",
  "evento": "push",
- "slot": "post",
+ "slot": "storia",
  "dry_run": false,
  "token_ok": true,
  "account": {
   "username": "nxty_app",
   "followers_count": 55,
-  "media_count": 110
+  "media_count": 112
  },
  "azioni": [
-  "120: pubblicato https://www.instagram.com/p/DgDPb0OF947/"
+  "120: storia pubblicata (17957261163291838)"
  ],
  "errori": [],
  "allineato": true,
- "richiesta": "2026-11-22-caro120",
+ "richiesta": "2026-11-22-sacchetti",
  "media": [
+  {
+   "id": "18123322993951809",
+   "timestamp": "2026-11-22T16:32:06+0000",
+   "media_product_type": "FEED",
+   "media_type": "CAROUSEL_ALBUM",
+   "like_count": 2,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/p/DgDPb0OF947/"
+  },
   {
    "id": "17915949066480308",
    "timestamp": "2026-11-21T16:32:23+0000",
@@ -998,5 +1007,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-11-22T16:31:14Z"
+ "media_letti": "2026-11-22T19:31:50Z"
 }
