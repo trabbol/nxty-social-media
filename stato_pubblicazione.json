@@ -1,7 +1,7 @@
 {
- "ultimo_giro": "2026-11-22T23:41:54Z",
- "evento": "schedule",
- "slot": "storia",
+ "ultimo_giro": "2026-11-23T16:31:09Z",
+ "evento": "push",
+ "slot": "post",
  "dry_run": false,
  "token_ok": true,
  "account": {
@@ -10,17 +10,18 @@
   "media_count": 112
  },
  "azioni": [
-  "giro fuori finestra (23:41Z): non pubblico niente"
+  "121: pubblicato https://www.instagram.com/reel/DgF0KJ_IgmC/"
  ],
  "errori": [],
  "allineato": true,
+ "richiesta": "2026-11-23-reel121",
  "media": [
   {
    "id": "18123322993951809",
    "timestamp": "2026-11-22T16:32:06+0000",
    "media_product_type": "FEED",
    "media_type": "CAROUSEL_ALBUM",
-   "like_count": 3,
+   "like_count": 4,
    "comments_count": 0,
    "permalink": "https://www.instagram.com/p/DgDPb0OF947/"
   },
@@ -1006,5 +1007,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-11-22T23:41:54Z"
+ "media_letti": "2026-11-23T16:31:09Z"
 }
