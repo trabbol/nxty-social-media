@@ -494,6 +494,11 @@
    "eseguita": "2026-11-23T16:31:09Z",
    "id": 121,
    "slot": "post"
+  },
+  "2026-11-23-castagne": {
+   "eseguita": "2026-11-23T19:30:55Z",
+   "id": 121,
+   "slot": "storia"
   }
  },
  "72": {
@@ -952,6 +957,9 @@
   "media_id": "18407613124205897",
   "permalink": "https://www.instagram.com/reel/DgF0KJ_IgmC/",
   "pubblicato": "2026-11-23T16:31:50+0000",
-  "pubblicato_da": "GitHub Actions"
+  "pubblicato_da": "GitHub Actions",
+  "storie": {
+   "0": "18080299850727248"
+  }
  }
 }
