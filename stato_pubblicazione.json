@@ -1,21 +1,30 @@
 {
- "ultimo_giro": "2026-11-24T16:31:21Z",
+ "ultimo_giro": "2026-11-24T19:31:01Z",
  "evento": "push",
- "slot": "post",
+ "slot": "storia",
  "dry_run": false,
  "token_ok": true,
  "account": {
   "username": "nxty_app",
-  "followers_count": 54,
-  "media_count": 113
+  "followers_count": 55,
+  "media_count": 115
  },
  "azioni": [
-  "122: pubblicato https://www.instagram.com/p/DgIZBx6IPkf/"
+  "122: storia pubblicata (18041417552847584)"
  ],
  "errori": [],
  "allineato": true,
- "richiesta": "2026-11-24-caro122",
+ "richiesta": "2026-11-24-nascondiglio",
  "media": [
+  {
+   "id": "18136643044686373",
+   "timestamp": "2026-11-24T16:32:00+0000",
+   "media_product_type": "FEED",
+   "media_type": "CAROUSEL_ALBUM",
+   "like_count": 2,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/p/DgIZBx6IPkf/"
+  },
   {
    "id": "18407613124205897",
    "timestamp": "2026-11-23T16:31:50+0000",
@@ -1016,5 +1025,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-11-24T16:31:21Z"
+ "media_letti": "2026-11-24T19:31:01Z"
 }
