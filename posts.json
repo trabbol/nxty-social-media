@@ -3509,6 +3509,33 @@
     }
    ],
    "preparato": "2026-11-23 (due giorni di scorta, campagna «Per chi verrà»)"
+  },
+  {
+   "id": 124,
+   "data": "2026-11-26",
+   "giorno": "Giovedì",
+   "ora": "17:30",
+   "tipo": "reel",
+   "trial_reel": false,
+   "share_to_feed": true,
+   "serie": "Per chi verrà",
+   "episodio": 10,
+   "tema": "direttiva 43 - campagna «Per chi verrà»: Elena, 50 anni, registra per il figlio Pietro, 18 anni, che oggi ha guidato per la prima volta nel parcheggio del supermercato (lei ha frenato tutto il tempo, dal posto del passeggero); trentuno anni dopo Pietro, 49 anni, le risponde che oggi sua figlia ha guidato per la prima volta e le ripete le stesse parole: la risposta fa eco; testi scritti prima nel documento della campagna (rev 72 del 24/11); riga «Una storia immaginata»",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "video": "posts/daily/reel_1126_124.mp4",
+   "durata_s": 15.9,
+   "audio": "originale della serie (audio_1126.py: pad in Re che passa a Sol, i tic del contatore per i 31 anni, tutti tenuti (distanza minima 17 ms), eco sulle quattro righe della risposta, arpeggio del cartello; suono nuovo per la serie: la freccia della macchina, tre scatti del relè sulla seconda riga delle due schede)",
+   "caption": "Registrato nel 2026. Ascoltato nel 2057.\n\nElena ha 50 anni e oggi suo figlio Pietro, 18 anni, ha guidato per la prima volta, nel parcheggio del supermercato. Lei gli registra un messaggio, e confessa: ha frenato tutto il tempo, dal posto del passeggero.\n\nTrentuno anni dopo Pietro le risponde: oggi sua figlia ha guidato per la prima volta, e adesso è lui a frenare dal posto del passeggero.\n\nCerte cose si tramandano solo a voce. NXTY è fatta per tenerla, per chi verrà.\n\nUna storia immaginata.\n\n🌍 EN\n\nRecorded in 2026. Heard in 2057.\n\nElena is 50, and today her son Pietro, who is 18, drove for the first time, in the supermarket parking lot. She records a message for him, and confesses: she was braking the whole time, from the passenger seat.\n\nThirty-one years later Pietro answers her: today his daughter drove for the first time, and now he is the one braking from the passenger seat.\n\nSome things are only passed down by voice. NXTY is made to keep it, for those who will come.\n\nAn imagined story.\n\n#NXTY #NextToYou #PersoneCare #famiglia #mamma",
+   "pubblica_auto": true,
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "freno",
+     "file": "stories/daily/1126_2030_freno.jpg",
+     "nota": "amplifica scura con il fotogramma a 12,8 s (le due schede complete), domanda nuova della campagna, senza genere, «Chi frenava al posto tuo, la prima volta?» con «Rispondi a questa storia», niente adesivi (batch_1126.py, riscritto e controllato prima del lancio); ora solare: riserva alle 19:30Z"
+    }
+   ],
+   "preparato": "2026-11-24 (due giorni di scorta, campagna «Per chi verrà»; testi scritti prima nel documento, rev 72)"
   }
  ]
 }
