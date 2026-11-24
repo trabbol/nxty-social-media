@@ -1,7 +1,7 @@
 {
- "ultimo_giro": "2026-11-24T03:59:51Z",
- "evento": "schedule",
- "slot": "storia",
+ "ultimo_giro": "2026-11-24T16:31:21Z",
+ "evento": "push",
+ "slot": "post",
  "dry_run": false,
  "token_ok": true,
  "account": {
@@ -10,10 +10,11 @@
   "media_count": 113
  },
  "azioni": [
-  "giro fuori finestra (03:59Z): non pubblico niente"
+  "122: pubblicato https://www.instagram.com/p/DgIZBx6IPkf/"
  ],
  "errori": [],
  "allineato": true,
+ "richiesta": "2026-11-24-caro122",
  "media": [
   {
    "id": "18407613124205897",
@@ -1015,5 +1016,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-11-24T03:59:51Z"
+ "media_letti": "2026-11-24T16:31:21Z"
 }
