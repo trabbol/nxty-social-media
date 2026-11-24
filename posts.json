@@ -3478,7 +3478,10 @@
      "ora": "20:30",
      "nome": "nascondiglio",
      "file": "stories/daily/1124_2030_nascondiglio.jpg",
-     "nota": "amplifica scura con la copertina del carosello, «Altre sei domande per i nonni. Quale non hai mai fatto?» e «Rispondi a questa storia con il numero», niente adesivi (batch_1124.py, riscritto e controllato prima del lancio); ora solare: riserva alle 19:30Z"
+     "nota": "amplifica scura con la copertina del carosello, «Altre sei domande per i nonni. Quale non hai mai fatto?» e «Rispondi a questa storia con il numero», niente adesivi (batch_1124.py, riscritto e controllato prima del lancio); ora solare: riserva alle 19:30Z",
+     "story_id": "18041417552847584",
+     "pubblicata": "2026-11-24T19:31:01Z",
+     "pubblicata_da": "GitHub Actions (richiesta.json 2026-11-24-nascondiglio)"
     }
    ],
    "preparato": "2026-11-22 (due giorni di scorta, campagna «Per chi verrà»; testi scritti prima nel documento, rev 71)",
