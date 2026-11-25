@@ -514,6 +514,11 @@
    "eseguita": "2026-11-25T16:32:05Z",
    "id": 123,
    "slot": "post"
+  },
+  "2026-11-25-ferramenta": {
+   "eseguita": "2026-11-25T19:31:41Z",
+   "id": 123,
+   "slot": "storia"
   }
  },
  "72": {
@@ -990,6 +995,9 @@
   "media_id": "18030931037916243",
   "permalink": "https://www.instagram.com/reel/DgK92PPBBvs/",
   "pubblicato": "2026-11-25T16:32:35+0000",
-  "pubblicato_da": "GitHub Actions"
+  "pubblicato_da": "GitHub Actions",
+  "storie": {
+   "0": "18134060971837592"
+  }
  }
 }
