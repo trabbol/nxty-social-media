@@ -3513,7 +3513,10 @@
      "ora": "20:30",
      "nome": "ferramenta",
      "file": "stories/daily/1125_2030_ferramenta.jpg",
-     "nota": "amplifica scura con il fotogramma a 8,6 s (trascrizione completa), «E tu cosa le rispondi?» e «Rispondi a questa storia», niente adesivi (batch_1125.py, riscritto e controllato prima del lancio); ora solare: riserva alle 19:30Z"
+     "nota": "amplifica scura con il fotogramma a 8,6 s (trascrizione completa), «E tu cosa le rispondi?» e «Rispondi a questa storia», niente adesivi (batch_1125.py, riscritto e controllato prima del lancio); ora solare: riserva alle 19:30Z",
+     "story_id": "18134060971837592",
+     "pubblicata": "2026-11-25T19:31:41Z",
+     "pubblicata_da": "GitHub Actions (richiesta.json 2026-11-25-ferramenta)"
     }
    ],
    "preparato": "2026-11-23 (due giorni di scorta, campagna «Per chi verrà»)",
