@@ -1,7 +1,7 @@
 {
- "ultimo_giro": "2026-11-24T19:31:01Z",
- "evento": "push",
- "slot": "storia",
+ "ultimo_giro": "2026-11-25T00:01:57Z",
+ "evento": "schedule",
+ "slot": "post",
  "dry_run": false,
  "token_ok": true,
  "account": {
@@ -10,18 +10,17 @@
   "media_count": 115
  },
  "azioni": [
-  "122: storia pubblicata (18041417552847584)"
+  "giro fuori finestra (00:01Z): non pubblico niente"
  ],
  "errori": [],
  "allineato": true,
- "richiesta": "2026-11-24-nascondiglio",
  "media": [
   {
    "id": "18136643044686373",
    "timestamp": "2026-11-24T16:32:00+0000",
    "media_product_type": "FEED",
    "media_type": "CAROUSEL_ALBUM",
-   "like_count": 2,
+   "like_count": 4,
    "comments_count": 0,
    "permalink": "https://www.instagram.com/p/DgIZBx6IPkf/"
   },
@@ -1025,5 +1024,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-11-24T19:31:01Z"
+ "media_letti": "2026-11-25T00:01:57Z"
 }
