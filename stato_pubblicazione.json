@@ -1,21 +1,30 @@
 {
- "ultimo_giro": "2026-11-26T16:31:09Z",
+ "ultimo_giro": "2026-11-26T19:31:36Z",
  "evento": "push",
- "slot": "post",
+ "slot": "storia",
  "dry_run": false,
  "token_ok": true,
  "account": {
   "username": "nxty_app",
   "followers_count": 55,
-  "media_count": 116
+  "media_count": 117
  },
  "azioni": [
-  "124: pubblicato https://www.instagram.com/reel/DgNiifQTjgy/"
+  "124: storia pubblicata (18078939839470862)"
  ],
  "errori": [],
  "allineato": true,
- "richiesta": "2026-11-26-reel124",
+ "richiesta": "2026-11-26-freno",
  "media": [
+  {
+   "id": "18127871440911222",
+   "timestamp": "2026-11-26T16:31:39+0000",
+   "media_product_type": "REELS",
+   "media_type": "VIDEO",
+   "like_count": 3,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/reel/DgNiifQTjgy/"
+  },
   {
    "id": "18030931037916243",
    "timestamp": "2026-11-25T16:32:35+0000",
@@ -30,7 +39,7 @@
    "timestamp": "2026-11-24T16:32:00+0000",
    "media_product_type": "FEED",
    "media_type": "CAROUSEL_ALBUM",
-   "like_count": 5,
+   "like_count": 6,
    "comments_count": 0,
    "permalink": "https://www.instagram.com/p/DgIZBx6IPkf/"
   },
@@ -93,7 +102,7 @@
    "timestamp": "2026-11-17T16:32:02+0000",
    "media_product_type": "FEED",
    "media_type": "CAROUSEL_ALBUM",
-   "like_count": 4,
+   "like_count": 5,
    "comments_count": 0,
    "permalink": "https://www.instagram.com/p/Df2Xc2yl3jk/"
   },
@@ -120,7 +129,7 @@
    "timestamp": "2026-11-14T16:32:56+0000",
    "media_product_type": "FEED",
    "media_type": "CAROUSEL_ALBUM",
-   "like_count": 5,
+   "like_count": 6,
    "comments_count": 0,
    "permalink": "https://www.instagram.com/p/DfupK1ZoB_S/"
   },
@@ -1034,5 +1043,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-11-26T16:31:09Z"
+ "media_letti": "2026-11-26T19:31:36Z"
 }
