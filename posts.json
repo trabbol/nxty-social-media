@@ -3579,6 +3579,40 @@
     }
    ],
    "preparato": "2026-11-25 (due giorni di scorta, campagna «Per chi verrà»; testi scritti prima nel documento, rev 73; nessun video girato è arrivato)"
+  },
+  {
+   "id": 126,
+   "data": "2026-11-28",
+   "giorno": "Sabato",
+   "ora": "17:30",
+   "tipo": "carosello",
+   "serie": "Le frasi che giuravi di non dire",
+   "episodio": 9,
+   "tema": "direttive 32 e 43 - campagna «Per chi verrà»: le frasi dei genitori come prima eredità, che adesso dici tu (ep. 9, l'ultimo settimanale prima dei sabati alterni di dicembre, sottotitolo «Altre sei. Ormai le dici senza pensarci.», chiude con «Non ci sono più le mezze stagioni.» firmato da tre generazioni); chiusura fissa della serie sulla voce da tenere",
+   "slide": [
+    "posts/daily/caro_1128_126_s1.jpg",
+    "posts/daily/caro_1128_126_s2.jpg",
+    "posts/daily/caro_1128_126_s3.jpg",
+    "posts/daily/caro_1128_126_s4.jpg",
+    "posts/daily/caro_1128_126_s5.jpg",
+    "posts/daily/caro_1128_126_s6.jpg",
+    "posts/daily/caro_1128_126_s7.jpg",
+    "posts/daily/caro_1128_126_s8.jpg"
+   ],
+   "formato": "8 slide 1080x1350 (copertina notte con occhiello EPISODIO 9, 6 frasi su crema, chiusura notte con logo)",
+   "modello": "tools/caro_1128.py",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "caption": "Ormai le dici senza pensarci.\n\nEsci la mattina con il cappotto pesante, a mezzogiorno lo porti in mano, e ti senti dire: «non ci sono più le mezze stagioni». La diceva tuo padre, e a lui la diceva tuo nonno. E tu, a quindici anni, ridevi e giuravi che non l'avresti mai detta.\n\nCerte frasi arrivano da sole, come il freddo. La voce con cui te le dicevano, invece, va tenuta da parte, per chi verrà. NXTY parte da lì.\n\n🌍 EN\n\nBy now you say them without thinking.\n\nYou leave in the morning in your heavy coat, by noon you're carrying it, and you hear yourself say: \"there are no in-between seasons anymore\". Your father used to say it, and his father said it to him. And at fifteen you laughed and swore you'd never say it.\n\nSome phrases arrive on their own, like the cold. The voice they were said in is worth keeping, for those who will come. That's where NXTY starts.\n\n#NXTY #NextToYou #PersoneCare #genitori #famiglia",
+   "pubblica_auto": true,
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "stagioni",
+     "file": "stories/daily/1128_2030_stagioni.jpg",
+     "nota": "amplifica scura con la copertina del carosello, «Altre sei frasi. Quale ti esce più spesso?» e «Rispondi a questa storia», niente adesivi (batch_1128.py, riscritto e controllato prima del lancio); ora solare: riserva alle 19:30Z"
+    }
+   ],
+   "preparato": "2026-11-26 (due giorni di scorta, campagna «Per chi verrà»)"
   }
  ]
 }
