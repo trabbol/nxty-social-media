@@ -1,7 +1,7 @@
 {
- "ultimo_giro": "2026-11-26T19:31:36Z",
- "evento": "push",
- "slot": "storia",
+ "ultimo_giro": "2026-11-26T23:57:45Z",
+ "evento": "schedule",
+ "slot": "post",
  "dry_run": false,
  "token_ok": true,
  "account": {
@@ -10,18 +10,17 @@
   "media_count": 117
  },
  "azioni": [
-  "124: storia pubblicata (18078939839470862)"
+  "giro fuori finestra (23:57Z): non pubblico niente"
  ],
  "errori": [],
  "allineato": true,
- "richiesta": "2026-11-26-freno",
  "media": [
   {
    "id": "18127871440911222",
    "timestamp": "2026-11-26T16:31:39+0000",
    "media_product_type": "REELS",
    "media_type": "VIDEO",
-   "like_count": 3,
+   "like_count": 4,
    "comments_count": 0,
    "permalink": "https://www.instagram.com/reel/DgNiifQTjgy/"
   },
@@ -1043,5 +1042,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-11-26T19:31:36Z"
+ "media_letti": "2026-11-26T23:57:45Z"
 }
