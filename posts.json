@@ -3621,6 +3621,40 @@
     }
    ],
    "preparato": "2026-11-26 (due giorni di scorta, campagna «Per chi verrà»)"
+  },
+  {
+   "id": 127,
+   "data": "2026-11-29",
+   "giorno": "Domenica",
+   "ora": "17:30",
+   "tipo": "carosello",
+   "serie": "L'eredità che non si divide",
+   "episodio": 4,
+   "tema": "direttive 32 e 43 - campagna «Per chi verrà»: sei cose che i figli prendono intere dalla madre, al presente e con i genitori vivi, niente notaio (ep. 4, sottotitolo «Altre sei. Ognuno ne ha una copia, intera.»; testi anche nel documento della campagna, rev 75: il caffè bevuto in piedi, la borsa dove c'è di tutto, gli asciugamani piegati in tre, il cappotto sulle spalle, mai a mani vuote a casa d'altri, l'abbraccio che dura un secondo in più)",
+   "slide": [
+    "posts/daily/caro_1129_127_s1.jpg",
+    "posts/daily/caro_1129_127_s2.jpg",
+    "posts/daily/caro_1129_127_s3.jpg",
+    "posts/daily/caro_1129_127_s4.jpg",
+    "posts/daily/caro_1129_127_s5.jpg",
+    "posts/daily/caro_1129_127_s6.jpg",
+    "posts/daily/caro_1129_127_s7.jpg",
+    "posts/daily/caro_1129_127_s8.jpg"
+   ],
+   "formato": "8 slide 1080x1350 (copertina scura con occhiello EPISODIO 4 e la riga della quota, 6 cose su crema con «QUOTA ··· a ciascuno dei figli, per intero.», chiusura notte con logo)",
+   "modello": "tools/caro_1129.py",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "caption": "Ognuno di voi ne ha una copia, intera.\n\nIl pranzo della domenica, tutti a casa di uno di voi: il caffè lo bevete in piedi, appoggiati al lavello. Nessuno arriva a mani vuote. E quando ve ne andate, il cappotto finisce sulle spalle, senza infilare le maniche, a tutti quanti.\n\nL'avete preso da lei, per intero, e adesso lo fate a casa vostra. Non c'è niente da dividere. La sua voce, quella, tenetela da parte per chi verrà. NXTY è fatta per questo.\n\n🌍 EN\n\nEach of you has a copy, whole.\n\nSunday lunch, all of you at one of your homes: you drink your coffee standing up, leaning on the sink. Nobody arrives empty-handed. And when you leave, the coat ends up over your shoulders, sleeves empty, on every one of you.\n\nYou took it from her, whole, and now you do it at home. There's nothing to split. Her voice, though, is worth keeping for those who will come. That's what NXTY is for.\n\n#NXTY #NextToYou #PersoneCare #fratelli #famiglia",
+   "pubblica_auto": true,
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "abbraccio",
+     "file": "stories/daily/1129_2030_abbraccio.jpg",
+     "nota": "amplifica scura con la copertina del carosello, la domanda nuova scritta anche nel documento «Chi di voi le somiglia di più?» e «Rispondi a questa storia», niente adesivi (batch_1129.py, riscritto e controllato prima del lancio); ora solare: riserva alle 19:30Z, dopo la scadenza del token Meta delle 18:59Z: senza rinnovo non parte"
+    }
+   ],
+   "preparato": "2026-11-27 (due giorni di scorta, campagna «Per chi verrà»; testi anche nel documento, rev 75)"
   }
  ]
 }
