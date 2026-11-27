@@ -3583,7 +3583,10 @@
      "ora": "20:30",
      "nome": "gol",
      "file": "stories/daily/1127_2030_gol.jpg",
-     "nota": "amplifica scura con il fotogramma a 12,8 s (le due schede complete), domanda nuova della campagna, senza genere, «Chi urlava per te, a bordo campo?» con «Rispondi a questa storia», niente adesivi (batch_1127.py, riscritto e controllato prima del lancio); ora solare: riserva alle 19:30Z"
+     "nota": "amplifica scura con il fotogramma a 12,8 s (le due schede complete), domanda nuova della campagna, senza genere, «Chi urlava per te, a bordo campo?» con «Rispondi a questa storia», niente adesivi (batch_1127.py, riscritto e controllato prima del lancio); ora solare: riserva alle 19:30Z",
+     "story_id": "18109376684636654",
+     "pubblicata": "2026-11-27T19:31:36Z",
+     "pubblicata_da": "GitHub Actions (richiesta.json 2026-11-27-gol)"
     }
    ],
    "preparato": "2026-11-25 (due giorni di scorta, campagna «Per chi verrà»; testi scritti prima nel documento, rev 73; nessun video girato è arrivato)",
