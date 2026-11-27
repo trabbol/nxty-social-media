@@ -28,7 +28,7 @@ Tutti i contenuti vengono dal sito attuale (grecosgomberi.it): servizi, FAQ, sto
 | Mobile | Barra fissa Chiama / WhatsApp / Preventivo, pulsante WhatsApp flottante su desktop | Il contatto è sempre a un tocco |
 | Chiusura | Blocco "Ti richiamiamo noi" | Recupera chi non vuole compilare |
 
-Identità visiva: ripresi dalla livrea dei mezzi il giallo ocra, la ruggine e il nero, insieme al logo con il Duomo. Le "onde" della fiancata dei furgoni diventano un motivo grafico ricorrente. I font sono Bricolage Grotesque per i titoli e Manrope per il testo.
+Identità visiva: dalla livrea dei mezzi riprendo il giallo e il nero, insieme al logo con il Duomo. Stile v2: impostazione industriale da scheda tecnica, con griglie a filo, angoli vivi e blocchi pieni giallo e nero. Font: Archivo Expanded per i titoli, Geist per il testo, Geist Mono per dati ed etichette.
 
 ## Da verificare con il cliente prima di andare live
 
