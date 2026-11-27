@@ -534,6 +534,11 @@
    "eseguita": "2026-11-27T16:31:07Z",
    "id": 125,
    "slot": "post"
+  },
+  "2026-11-27-gol": {
+   "eseguita": "2026-11-27T19:31:36Z",
+   "id": 125,
+   "slot": "storia"
   }
  },
  "72": {
@@ -1028,6 +1033,9 @@
   "media_id": "18146449969721700",
   "permalink": "https://www.instagram.com/reel/DgQHVPxTu8L/",
   "pubblicato": "2026-11-27T16:31:39+0000",
-  "pubblicato_da": "GitHub Actions"
+  "pubblicato_da": "GitHub Actions",
+  "storie": {
+   "0": "18109376684636654"
+  }
  }
 }

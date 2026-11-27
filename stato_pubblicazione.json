@@ -1,27 +1,36 @@
 {
- "ultimo_giro": "2026-11-27T16:31:07Z",
+ "ultimo_giro": "2026-11-27T19:31:36Z",
  "evento": "push",
- "slot": "post",
+ "slot": "storia",
  "dry_run": false,
  "token_ok": true,
  "account": {
   "username": "nxty_app",
   "followers_count": 54,
-  "media_count": 117
+  "media_count": 118
  },
  "azioni": [
-  "125: pubblicato https://www.instagram.com/reel/DgQHVPxTu8L/"
+  "125: storia pubblicata (18109376684636654)"
  ],
  "errori": [],
  "allineato": true,
- "richiesta": "2026-11-27-reel125",
+ "richiesta": "2026-11-27-gol",
  "media": [
+  {
+   "id": "18146449969721700",
+   "timestamp": "2026-11-27T16:31:39+0000",
+   "media_product_type": "REELS",
+   "media_type": "VIDEO",
+   "like_count": 3,
+   "comments_count": 0,
+   "permalink": "https://www.instagram.com/reel/DgQHVPxTu8L/"
+  },
   {
    "id": "18127871440911222",
    "timestamp": "2026-11-26T16:31:39+0000",
    "media_product_type": "REELS",
    "media_type": "VIDEO",
-   "like_count": 4,
+   "like_count": 5,
    "comments_count": 0,
    "permalink": "https://www.instagram.com/reel/DgNiifQTjgy/"
   },
@@ -39,7 +48,7 @@
    "timestamp": "2026-11-24T16:32:00+0000",
    "media_product_type": "FEED",
    "media_type": "CAROUSEL_ALBUM",
-   "like_count": 6,
+   "like_count": 7,
    "comments_count": 0,
    "permalink": "https://www.instagram.com/p/DgIZBx6IPkf/"
   },
@@ -48,7 +57,7 @@
    "timestamp": "2026-11-23T16:31:50+0000",
    "media_product_type": "REELS",
    "media_type": "VIDEO",
-   "like_count": 5,
+   "like_count": 6,
    "comments_count": 0,
    "permalink": "https://www.instagram.com/reel/DgF0KJ_IgmC/"
   },
@@ -111,7 +120,7 @@
    "timestamp": "2026-11-16T16:32:21+0000",
    "media_product_type": "REELS",
    "media_type": "VIDEO",
-   "like_count": 4,
+   "like_count": 5,
    "comments_count": 0,
    "permalink": "https://www.instagram.com/reel/Dfzyp1DB72m/"
   },
@@ -1043,5 +1052,5 @@
    "permalink": "https://www.instagram.com/reel/DbfgdEysJYa/"
   }
  ],
- "media_letti": "2026-11-27T16:31:07Z"
+ "media_letti": "2026-11-27T19:31:36Z"
 }
