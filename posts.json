@@ -3663,6 +3663,33 @@
     }
    ],
    "preparato": "2026-11-27 (due giorni di scorta, campagna «Per chi verrà»; testi anche nel documento, rev 75)"
+  },
+  {
+   "id": 128,
+   "data": "2026-11-30",
+   "giorno": "Lunedì",
+   "ora": "17:30",
+   "tipo": "reel",
+   "trial_reel": false,
+   "share_to_feed": true,
+   "serie": "Il vocale della nonna",
+   "episodio": 19,
+   "tema": "direttive 32 e 43 - campagna «Per chi verrà»: la nonna ti manda un vocale: ti ha messo nella borsa tre barattoli di sugo e sa che non riesci mai ad aprirli; si sente il cucchiaio sul coperchio, poi il barattolo che si apre; non serve la forza, serve il cucchiaio; quando fa toc, è aperto; i barattoli vuoti glieli riporti: ti passa il trucco del cucchiaio per aprire i barattoli; chiusura «ci penso io»",
+   "hashtag_set": "CORE + 2 tematici (max 5)",
+   "video": "posts/daily/reel_1130_128.mp4",
+   "durata_s": 11.8,
+   "audio": "originale (audio_1130.py): tema della serie + il barattolo di sugo (quattro colpi del cucchiaio sul coperchio, la leva sotto il bordo, il toc del sottovuoto con l'aria che entra, il coperchio che gira, il barattolo posato sul tavolo), pad abbassato",
+   "caption": "Anche i barattoli di tua nonna non si aprono mai?\n\nLa nonna ti manda un vocale: ti ha messo nella borsa tre barattoli di sugo, e sa che non riesci mai ad aprirli. Poi più di sei minuti di coperchio. «Non serve la forza. Serve il cucchiaio. Quando fa toc, è aperto. I barattoli vuoti me li riporti.»\n\nDiciannove minuti e sette secondi per dire «ci penso io».\n\nIl sugo finisce in una settimana. La sua voce che ti insegna il trucco del cucchiaio, quella, tienila. NXTY parte da lì.\n\n🌍 EN\n\nDo your grandma's jars never open either?\n\nGrandma sends you a voice note: she's put three jars of her sauce in your bag, and she knows you can never get them open. Then over six minutes of lid. \"You don't need strength. You need a spoon. When it goes pop, it's open. Bring me back the empty jars.\"\n\nNineteen minutes and seven seconds to say \"I've got you\".\n\nThe sauce is gone in a week. Her voice teaching you the spoon trick is the part worth keeping. That's where NXTY starts.\n\n#NXTY #NextToYou #PersoneCare #nonna #sugodellanonna",
+   "pubblica_auto": true,
+   "storie": [
+    {
+     "ora": "20:30",
+     "nome": "coperchio",
+     "file": "stories/daily/1130_2030_coperchio.jpg",
+     "nota": "amplifica scura con il fotogramma a 8,6 s (trascrizione completa), «E tu cosa le rispondi?» e «Rispondi a questa storia», niente adesivi (batch_1130.py, riscritto e controllato prima del lancio); ora solare: riserva alle 19:30Z"
+    }
+   ],
+   "preparato": "2026-11-28 (due giorni di scorta, campagna «Per chi verrà»)"
   }
  ]
 }
